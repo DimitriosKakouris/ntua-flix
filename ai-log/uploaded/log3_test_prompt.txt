@@ -1,0 +1,93 @@
+Given this: 
+@app.route('/ntuaflix_api/admin/resetall',methods=['GET'])
+@jwt_required()
+@admin_required
+
+def resetall():
+    format_type = request.args.get('format', 'json')
+    with app.app_context():
+        try:
+            collection_users.drop()
+            collection_name_basics.drop()
+            collection_title_akas.drop()
+            collection_title_basics.drop()
+            collection_title_crew.drop()
+            collection_title_episode.drop()
+            collection_title_principals.drop()
+            collection_title_ratings.drop()
+            collection_name_test.drop()
+
+            
+            res = {"status": "ok"}
+            return format_handler_v(res,200,format_type)
+           
+        except Exception as e:
+            res = {"status": "failed", "message": str(e)}
+            return format_handler_v(res,500,format_type)
+
+Write a postman test script
+
+
+
+
+============================
+ChatGPT 
+
+
+
+Given the Flask route for an API endpoint you've described, which resets multiple collections in a database, you'll want to test the following scenarios using Postman:
+
+    Success Response: Verify that when an admin user with a valid JWT token calls the endpoint, the response is successful, and all specified collections are reset.
+    Error Handling: Check how the API responds to unexpected situations, such as database connection issues. This might be difficult to simulate without setting up specific conditions in your environment.
+    Authorization: Ensure that only users with admin privileges and a valid JWT token can access this endpoint.
+
+For these tests, you'll need a valid JWT token for an admin user. Assuming you have that, here is a Postman testing script you can adapt. This script primarily checks for the success scenario and status codes:
+
+javascript
+
+// Test for successful reset operation
+pm.test("Status code is 200 on successful reset", function () {
+    pm.response.to.have.status(200);
+});
+
+// Test for the response structure in case of success
+pm.test("Response structure is correct on success", function () {
+    let jsonData = pm.response.json();
+    pm.expect(jsonData).to.have.property('status');
+    pm.expect(jsonData.status).to.eql('ok');
+});
+
+// Test for failed operation due to server error (simulate or theoretical)
+pm.test("Status code is 500 on server error", function () {
+    // Assuming there's a way to simulate a server error, this checks for the 500 status code
+    // This test will need to be adjusted based on how you can trigger an error condition
+    if (pm.response.code === 500) {
+        let jsonData = pm.response.json();
+        pm.expect(jsonData).to.have.property('status');
+        pm.expect(jsonData.status).to.eql('failed');
+        pm.expect(jsonData).to.have.property('message');
+    }
+});
+
+// Optionally, if you have a way to verify the JWT and admin requirement via Postman tests:
+pm.test("Returns unauthorized without valid JWT token", function () {
+    // This assumes you've made a request without a JWT token or with an invalid one
+    // Adjust the expected status code based on your API's behavior (401 or 403 typically)
+    if (pm.response.code === 401 || pm.response.code === 403) {
+        let jsonData = pm.response.json();
+        pm.expect(jsonData).to.have.property('status');
+        pm.expect(jsonData.status).to.not.eql('ok');
+    }
+});
+
+Running the Tests:
+
+    Set up environment variables in Postman for your domain and JWT token to easily switch between different environments or tokens.
+    Send a request to your /ntuaflix_api/admin/resetall endpoint with the appropriate method (GET in this case) and include the JWT token in the request headers.
+    Observe the Test Results tab for outcomes of the executed tests.
+
+Important Notes:
+
+    This script includes a theoretical test for a 500 status code, assuming you can simulate a server error. Adjust this as needed based on your ability to test error conditions.
+    The unauthorized test is also theoretical, based on the expectation that you're testing with and without valid JWT tokens. Adjust the expected status codes based on your API's implementation.
+    You'll need to manually change conditions to test different scenarios, as Postman scripts run based on the response of the current request only.

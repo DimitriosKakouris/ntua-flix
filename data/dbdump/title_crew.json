@@ -1,0 +1,4000 @@
+[{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad58"
+  },
+  "tconst": "tt0000929",
+  "directors": "nm0093361",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad59"
+  },
+  "tconst": "tt0000977",
+  "directors": "\\N",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad5a"
+  },
+  "tconst": "tt0015414",
+  "directors": "nm0615736",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad5b"
+  },
+  "tconst": "tt0015724",
+  "directors": "nm0529960",
+  "writers": "nm0529960,nm1597742"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad5c"
+  },
+  "tconst": "tt0034841",
+  "directors": "nm0572235",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad5d"
+  },
+  "tconst": "tt0038086",
+  "directors": "nm0826094",
+  "writers": "nm0076617,nm0826094"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad5e"
+  },
+  "tconst": "tt0040844",
+  "directors": "nm0000248",
+  "writers": "nm0298215,nm0000248"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad5f"
+  },
+  "tconst": "tt0059325",
+  "directors": "nm0127158",
+  "writers": "nm0127158,nm0687851"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad60"
+  },
+  "tconst": "tt0059900",
+  "directors": "nm0351586",
+  "writers": "nm0351586,nm0778360"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad61"
+  },
+  "tconst": "tt0065188",
+  "directors": "nm0878702",
+  "writers": "nm0434141,nm0815785,nm0878702"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad62"
+  },
+  "tconst": "tt0067460",
+  "directors": "nm0091430",
+  "writers": "nm0091430"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad63"
+  },
+  "tconst": "tt0068494",
+  "directors": "nm0643443",
+  "writers": "nm0643443"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad64"
+  },
+  "tconst": "tt0070501",
+  "directors": "nm0749914",
+  "writers": "nm0481040,nm0749914"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad65"
+  },
+  "tconst": "tt0073481",
+  "directors": "nm0193508",
+  "writers": "nm0056217"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad66"
+  },
+  "tconst": "tt0077432",
+  "directors": "nm0839288",
+  "writers": "nm1150921,nm0839288"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad67"
+  },
+  "tconst": "tt0078006",
+  "directors": "nm0333937",
+  "writers": "nm0643093,nm0682421"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad68"
+  },
+  "tconst": "tt0080039",
+  "directors": "nm0192870",
+  "writers": "nm0192870,nm0288708"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad69"
+  },
+  "tconst": "tt0081008",
+  "directors": "nm0389846",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad6a"
+  },
+  "tconst": "tt0081145",
+  "directors": "nm0193303",
+  "writers": "nm0169785,nm0849601"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad6b"
+  },
+  "tconst": "tt0081436",
+  "directors": "nm0525938",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad6c"
+  },
+  "tconst": "tt0081721",
+  "directors": "nm0747808",
+  "writers": "nm0747808"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad6d"
+  },
+  "tconst": "tt0082473",
+  "directors": "nm0143426",
+  "writers": "nm0143426,nm0724255"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad6e"
+  },
+  "tconst": "tt0082891",
+  "directors": "nm0000382",
+  "writers": "nm0000382"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad6f"
+  },
+  "tconst": "tt0083837",
+  "directors": "\\N",
+  "writers": "nm0523800"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad70"
+  },
+  "tconst": "tt0084015",
+  "directors": "nm0160246,nm0767391",
+  "writers": "nm0160246,nm2384991"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad71"
+  },
+  "tconst": "tt0084447",
+  "directors": "nm0000382",
+  "writers": "nm0000382"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad72"
+  },
+  "tconst": "tt0084551",
+  "directors": "nm0152049",
+  "writers": "nm4184369,nm4894011,nm1852162"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad73"
+  },
+  "tconst": "tt0084638",
+  "directors": "nm0577263",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad74"
+  },
+  "tconst": "tt0084870",
+  "directors": "nm0210701",
+  "writers": "nm0078760,nm0210701"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad75"
+  },
+  "tconst": "tt0087306",
+  "directors": "nm0653458",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad76"
+  },
+  "tconst": "tt0088267",
+  "directors": "nm0948151",
+  "writers": "nm1292716"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad77"
+  },
+  "tconst": "tt0088283",
+  "directors": "nm0353436",
+  "writers": "nm0030676,nm0331498"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad78"
+  },
+  "tconst": "tt0088656",
+  "directors": "nm0632726,nm0407479",
+  "writers": "nm0014556,nm0840697,nm0847638"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad79"
+  },
+  "tconst": "tt0088657",
+  "directors": "nm0632726,nm0407479",
+  "writers": "nm0014556,nm0840697,nm0847638"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad7a"
+  },
+  "tconst": "tt0089043",
+  "directors": "nm0095755",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad7b"
+  },
+  "tconst": "tt0090000",
+  "directors": "nm1709207",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad7c"
+  },
+  "tconst": "tt0090144",
+  "directors": "nm0265853",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad7d"
+  },
+  "tconst": "tt0090665",
+  "directors": "nm0099276",
+  "writers": "nm0099276,nm0100525,nm0420017,nm0502507"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad7e"
+  },
+  "tconst": "tt0090780",
+  "directors": "nm0355703,nm0461298,nm5890366",
+  "writers": "nm4481722,nm0504327,nm0748429"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad7f"
+  },
+  "tconst": "tt0090785",
+  "directors": "nm0382956",
+  "writers": "nm0382956,nm0421256"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad80"
+  },
+  "tconst": "tt0090869",
+  "directors": "nm0173065",
+  "writers": "nm0173065,nm2419918,nm1648673"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad81"
+  },
+  "tconst": "tt0091490",
+  "directors": "nm0014411",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad82"
+  },
+  "tconst": "tt0091899",
+  "directors": "nm0136642",
+  "writers": "nm0524521"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad83"
+  },
+  "tconst": "tt0092024",
+  "directors": "nm0002797",
+  "writers": "nm0002797"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad84"
+  },
+  "tconst": "tt0092507",
+  "directors": "nm0698184",
+  "writers": "nm0845785"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad85"
+  },
+  "tconst": "tt0092589",
+  "directors": "nm0434854",
+  "writers": "nm0434854"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad86"
+  },
+  "tconst": "tt0092926",
+  "directors": "nm0927475",
+  "writers": "nm0573712"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad87"
+  },
+  "tconst": "tt0092984",
+  "directors": "nm0654839",
+  "writers": "nm0654839"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad88"
+  },
+  "tconst": "tt0093061",
+  "directors": "nm0338598",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad89"
+  },
+  "tconst": "tt0093081",
+  "directors": "nm0343276",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad8a"
+  },
+  "tconst": "tt0093099",
+  "directors": "nm0520485",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad8b"
+  },
+  "tconst": "tt0093210",
+  "directors": "nm0244471",
+  "writers": "nm0972819"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad8c"
+  },
+  "tconst": "tt0093211",
+  "directors": "nm0366594",
+  "writers": "nm0366594"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad8d"
+  },
+  "tconst": "tt0093309",
+  "directors": "nm0490487",
+  "writers": "nm5071994"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad8e"
+  },
+  "tconst": "tt0093508",
+  "directors": "nm0063181",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad8f"
+  },
+  "tconst": "tt0093572",
+  "directors": "nm0812546",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad90"
+  },
+  "tconst": "tt0093646",
+  "directors": "nm0657722",
+  "writers": "nm0657722"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad91"
+  },
+  "tconst": "tt0093989",
+  "directors": "nm0151653",
+  "writers": "nm0151653"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad92"
+  },
+  "tconst": "tt0094004",
+  "directors": "nm0162717",
+  "writers": "nm0162717,nm0332417"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad93"
+  },
+  "tconst": "tt0094376",
+  "directors": "nm0149216",
+  "writers": "nm0504945,nm0948137,nm3575227"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad94"
+  },
+  "tconst": "tt0094390",
+  "directors": "nm0803393",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad95"
+  },
+  "tconst": "tt0094609",
+  "directors": "nm0894132,nm0834484",
+  "writers": "nm0765680,nm0894132"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad96"
+  },
+  "tconst": "tt0094666",
+  "directors": "nm0165965",
+  "writers": "nm0747047,nm5165310"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad97"
+  },
+  "tconst": "tt0094688",
+  "directors": "nm0453993",
+  "writers": "nm0453993"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad98"
+  },
+  "tconst": "tt0094808",
+  "directors": "nm0034776",
+  "writers": "nm0399560"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad99"
+  },
+  "tconst": "tt0094841",
+  "directors": "nm0274659",
+  "writers": "nm0079342,nm0274659,nm0547739"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad9a"
+  },
+  "tconst": "tt0094857",
+  "directors": "nm0436326",
+  "writers": "nm2189141"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad9b"
+  },
+  "tconst": "tt0094874",
+  "directors": "nm0161165",
+  "writers": "nm0161165,nm0504945,nm0514961,nm0906412"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad9c"
+  },
+  "tconst": "tt0094900",
+  "directors": "nm0505415",
+  "writers": "nm0165235,nm0489911,nm0556893"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad9d"
+  },
+  "tconst": "tt0094926",
+  "directors": "nm0868149",
+  "writers": "nm0029482,nm0868149"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad9e"
+  },
+  "tconst": "tt0094997",
+  "directors": "nm0002086",
+  "writers": "nm0716701,nm0002086,nm0855193"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ad9f"
+  },
+  "tconst": "tt0095006",
+  "directors": "nm0560489",
+  "writers": "nm0396215,nm0750099"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada0"
+  },
+  "tconst": "tt0095095",
+  "directors": "nm0580726",
+  "writers": "nm0201976,nm0580726"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada1"
+  },
+  "tconst": "tt0095102",
+  "directors": "nm0461921",
+  "writers": "nm11294013,nm0409682"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada2"
+  },
+  "tconst": "tt0095111",
+  "directors": "nm0246986",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada3"
+  },
+  "tconst": "tt0095147",
+  "directors": "nm0751133",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada4"
+  },
+  "tconst": "tt0095201",
+  "directors": "nm0479561",
+  "writers": "nm0698940"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada5"
+  },
+  "tconst": "tt0095229",
+  "directors": "nm0414842,nm1589697",
+  "writers": "nm0414842"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada6"
+  },
+  "tconst": "tt0095290",
+  "directors": "nm0523701",
+  "writers": "nm3996252"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada7"
+  },
+  "tconst": "tt0095335",
+  "directors": "nm0266630",
+  "writers": "nm0266636"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada8"
+  },
+  "tconst": "tt0095394",
+  "directors": "nm0482901",
+  "writers": "nm0482901,nm9071850"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ada9"
+  },
+  "tconst": "tt0095450",
+  "directors": "nm0948021,nm0007139",
+  "writers": "nm0155531,nm1967208,nm0504899,nm0948021"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adaa"
+  },
+  "tconst": "tt0095469",
+  "directors": "nm0525475",
+  "writers": "nm0525475"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adab"
+  },
+  "tconst": "tt0095571",
+  "directors": "nm0340742",
+  "writers": "nm0340742"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adac"
+  },
+  "tconst": "tt0095661",
+  "directors": "nm0266862",
+  "writers": "nm0076814,nm0266862,nm0799442"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adad"
+  },
+  "tconst": "tt0095671",
+  "directors": "nm0840779",
+  "writers": "nm0840779,nm0874096"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adae"
+  },
+  "tconst": "tt0095672",
+  "directors": "nm0305869",
+  "writers": "nm0044156,nm0305869"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adaf"
+  },
+  "tconst": "tt0095673",
+  "directors": "nm0379449",
+  "writers": "nm0379449,nm0874096"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb0"
+  },
+  "tconst": "tt0095674",
+  "directors": "nm0002797",
+  "writers": "nm0034999,nm0002797"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb1"
+  },
+  "tconst": "tt0095745",
+  "directors": "nm0035784",
+  "writers": "nm0035784,nm0035650"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb2"
+  },
+  "tconst": "tt0095761",
+  "directors": "nm0675422",
+  "writers": "nm0106924,nm0207076,nm0675422"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb3"
+  },
+  "tconst": "tt0095783",
+  "directors": "nm0064593",
+  "writers": "nm0443572"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb4"
+  },
+  "tconst": "tt0095831",
+  "directors": "nm0803112",
+  "writers": "nm0119653"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb5"
+  },
+  "tconst": "tt0095840",
+  "directors": "nm0709527",
+  "writers": "nm0709527"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb6"
+  },
+  "tconst": "tt0095902",
+  "directors": "nm0514045",
+  "writers": "nm0514045"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb7"
+  },
+  "tconst": "tt0096025",
+  "directors": "nm0225769",
+  "writers": "nm0225769,nm0888713"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb8"
+  },
+  "tconst": "tt0096035",
+  "directors": "nm0093271",
+  "writers": "nm0093271,nm0456614"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adb9"
+  },
+  "tconst": "tt0096038",
+  "directors": "nm0655230",
+  "writers": "nm0031080"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adba"
+  },
+  "tconst": "tt0096075",
+  "directors": "nm0227661",
+  "writers": "nm0395337"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adbb"
+  },
+  "tconst": "tt0096090",
+  "directors": "nm0525475",
+  "writers": "nm0525475"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adbc"
+  },
+  "tconst": "tt0096107",
+  "directors": "nm0001425",
+  "writers": "nm0001425"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adbd"
+  },
+  "tconst": "tt0096135",
+  "directors": "nm0322560",
+  "writers": "nm0533735"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adbe"
+  },
+  "tconst": "tt0096154",
+  "directors": "nm0002793",
+  "writers": "nm0396400,nm0002793"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adbf"
+  },
+  "tconst": "tt0096174",
+  "directors": "nm0470749",
+  "writers": "nm0470749,nm0667724"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc0"
+  },
+  "tconst": "tt0096177",
+  "directors": "nm0132490",
+  "writers": "nm0132490,nm0661751,nm0845829"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc1"
+  },
+  "tconst": "tt0096222",
+  "directors": "nm0160900",
+  "writers": "nm0159052"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc2"
+  },
+  "tconst": "tt0096254",
+  "directors": "nm0851930",
+  "writers": "nm0851930"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc3"
+  },
+  "tconst": "tt0096345",
+  "directors": "nm0766649",
+  "writers": "nm0766649"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc4"
+  },
+  "tconst": "tt0096346",
+  "directors": "nm0936123",
+  "writers": "nm1572419,nm0936123"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc5"
+  },
+  "tconst": "tt0096361",
+  "directors": "nm0386185,nm1684335",
+  "writers": "nm0366625,nm4054745,nm0386185,nm0469674,nm5934338"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc6"
+  },
+  "tconst": "tt0096362",
+  "directors": "nm0386185,nm1011775",
+  "writers": "nm0366625,nm4054745,nm0386185,nm0469674,nm5934338"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc7"
+  },
+  "tconst": "tt0096363",
+  "directors": "nm0386185,nm1011775",
+  "writers": "nm0366625,nm4054745,nm0386185,nm0469674,nm5934338"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc8"
+  },
+  "tconst": "tt0096397",
+  "directors": "nm0509136",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adc9"
+  },
+  "tconst": "tt0096405",
+  "directors": "nm0452319",
+  "writers": "nm0142179"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adca"
+  },
+  "tconst": "tt0096469",
+  "directors": "nm0157392",
+  "writers": "nm0477269"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adcb"
+  },
+  "tconst": "tt0096500",
+  "directors": "nm3134982",
+  "writers": "nm0560943,nm3134982"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adcc"
+  },
+  "tconst": "tt0096513",
+  "directors": "nm0150894",
+  "writers": "nm1847973,nm0938944"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adcd"
+  },
+  "tconst": "tt0096749",
+  "directors": "nm0648839",
+  "writers": "nm0648839"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adce"
+  },
+  "tconst": "tt0096752",
+  "directors": "nm0335825",
+  "writers": "nm0335825"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adcf"
+  },
+  "tconst": "tt0096763",
+  "directors": "nm0068871",
+  "writers": "nm0818881"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add0"
+  },
+  "tconst": "tt0096767",
+  "directors": "nm0568797",
+  "writers": "nm0038436"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add1"
+  },
+  "tconst": "tt0096775",
+  "directors": "nm0122216,nm0122217",
+  "writers": "nm1668048"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add2"
+  },
+  "tconst": "tt0096780",
+  "directors": "nm0257739",
+  "writers": "nm0257739"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add3"
+  },
+  "tconst": "tt0096781",
+  "directors": "nm0452319",
+  "writers": "nm0768488,nm0821262"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add4"
+  },
+  "tconst": "tt0096786",
+  "directors": "nm0676248",
+  "writers": "nm0308602"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add5"
+  },
+  "tconst": "tt0096797",
+  "directors": "nm0266735",
+  "writers": "nm0129962,nm0266735"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add6"
+  },
+  "tconst": "tt0096811",
+  "directors": "nm0874676",
+  "writers": "nm0620609"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add7"
+  },
+  "tconst": "tt0096817",
+  "directors": "nm0074213",
+  "writers": "nm0074213"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add8"
+  },
+  "tconst": "tt0096825",
+  "directors": "nm0001090",
+  "writers": "nm0139410,nm0236915"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1add9"
+  },
+  "tconst": "tt0096830",
+  "directors": "nm0844541",
+  "writers": "nm0844541,nm1014200"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adda"
+  },
+  "tconst": "tt0096837",
+  "directors": "nm0381489",
+  "writers": "nm2565655,nm0669756,nm0441859"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1addb"
+  },
+  "tconst": "tt0096838",
+  "directors": "nm0473957",
+  "writers": "nm0473957"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1addc"
+  },
+  "tconst": "tt0096845",
+  "directors": "nm0653073",
+  "writers": "nm0653073"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1addd"
+  },
+  "tconst": "tt0096857",
+  "directors": "nm0335133",
+  "writers": "nm0144888,nm0213696"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adde"
+  },
+  "tconst": "tt0096858",
+  "directors": "nm0876488",
+  "writers": "nm0466614"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1addf"
+  },
+  "tconst": "tt0096859",
+  "directors": "nm0148970",
+  "writers": "nm0148970,nm0296658,nm0814242,nm0814773,nm0596942"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade0"
+  },
+  "tconst": "tt0096860",
+  "directors": "nm0163227",
+  "writers": "nm0163227,nm0708084"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade1"
+  },
+  "tconst": "tt0096864",
+  "directors": "nm0923571",
+  "writers": "nm0189610,nm0122900"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade2"
+  },
+  "tconst": "tt0096871",
+  "directors": "nm0730156",
+  "writers": "nm0191328,nm0730156"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade3"
+  },
+  "tconst": "tt0096875",
+  "directors": "nm0000454,nm0000647",
+  "writers": "nm0542928,nm0054171"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade4"
+  },
+  "tconst": "tt0096877",
+  "directors": "nm0001238",
+  "writers": "nm0504243,nm0744555,nm0001238"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade5"
+  },
+  "tconst": "tt0096879",
+  "directors": "nm0048060",
+  "writers": "nm0048060"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade6"
+  },
+  "tconst": "tt0096883",
+  "directors": "nm0079729",
+  "writers": "nm0079729"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade7"
+  },
+  "tconst": "tt0096899",
+  "directors": "nm0191183",
+  "writers": "nm0191183,nm0226417"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade8"
+  },
+  "tconst": "tt0096910",
+  "directors": "nm0421904",
+  "writers": "nm0208086,nm0316251"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ade9"
+  },
+  "tconst": "tt0096937",
+  "directors": "nm0631674",
+  "writers": "nm0701090,nm0341936,nm0631662"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adea"
+  },
+  "tconst": "tt0096954",
+  "directors": "nm0589893",
+  "writers": "nm0107386"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adeb"
+  },
+  "tconst": "tt0096975",
+  "directors": "nm0296962",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adec"
+  },
+  "tconst": "tt0096984",
+  "directors": "nm0451576",
+  "writers": "nm0451576,nm0713678"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aded"
+  },
+  "tconst": "tt0096992",
+  "directors": "nm0644789",
+  "writers": "nm0644789"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adee"
+  },
+  "tconst": "tt0096995",
+  "directors": "nm0020610",
+  "writers": "nm0059475,nm0172697,nm0829283"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adef"
+  },
+  "tconst": "tt0097004",
+  "directors": "nm0031301",
+  "writers": "nm0031301"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf0"
+  },
+  "tconst": "tt0097049",
+  "directors": "nm0301145",
+  "writers": "nm0301145,nm0409092,nm0901702"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf1"
+  },
+  "tconst": "tt0097057",
+  "directors": "nm0848734",
+  "writers": "nm3072333"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf2"
+  },
+  "tconst": "tt0097062",
+  "directors": "nm0813534",
+  "writers": "nm0813534"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf3"
+  },
+  "tconst": "tt0097066",
+  "directors": "nm0416414,nm0678636",
+  "writers": "nm0678636"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf4"
+  },
+  "tconst": "tt0097079",
+  "directors": "nm0338369",
+  "writers": "nm0338369"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf5"
+  },
+  "tconst": "tt0097106",
+  "directors": "nm0006445",
+  "writers": "nm0006445"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf6"
+  },
+  "tconst": "tt0097111",
+  "directors": "nm0142517",
+  "writers": "nm0051684,nm0182080,nm0423631"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf7"
+  },
+  "tconst": "tt0097115",
+  "directors": "nm0500609",
+  "writers": "nm0111177,nm0111180,nm0916325"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf8"
+  },
+  "tconst": "tt0097122",
+  "directors": "nm0783744",
+  "writers": "nm0783744"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adf9"
+  },
+  "tconst": "tt0097129",
+  "directors": "nm0004372",
+  "writers": "nm0752591,nm1721082"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adfa"
+  },
+  "tconst": "tt0097140",
+  "directors": "nm0833708,nm0401247",
+  "writers": "nm1571187"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adfb"
+  },
+  "tconst": "tt0097176",
+  "directors": "nm0089502",
+  "writers": "nm0089502"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adfc"
+  },
+  "tconst": "tt0097184",
+  "directors": "nm0699114",
+  "writers": "nm0047264,nm0680067,nm0871502"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adfd"
+  },
+  "tconst": "tt0097204",
+  "directors": "nm0178801",
+  "writers": "nm0178801"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adfe"
+  },
+  "tconst": "tt0097218",
+  "directors": "nm0578533",
+  "writers": "nm0578533"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1adff"
+  },
+  "tconst": "tt0097246",
+  "directors": "nm0414249",
+  "writers": "nm0296261,nm0414249"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae00"
+  },
+  "tconst": "tt0097253",
+  "directors": "nm0532702",
+  "writers": "nm0097180,nm0532702"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae01"
+  },
+  "tconst": "tt0097259",
+  "directors": "nm0817995",
+  "writers": "nm0490417"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae02"
+  },
+  "tconst": "tt0097280",
+  "directors": "nm0246308",
+  "writers": "nm0246308"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae03"
+  },
+  "tconst": "tt0097298",
+  "directors": "nm0666999",
+  "writers": "nm0666999,nm0000685,nm0467385"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae04"
+  },
+  "tconst": "tt0097310",
+  "directors": "nm0648108",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae05"
+  },
+  "tconst": "tt0097318",
+  "directors": "nm0572132",
+  "writers": "nm0766676,nm0898375"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae06"
+  },
+  "tconst": "tt0097324",
+  "directors": "nm0823280",
+  "writers": "nm0450551"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae07"
+  },
+  "tconst": "tt0097339",
+  "directors": "nm0694411",
+  "writers": "nm0146955,nm0366829"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae08"
+  },
+  "tconst": "tt0097346",
+  "directors": "nm0767697",
+  "writers": "nm0247861"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae09"
+  },
+  "tconst": "tt0097348",
+  "directors": "nm0939275",
+  "writers": "nm0939275,nm0298662,nm2825769"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae0a"
+  },
+  "tconst": "tt0097362",
+  "directors": "nm0406349,nm1847770",
+  "writers": "nm9928038,nm1852137,nm0242086"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae0b"
+  },
+  "tconst": "tt0097365",
+  "directors": "nm0418486",
+  "writers": "nm0418486,nm0295817"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae0c"
+  },
+  "tconst": "tt0097394",
+  "directors": "nm0155587",
+  "writers": "nm0938944,nm0939147"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae0d"
+  },
+  "tconst": "tt0097399",
+  "directors": "nm0495525",
+  "writers": "nm0489597"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae0e"
+  },
+  "tconst": "tt0097405",
+  "directors": "nm0282214",
+  "writers": "nm0342003,nm0282214"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae0f"
+  },
+  "tconst": "tt0097416",
+  "directors": "nm0788171",
+  "writers": "nm0049400,nm0707366,nm0788171"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae10"
+  },
+  "tconst": "tt0097436",
+  "directors": "nm0468007",
+  "writers": "nm0207551"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae11"
+  },
+  "tconst": "tt0097451",
+  "directors": "nm0666685",
+  "writers": "nm0231602,nm0358353,nm0666685"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae12"
+  },
+  "tconst": "tt0097475",
+  "directors": "nm0958183",
+  "writers": "nm0420528,nm0450082,nm0958183"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae13"
+  },
+  "tconst": "tt0097479",
+  "directors": "nm0477933",
+  "writers": "nm0351357,nm0477933,nm0877805"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae14"
+  },
+  "tconst": "tt0097505",
+  "directors": "nm0001090",
+  "writers": "nm0204427"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae15"
+  },
+  "tconst": "tt0097506",
+  "directors": "nm0251243",
+  "writers": "nm0251243,nm0470844,nm0492969,nm0902539"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae16"
+  },
+  "tconst": "tt0097509",
+  "directors": "nm0048735",
+  "writers": "nm0048735"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae17"
+  },
+  "tconst": "tt0097516",
+  "directors": "nm0055988",
+  "writers": "nm0621518,nm0700130,nm0007136"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae18"
+  },
+  "tconst": "tt0097519",
+  "directors": "nm0009376",
+  "writers": "nm0009376"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae19"
+  },
+  "tconst": "tt0097525",
+  "directors": "nm0118345",
+  "writers": "nm0118345,nm0373494,nm0896856"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae1a"
+  },
+  "tconst": "tt0097535",
+  "directors": "nm0910979",
+  "writers": "nm0939236"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae1b"
+  },
+  "tconst": "tt0097542",
+  "directors": "nm0327805",
+  "writers": "nm0327805"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae1c"
+  },
+  "tconst": "tt0097550",
+  "directors": "nm0132392",
+  "writers": "nm0589037,nm0938708"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae1d"
+  },
+  "tconst": "tt0097558",
+  "directors": "nm0326450",
+  "writers": "nm0807364,nm0629298,nm0326450"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae1e"
+  },
+  "tconst": "tt0097559",
+  "directors": "\\N",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae1f"
+  },
+  "tconst": "tt0097566",
+  "directors": "nm0776049",
+  "writers": "nm1343447"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae20"
+  },
+  "tconst": "tt0097571",
+  "directors": "nm0552830",
+  "writers": "nm1618242"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae21"
+  },
+  "tconst": "tt0097573",
+  "directors": "nm0557789",
+  "writers": "nm0557789,nm0675072"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae22"
+  },
+  "tconst": "tt0097578",
+  "directors": "nm0799595",
+  "writers": "nm0712035"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae23"
+  },
+  "tconst": "tt0097585",
+  "directors": "nm0379445",
+  "writers": "nm0379445"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae24"
+  },
+  "tconst": "tt0097615",
+  "directors": "nm0861292",
+  "writers": "nm0179672,nm0484230,nm0861292"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae25"
+  },
+  "tconst": "tt0097619",
+  "directors": "nm0864775",
+  "writers": "nm4522402"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae26"
+  },
+  "tconst": "tt0097631",
+  "directors": "nm0755197",
+  "writers": "nm0755197"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae27"
+  },
+  "tconst": "tt0097638",
+  "directors": "nm0170504",
+  "writers": "nm0628805"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae28"
+  },
+  "tconst": "tt0097644",
+  "directors": "nm0266138",
+  "writers": "nm0266138"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae29"
+  },
+  "tconst": "tt0097655",
+  "directors": "nm0121166",
+  "writers": "nm0003694"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae2a"
+  },
+  "tconst": "tt0097666",
+  "directors": "nm0255912",
+  "writers": "nm0454060"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae2b"
+  },
+  "tconst": "tt0097668",
+  "directors": "nm0240439",
+  "writers": "nm0377919,nm0294618,nm0768489"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae2c"
+  },
+  "tconst": "tt0097683",
+  "directors": "nm0053022",
+  "writers": "nm0053022,nm5689539"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae2d"
+  },
+  "tconst": "tt0097697",
+  "directors": "nm0844226",
+  "writers": "nm0270851,nm0344662,nm0844226"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae2e"
+  },
+  "tconst": "tt0097720",
+  "directors": "nm0570730",
+  "writers": "nm0001465,nm0570730"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae2f"
+  },
+  "tconst": "tt0097726",
+  "directors": "nm0072993",
+  "writers": "nm0330576,nm0402434,nm0003309"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae30"
+  },
+  "tconst": "tt0097738",
+  "directors": "nm0119653",
+  "writers": "nm0119653"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae31"
+  },
+  "tconst": "tt0097743",
+  "directors": "nm0033081",
+  "writers": "nm0033081,nm1130050"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae32"
+  },
+  "tconst": "tt0097748",
+  "directors": "nm0291298",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae33"
+  },
+  "tconst": "tt0097765",
+  "directors": "nm0304046",
+  "writers": "nm0304046,nm2885919"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae34"
+  },
+  "tconst": "tt0097769",
+  "directors": "nm0923802",
+  "writers": "nm0930748"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae35"
+  },
+  "tconst": "tt0097775",
+  "directors": "nm0007139",
+  "writers": "nm0442983,nm0490622,nm0007139"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae36"
+  },
+  "tconst": "tt0097783",
+  "directors": "nm0569429,nm0801625",
+  "writers": "nm0569429,nm0801625"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae37"
+  },
+  "tconst": "tt0097802",
+  "directors": "nm0010383",
+  "writers": "nm0010383,nm0038235"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae38"
+  },
+  "tconst": "tt0097803",
+  "directors": "nm0405578",
+  "writers": "nm0405578,nm0812827"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae39"
+  },
+  "tconst": "tt0097820",
+  "directors": "nm0332647",
+  "writers": "nm0332647,nm0584770"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae3a"
+  },
+  "tconst": "tt0097822",
+  "directors": "nm0737604",
+  "writers": "nm0809732"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae3b"
+  },
+  "tconst": "tt0097833",
+  "directors": "nm0686136",
+  "writers": "nm0686136"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae3c"
+  },
+  "tconst": "tt0097848",
+  "directors": "nm0659368",
+  "writers": "nm0659368,nm0331003"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae3d"
+  },
+  "tconst": "tt0097849",
+  "directors": "nm0452002",
+  "writers": "nm0901668"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae3e"
+  },
+  "tconst": "tt0097850",
+  "directors": "nm0410478",
+  "writers": "nm0410478"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae3f"
+  },
+  "tconst": "tt0097851",
+  "directors": "nm0329715",
+  "writers": "nm0059775,nm0329715"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae40"
+  },
+  "tconst": "tt0097853",
+  "directors": "nm0302785",
+  "writers": "nm0302785,nm0412867"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae41"
+  },
+  "tconst": "tt0097855",
+  "directors": "nm0833721",
+  "writers": "nm3834637,nm1500607"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae42"
+  },
+  "tconst": "tt0097863",
+  "directors": "nm0400133",
+  "writers": "nm0145935,nm0823500"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae43"
+  },
+  "tconst": "tt0097864",
+  "directors": "nm0504941",
+  "writers": "nm4390701"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae44"
+  },
+  "tconst": "tt0097874",
+  "directors": "nm0247642",
+  "writers": "nm0247642"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae45"
+  },
+  "tconst": "tt0097875",
+  "directors": "nm0598408",
+  "writers": "nm0073488,nm0598408"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae46"
+  },
+  "tconst": "tt0097884",
+  "directors": "nm0001501",
+  "writers": "nm0001501,nm0140643"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae47"
+  },
+  "tconst": "tt0097893",
+  "directors": "nm0159402",
+  "writers": "nm0099384,nm0159402,nm0608775"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae48"
+  },
+  "tconst": "tt0097894",
+  "directors": "nm0712577",
+  "writers": "nm0712577"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae49"
+  },
+  "tconst": "tt0097910",
+  "directors": "nm0000386",
+  "writers": "nm0382166,nm0248082,nm0000386,nm0593634"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae4a"
+  },
+  "tconst": "tt0097912",
+  "directors": "nm0670757",
+  "writers": "nm0013455,nm0670757,nm1343309"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae4b"
+  },
+  "tconst": "tt0097919",
+  "directors": "nm0387853",
+  "writers": "nm0387853,nm0770640,nm1297788"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae4c"
+  },
+  "tconst": "tt0097924",
+  "directors": "nm0874096",
+  "writers": "nm0874096"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae4d"
+  },
+  "tconst": "tt0097925",
+  "directors": "nm0554880",
+  "writers": "nm0554880"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae4e"
+  },
+  "tconst": "tt0097928",
+  "directors": "nm3164805",
+  "writers": "nm3164805"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae4f"
+  },
+  "tconst": "tt0097949",
+  "directors": "nm0462899",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae50"
+  },
+  "tconst": "tt0097966",
+  "directors": "nm0701000",
+  "writers": "nm0000636,nm0701000"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae51"
+  },
+  "tconst": "tt0097968",
+  "directors": "nm0464092",
+  "writers": "nm0398518,nm0639306"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae52"
+  },
+  "tconst": "tt0097970",
+  "directors": "nm0595618",
+  "writers": "nm0595618"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae53"
+  },
+  "tconst": "tt0097979",
+  "directors": "nm0217134",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae54"
+  },
+  "tconst": "tt0097984",
+  "directors": "nm0151653",
+  "writers": "nm0151653"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae55"
+  },
+  "tconst": "tt0098004",
+  "directors": "nm0541094",
+  "writers": "nm0698003"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae56"
+  },
+  "tconst": "tt0098018",
+  "directors": "nm0910904",
+  "writers": "nm0862783,nm3237960,nm1253789"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae57"
+  },
+  "tconst": "tt0098021",
+  "directors": "nm0602454",
+  "writers": "nm0336957"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae58"
+  },
+  "tconst": "tt0098030",
+  "directors": "nm0648900",
+  "writers": "nm0648900,nm0759137"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae59"
+  },
+  "tconst": "tt0098043",
+  "directors": "nm0163990",
+  "writers": "nm0686869,nm0486689"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae5a"
+  },
+  "tconst": "tt0098050",
+  "directors": "nm0140327",
+  "writers": "nm0140327"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae5b"
+  },
+  "tconst": "tt0098063",
+  "directors": "nm0000972",
+  "writers": "nm0000972,nm0165987,nm0953301"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae5c"
+  },
+  "tconst": "tt0098064",
+  "directors": "nm0654839",
+  "writers": "nm0654839"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae5d"
+  },
+  "tconst": "tt0098070",
+  "directors": "nm0813177",
+  "writers": "nm0142667,nm0667657,nm0125657,nm0223855,nm0895059"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae5e"
+  },
+  "tconst": "tt0098077",
+  "directors": "nm0306551",
+  "writers": "nm0547425"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae5f"
+  },
+  "tconst": "tt0098100",
+  "directors": "nm0160540",
+  "writers": "nm0160540"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae60"
+  },
+  "tconst": "tt0098136",
+  "directors": "nm0646987,nm0801157",
+  "writers": "nm0646987"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae61"
+  },
+  "tconst": "tt0098139",
+  "directors": "nm0691908",
+  "writers": "nm2766718,nm0691908,nm0764001"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae62"
+  },
+  "tconst": "tt0098144",
+  "directors": "nm0336076",
+  "writers": "nm0264705,nm0336076,nm0379586,nm11330682,nm0891396,nm0895954"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae63"
+  },
+  "tconst": "tt0098150",
+  "directors": "nm0876600",
+  "writers": "nm0874683,nm3803448"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae64"
+  },
+  "tconst": "tt0098172",
+  "directors": "nm0819701",
+  "writers": "nm0711877,nm0038436"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae65"
+  },
+  "tconst": "tt0098181",
+  "directors": "nm0902339",
+  "writers": "nm0527620,nm0902339"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae66"
+  },
+  "tconst": "tt0098182",
+  "directors": "nm0198017",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae67"
+  },
+  "tconst": "tt0098199",
+  "directors": "nm0839233",
+  "writers": "nm0161823"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae68"
+  },
+  "tconst": "tt0098211",
+  "directors": "nm0360766,nm0541654",
+  "writers": "nm0360766,nm0541654"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae69"
+  },
+  "tconst": "tt0098244",
+  "directors": "nm0921631",
+  "writers": "nm0208370,nm0478431,nm0921631"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae6a"
+  },
+  "tconst": "tt0098256",
+  "directors": "nm0554580",
+  "writers": "nm1720870,nm0554580"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae6b"
+  },
+  "tconst": "tt0098267",
+  "directors": "nm0118345,nm0373494",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae6c"
+  },
+  "tconst": "tt0098278",
+  "directors": "nm0900143",
+  "writers": "nm0166405,nm0751721,nm0900143"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae6d"
+  },
+  "tconst": "tt0098294",
+  "directors": "nm0524516",
+  "writers": "nm0076914,nm0524516,nm0664760"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae6e"
+  },
+  "tconst": "tt0098318",
+  "directors": "nm0626864",
+  "writers": "nm5666124,nm0626864,nm2947401"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae6f"
+  },
+  "tconst": "tt0098344",
+  "directors": "nm0453238",
+  "writers": "nm0453238,nm0790323"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae70"
+  },
+  "tconst": "tt0098372",
+  "directors": "nm0172181",
+  "writers": "nm0172181,nm2157186"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae71"
+  },
+  "tconst": "tt0098377",
+  "directors": "nm4979187",
+  "writers": "nm0662956"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae72"
+  },
+  "tconst": "tt0098392",
+  "directors": "nm0349654",
+  "writers": "nm0349654"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae73"
+  },
+  "tconst": "tt0098405",
+  "directors": "nm0157696",
+  "writers": "nm0314044"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae74"
+  },
+  "tconst": "tt0098422",
+  "directors": "nm0139584",
+  "writers": "nm0799641"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae75"
+  },
+  "tconst": "tt0098426",
+  "directors": "nm0379797",
+  "writers": "nm0201187,nm1330709,nm0586743,nm0626134"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae76"
+  },
+  "tconst": "tt0098429",
+  "directors": "nm0654839",
+  "writers": "nm0654839"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae77"
+  },
+  "tconst": "tt0098431",
+  "directors": "nm0619321",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae78"
+  },
+  "tconst": "tt0098461",
+  "directors": "nm0802692",
+  "writers": "nm0795664"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae79"
+  },
+  "tconst": "tt0098462",
+  "directors": "nm0222562",
+  "writers": "nm0021012,nm0893235,nm0682215"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae7a"
+  },
+  "tconst": "tt0098486",
+  "directors": "nm0125367",
+  "writers": "nm0125367,nm0734585"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae7b"
+  },
+  "tconst": "tt0098488",
+  "directors": "nm0037868",
+  "writers": "nm0037868,nm0150057,nm0879406,nm0325530"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae7c"
+  },
+  "tconst": "tt0098495",
+  "directors": "nm0125461",
+  "writers": "nm0125461,nm0813215"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae7d"
+  },
+  "tconst": "tt0098514",
+  "directors": "nm0147389",
+  "writers": "nm0147389,nm0155009,nm0756656"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae7e"
+  },
+  "tconst": "tt0098531",
+  "directors": "nm0652225",
+  "writers": "nm0652225"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae7f"
+  },
+  "tconst": "tt0098532",
+  "directors": "nm0442454",
+  "writers": "nm0442454"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae80"
+  },
+  "tconst": "tt0098534",
+  "directors": "nm0886789",
+  "writers": "nm0018839,nm0886789"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae81"
+  },
+  "tconst": "tt0098542",
+  "directors": "nm1014475",
+  "writers": "nm1072419"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae82"
+  },
+  "tconst": "tt0098548",
+  "directors": "nm0412838",
+  "writers": "nm0038298,nm0412838"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae83"
+  },
+  "tconst": "tt0098553",
+  "directors": "nm0373911",
+  "writers": "nm0450551"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae84"
+  },
+  "tconst": "tt0098561",
+  "directors": "nm0894074",
+  "writers": "nm0199517,nm0894074"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae85"
+  },
+  "tconst": "tt0098576",
+  "directors": "nm1011775,nm0386185",
+  "writers": "nm0366625,nm4054745,nm0386185,nm0469674,nm5934338"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae86"
+  },
+  "tconst": "tt0098584",
+  "directors": "nm0230695",
+  "writers": "nm0230695,nm0333069,nm0234502"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae87"
+  },
+  "tconst": "tt0098588",
+  "directors": "nm0246222",
+  "writers": "nm0246222,nm0416030,nm0776465"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae88"
+  },
+  "tconst": "tt0098606",
+  "directors": "nm0000019",
+  "writers": "nm0147004,nm0000019,nm0684083"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae89"
+  },
+  "tconst": "tt0098629",
+  "directors": "nm0542524",
+  "writers": "nm0542524,nm0811840"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae8a"
+  },
+  "tconst": "tt0098634",
+  "directors": "nm0393031",
+  "writers": "nm0393031"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae8b"
+  },
+  "tconst": "tt0098656",
+  "directors": "nm0535323",
+  "writers": "nm0535323"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae8c"
+  },
+  "tconst": "tt0098657",
+  "directors": "nm0778338",
+  "writers": "nm0778338,nm0834638"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae8d"
+  },
+  "tconst": "tt0098658",
+  "directors": "nm0903796",
+  "writers": "nm0462319,nm0903796"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae8e"
+  },
+  "tconst": "tt0098707",
+  "directors": "nm0151060",
+  "writers": "nm0151068,nm0159584"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae8f"
+  },
+  "tconst": "tt0098755",
+  "directors": "nm0953508",
+  "writers": "nm0953508"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae90"
+  },
+  "tconst": "tt0098920",
+  "directors": "nm0536464",
+  "writers": "nm0536464,nm1992055"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae91"
+  },
+  "tconst": "tt0098958",
+  "directors": "nm0613634",
+  "writers": "nm0234547"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae92"
+  },
+  "tconst": "tt0098959",
+  "directors": "nm0666498",
+  "writers": "nm0370347"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae93"
+  },
+  "tconst": "tt0098961",
+  "directors": "nm0003606",
+  "writers": "nm0003606,nm0867374"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae94"
+  },
+  "tconst": "tt0098962",
+  "directors": "nm0372421",
+  "writers": "nm0006809,nm0372421,nm0526981"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae95"
+  },
+  "tconst": "tt0098963",
+  "directors": "nm0573427",
+  "writers": "nm0416970,nm0494982,nm0573427"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae96"
+  },
+  "tconst": "tt0098965",
+  "directors": "nm0022581",
+  "writers": "nm0411930"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae97"
+  },
+  "tconst": "tt0098966",
+  "directors": "nm0001915",
+  "writers": "nm0785684,nm0663490,nm0569210,nm0676361"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae98"
+  },
+  "tconst": "tt0098967",
+  "directors": "nm0001429",
+  "writers": "nm0001429"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae99"
+  },
+  "tconst": "tt0098970",
+  "directors": "nm0133357",
+  "writers": "nm0246503,nm8870440,nm0559120"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae9a"
+  },
+  "tconst": "tt0098972",
+  "directors": "nm0411631",
+  "writers": "nm0411631"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae9b"
+  },
+  "tconst": "tt0098974",
+  "directors": "nm0902823",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae9c"
+  },
+  "tconst": "tt0098975",
+  "directors": "nm0315889",
+  "writers": "nm0592886"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae9d"
+  },
+  "tconst": "tt0098976",
+  "directors": "nm0092555",
+  "writers": "nm0765454,nm0890864"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae9e"
+  },
+  "tconst": "tt0098977",
+  "directors": "nm0712479",
+  "writers": "nm0359096,nm0707952,nm0712479"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1ae9f"
+  },
+  "tconst": "tt0098978",
+  "directors": "nm0521284",
+  "writers": "nm0065304,nm0521284,nm2438709"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea0"
+  },
+  "tconst": "tt0098979",
+  "directors": "nm0541249",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea1"
+  },
+  "tconst": "tt0098980",
+  "directors": "nm0514226",
+  "writers": "nm0073496,nm0514226,nm0758610"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea2"
+  },
+  "tconst": "tt0098981",
+  "directors": "nm0618425",
+  "writers": "nm0618425"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea3"
+  },
+  "tconst": "tt0098985",
+  "directors": "nm0516435",
+  "writers": "nm0516435"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea4"
+  },
+  "tconst": "tt0098986",
+  "directors": "nm0039759,nm0093606,nm0233718,nm0399875,nm0534550,nm0685040,nm0730156",
+  "writers": "nm1322322,nm0233718,nm0534550,nm0685040,nm0730156,nm1267240,nm1324564"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea5"
+  },
+  "tconst": "tt0098987",
+  "directors": "nm0001317",
+  "writers": "nm0914058,nm0135470,nm0036714,nm0918266"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea6"
+  },
+  "tconst": "tt0098988",
+  "directors": "nm0793519",
+  "writers": "nm0685515,nm0696203"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea7"
+  },
+  "tconst": "tt0098989",
+  "directors": "nm0902823",
+  "writers": "nm0248231,nm0399372,nm0902823"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea8"
+  },
+  "tconst": "tt0098990",
+  "directors": "nm0097541",
+  "writers": "nm1135391,nm0156154,nm0503953,nm1140287"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aea9"
+  },
+  "tconst": "tt0098991",
+  "directors": "nm0903137",
+  "writers": "nm0903137"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeaa"
+  },
+  "tconst": "tt0098992",
+  "directors": "nm0065496",
+  "writers": "nm0065496"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeab"
+  },
+  "tconst": "tt0098993",
+  "directors": "nm0297202",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeac"
+  },
+  "tconst": "tt0098994",
+  "directors": "nm0001226",
+  "writers": "nm0860292,nm0714977,nm0001226"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aead"
+  },
+  "tconst": "tt0098996",
+  "directors": "nm0364688",
+  "writers": "nm0822066"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeae"
+  },
+  "tconst": "tt0098997",
+  "directors": "nm0468007",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeaf"
+  },
+  "tconst": "tt0098998",
+  "directors": "nm0544863",
+  "writers": "nm0355990,nm0544863,nm0715877"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb0"
+  },
+  "tconst": "tt0098999",
+  "directors": "nm0002172",
+  "writers": "nm2832163,nm0434318,nm0765454"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb1"
+  },
+  "tconst": "tt0099000",
+  "directors": "nm0492309",
+  "writers": "nm0284559"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb2"
+  },
+  "tconst": "tt0099001",
+  "directors": "nm0864775",
+  "writers": "nm0864775,nm0906413"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb3"
+  },
+  "tconst": "tt0099003",
+  "directors": "nm0416819",
+  "writers": "nm0382505"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb4"
+  },
+  "tconst": "tt0099004",
+  "directors": "nm0096149",
+  "writers": "nm0806056"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb5"
+  },
+  "tconst": "tt0099005",
+  "directors": "nm0006854",
+  "writers": "nm0730313,nm0260675,nm0750701"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb6"
+  },
+  "tconst": "tt0099006",
+  "directors": "nm0136603",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb7"
+  },
+  "tconst": "tt0099007",
+  "directors": "nm3985732",
+  "writers": "nm3985732"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb8"
+  },
+  "tconst": "tt0099008",
+  "directors": "nm0556255",
+  "writers": "nm0556255"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeb9"
+  },
+  "tconst": "tt0099009",
+  "directors": "nm0423645",
+  "writers": "nm0072306,nm0082406,nm0423645"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeba"
+  },
+  "tconst": "tt0099011",
+  "directors": "nm0198786",
+  "writers": "nm0547739"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aebb"
+  },
+  "tconst": "tt0099012",
+  "directors": "nm0000095",
+  "writers": "nm0000095"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aebc"
+  },
+  "tconst": "tt0099013",
+  "directors": "nm0928907",
+  "writers": "nm0214172,nm0928907"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aebd"
+  },
+  "tconst": "tt0099014",
+  "directors": "nm0430927",
+  "writers": "nm0430927"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aebe"
+  },
+  "tconst": "tt0099015",
+  "directors": "nm0750201",
+  "writers": "nm0750201"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aebf"
+  },
+  "tconst": "tt0099017",
+  "directors": "nm0271057",
+  "writers": "nm0271057"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec0"
+  },
+  "tconst": "tt0099018",
+  "directors": "nm0180257",
+  "writers": "nm0001357"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec1"
+  },
+  "tconst": "tt0099019",
+  "directors": "nm0608232",
+  "writers": "nm0608232"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec2"
+  },
+  "tconst": "tt0099023",
+  "directors": "nm0006357",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec3"
+  },
+  "tconst": "tt0099024",
+  "directors": "nm0298723",
+  "writers": "nm0298723,nm0446967,nm0775338"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec4"
+  },
+  "tconst": "tt0099025",
+  "directors": "nm0474839",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec5"
+  },
+  "tconst": "tt0099026",
+  "directors": "nm0169540",
+  "writers": "nm0169540"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec6"
+  },
+  "tconst": "tt0099027",
+  "directors": "nm0765384",
+  "writers": "nm7977455,nm0749914,nm0765384"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec7"
+  },
+  "tconst": "tt0099028",
+  "directors": "nm0465932,nm0135199,nm0359735,nm0798023",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec8"
+  },
+  "tconst": "tt0099029",
+  "directors": "nm0879513",
+  "writers": "nm0878408,nm0879513"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aec9"
+  },
+  "tconst": "tt0099031",
+  "directors": "nm0511730",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeca"
+  },
+  "tconst": "tt0099032",
+  "directors": "nm0397986",
+  "writers": "nm7548856"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aecb"
+  },
+  "tconst": "tt0099033",
+  "directors": "nm0670670",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aecc"
+  },
+  "tconst": "tt0099034",
+  "directors": "nm0268999",
+  "writers": "nm0268999"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aecd"
+  },
+  "tconst": "tt0099035",
+  "directors": "nm0511730",
+  "writers": "nm0232824"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aece"
+  },
+  "tconst": "tt0099037",
+  "directors": "nm0718217",
+  "writers": "nm0573645"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aecf"
+  },
+  "tconst": "tt0099038",
+  "directors": "nm0864504",
+  "writers": "nm0889564"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed0"
+  },
+  "tconst": "tt0099039",
+  "directors": "nm0440171",
+  "writers": "nm0913027"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed1"
+  },
+  "tconst": "tt0099058",
+  "directors": "nm0511730",
+  "writers": "nm0511730"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed2"
+  },
+  "tconst": "tt0099060",
+  "directors": "nm0232795",
+  "writers": "nm0018648,nm0095793,nm0208172"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed3"
+  },
+  "tconst": "tt0099096",
+  "directors": "nm0233286",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed4"
+  },
+  "tconst": "tt0099102",
+  "directors": "nm0632311,nm0170407",
+  "writers": "nm0170407"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed5"
+  },
+  "tconst": "tt0099105",
+  "directors": "nm0451799",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed6"
+  },
+  "tconst": "tt0099115",
+  "directors": "nm0474119",
+  "writers": "nm0474119"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed7"
+  },
+  "tconst": "tt0099139",
+  "directors": "nm0703400",
+  "writers": "nm0610154"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed8"
+  },
+  "tconst": "tt0099147",
+  "directors": "nm0775940",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aed9"
+  },
+  "tconst": "tt0099158",
+  "directors": "nm0123785",
+  "writers": "nm0616880"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeda"
+  },
+  "tconst": "tt0099217",
+  "directors": "nm0035106",
+  "writers": "nm0003994,nm0586965,nm0505662"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aedb"
+  },
+  "tconst": "tt0099279",
+  "directors": "nm0792120",
+  "writers": "nm0697157"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aedc"
+  },
+  "tconst": "tt0099370",
+  "directors": "nm0002087",
+  "writers": "nm0002087,nm0383604,nm0485713"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aedd"
+  },
+  "tconst": "tt0099383",
+  "directors": "nm0164196",
+  "writers": "nm0287046,nm0809424"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aede"
+  },
+  "tconst": "tt0099427",
+  "directors": "nm0226290,nm0955055",
+  "writers": "nm0450551"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aedf"
+  },
+  "tconst": "tt0099457",
+  "directors": "nm0092372",
+  "writers": "nm0313274,nm0092372,nm0778593"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee0"
+  },
+  "tconst": "tt0099526",
+  "directors": "nm0339264",
+  "writers": "nm0501380,nm0367895"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee1"
+  },
+  "tconst": "tt0099530",
+  "directors": "nm0144758",
+  "writers": "nm0144758"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee2"
+  },
+  "tconst": "tt0099542",
+  "directors": "nm0578162",
+  "writers": "nm0546746"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee3"
+  },
+  "tconst": "tt0099580",
+  "directors": "nm0410769",
+  "writers": "nm0082677,nm0210290,nm1189346,nm1764901,nm1189825,nm0408639"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee4"
+  },
+  "tconst": "tt0099661",
+  "directors": "nm0000473",
+  "writers": "nm0200658"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee5"
+  },
+  "tconst": "tt0099727",
+  "directors": "nm0115185,nm0000177",
+  "writers": "nm0000636"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee6"
+  },
+  "tconst": "tt0099744",
+  "directors": "nm0369251",
+  "writers": "nm0169334,nm3710864,nm0837657"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee7"
+  },
+  "tconst": "tt0099745",
+  "directors": "nm0767054",
+  "writers": "nm0098918,nm3206228"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee8"
+  },
+  "tconst": "tt0099746",
+  "directors": "nm0837657",
+  "writers": "nm0082582,nm0003798"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aee9"
+  },
+  "tconst": "tt0099781",
+  "directors": "nm0085457",
+  "writers": "nm0130040,nm0626922"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeea"
+  },
+  "tconst": "tt0099811",
+  "directors": "nm0463926",
+  "writers": "nm0526967,nm0625782"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeeb"
+  },
+  "tconst": "tt0099835",
+  "directors": "nm0267064",
+  "writers": "nm0092267,nm0487150,nm0092268,nm0748257"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeec"
+  },
+  "tconst": "tt0099851",
+  "directors": "nm0487567",
+  "writers": "nm0487567"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeed"
+  },
+  "tconst": "tt0099952",
+  "directors": "nm0694341",
+  "writers": "nm0931388"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeee"
+  },
+  "tconst": "tt0099971",
+  "directors": "nm0492722",
+  "writers": "nm0190930"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeef"
+  },
+  "tconst": "tt0099992",
+  "directors": "nm0080943",
+  "writers": "nm0080943"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef0"
+  },
+  "tconst": "tt0100155",
+  "directors": "nm0934508",
+  "writers": "nm0193170"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef1"
+  },
+  "tconst": "tt0100216",
+  "directors": "nm0222319",
+  "writers": "nm0002005,nm0264088"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef2"
+  },
+  "tconst": "tt0100255",
+  "directors": "nm0817811",
+  "writers": "nm0790503"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef3"
+  },
+  "tconst": "tt0100316",
+  "directors": "nm0561879",
+  "writers": "nm0069410,nm0153546,nm0158219,nm0512894,nm0639787"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef4"
+  },
+  "tconst": "tt0100370",
+  "directors": "nm0076679",
+  "writers": "nm1386736,nm0878095"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef5"
+  },
+  "tconst": "tt0100406",
+  "directors": "nm0165965",
+  "writers": "nm0287046,nm0809424"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef6"
+  },
+  "tconst": "tt0100439",
+  "directors": "nm0426183",
+  "writers": "nm0203786,nm0696506,nm0719334"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef7"
+  },
+  "tconst": "tt0100474",
+  "directors": "nm0092380",
+  "writers": "nm0041438,nm0739969,nm0754847"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef8"
+  },
+  "tconst": "tt0100482",
+  "directors": "nm0196797,nm0253727",
+  "writers": "nm0187994,nm0193170"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aef9"
+  },
+  "tconst": "tt0100492",
+  "directors": "nm0389263",
+  "writers": "nm0389263"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aefa"
+  },
+  "tconst": "tt0100578",
+  "directors": "nm0427880",
+  "writers": "nm0000807,nm0625695"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aefb"
+  },
+  "tconst": "tt0100580",
+  "directors": "nm0204209",
+  "writers": "nm0447461"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aefc"
+  },
+  "tconst": "tt0100642",
+  "directors": "nm0926688",
+  "writers": "nm1208791"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aefd"
+  },
+  "tconst": "tt0100658",
+  "directors": "nm0426183",
+  "writers": "nm0414226,nm0203786,nm0719334"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aefe"
+  },
+  "tconst": "tt0100664",
+  "directors": "nm0659454",
+  "writers": "nm1147788,nm0479351"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1aeff"
+  },
+  "tconst": "tt0100710",
+  "directors": "nm0955195",
+  "writers": "nm0383604,nm3051415,nm0955195"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af00"
+  },
+  "tconst": "tt0100718",
+  "directors": "nm0002573,nm0918873",
+  "writers": "nm0367895"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af01"
+  },
+  "tconst": "tt0100724",
+  "directors": "nm0810200",
+  "writers": "nm0640185"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af02"
+  },
+  "tconst": "tt0100748",
+  "directors": "nm0089777",
+  "writers": "nm0080981,nm0773320"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af03"
+  },
+  "tconst": "tt0100749",
+  "directors": "nm0250914",
+  "writers": "nm0127137,nm0250914,nm0551882,nm0796749,nm0893882"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af04"
+  },
+  "tconst": "tt0100750",
+  "directors": "nm0832419",
+  "writers": "nm0386626"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af05"
+  },
+  "tconst": "tt0100751",
+  "directors": "nm0317413",
+  "writers": "nm0317413"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af06"
+  },
+  "tconst": "tt0100752",
+  "directors": "nm0432501",
+  "writers": "nm0956975"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af07"
+  },
+  "tconst": "tt0100753",
+  "directors": "nm0771942",
+  "writers": "nm0771942"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af08"
+  },
+  "tconst": "tt0100754",
+  "directors": "nm0473151",
+  "writers": "nm0473151,nm0902283,nm0331498,nm0826076"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af09"
+  },
+  "tconst": "tt0100755",
+  "directors": "nm0034776",
+  "writers": "nm0618124"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af0a"
+  },
+  "tconst": "tt0100770",
+  "directors": "nm0006841",
+  "writers": "nm0336957"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af0b"
+  },
+  "tconst": "tt0100818",
+  "directors": "nm0934508",
+  "writers": "nm0545690"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af0c"
+  },
+  "tconst": "tt0100900",
+  "directors": "nm0385091,nm0180644",
+  "writers": "nm0180644"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af0d"
+  },
+  "tconst": "tt0100948",
+  "directors": "nm0769135",
+  "writers": "nm0792490"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af0e"
+  },
+  "tconst": "tt0100953",
+  "directors": "nm0401461",
+  "writers": "nm0393495"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af0f"
+  },
+  "tconst": "tt0101095",
+  "directors": "nm0000877",
+  "writers": "nm0577362,nm0739744"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af10"
+  },
+  "tconst": "tt0101179",
+  "directors": "nm0211643",
+  "writers": "nm0208086"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af11"
+  },
+  "tconst": "tt0101246",
+  "directors": "nm0006841",
+  "writers": "nm0003141"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af12"
+  },
+  "tconst": "tt0101271",
+  "directors": "nm0287821",
+  "writers": "nm0905547,nm0253652"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af13"
+  },
+  "tconst": "tt0101274",
+  "directors": "nm0001352",
+  "writers": "nm0606328,nm0331453,nm0384484,nm0767124,nm0281326"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af14"
+  },
+  "tconst": "tt0101300",
+  "directors": "nm0950000",
+  "writers": "nm0039185"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af15"
+  },
+  "tconst": "tt0101358",
+  "directors": "nm0452319",
+  "writers": "nm0434669"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af16"
+  },
+  "tconst": "tt0101443",
+  "directors": "nm0406134",
+  "writers": "nm0351439"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af17"
+  },
+  "tconst": "tt0101480",
+  "directors": "nm0685673",
+  "writers": "nm0392694"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af18"
+  },
+  "tconst": "tt0101655",
+  "directors": "nm0949645",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af19"
+  },
+  "tconst": "tt0101729",
+  "directors": "nm0002910",
+  "writers": "nm0128052,nm0179855,nm0896479"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af1a"
+  },
+  "tconst": "tt0101750",
+  "directors": "nm0856827",
+  "writers": "nm0406585,nm0863867"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af1b"
+  },
+  "tconst": "tt0101835",
+  "directors": "nm0144758",
+  "writers": "nm0144758,nm0604304,nm0669968,nm0739744"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af1c"
+  },
+  "tconst": "tt0101836",
+  "directors": "nm0144758",
+  "writers": "nm0053716,nm0604304,nm0669968"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af1d"
+  },
+  "tconst": "tt0101837",
+  "directors": "nm0144758",
+  "writers": "nm0053716,nm0604304,nm0669968"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af1e"
+  },
+  "tconst": "tt0101838",
+  "directors": "nm0144758",
+  "writers": "nm0144758"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af1f"
+  },
+  "tconst": "tt0101840",
+  "directors": "nm0144758",
+  "writers": "nm0144758,nm0209906"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af20"
+  },
+  "tconst": "tt0101894",
+  "directors": "nm0234462",
+  "writers": "nm0523052"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af21"
+  },
+  "tconst": "tt0101915",
+  "directors": "nm0373453",
+  "writers": "nm0588648"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af22"
+  },
+  "tconst": "tt0101971",
+  "directors": "nm0115185,nm0301715",
+  "writers": "nm0301715,nm0825705"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af23"
+  },
+  "tconst": "tt0101972",
+  "directors": "nm0533564",
+  "writers": "nm0213234,nm4524359"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af24"
+  },
+  "tconst": "tt0102012",
+  "directors": "nm0002376",
+  "writers": "nm0002376"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af25"
+  },
+  "tconst": "tt0102111",
+  "directors": "nm0642823",
+  "writers": "nm0605982"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af26"
+  },
+  "tconst": "tt0102199",
+  "directors": "nm0277439",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af27"
+  },
+  "tconst": "tt0102255",
+  "directors": "nm0076679",
+  "writers": "nm0076679,nm0878095"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af28"
+  },
+  "tconst": "tt0102276",
+  "directors": "nm0324995",
+  "writers": "nm0931388"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af29"
+  },
+  "tconst": "tt0102281",
+  "directors": "nm0323795",
+  "writers": "nm9093983"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af2a"
+  },
+  "tconst": "tt0102337",
+  "directors": "\\N",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af2b"
+  },
+  "tconst": "tt0102378",
+  "directors": "nm0330848",
+  "writers": "nm0330848,nm0799442"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af2c"
+  },
+  "tconst": "tt0102379",
+  "directors": "nm0684226",
+  "writers": "nm0181210,nm0799442"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af2d"
+  },
+  "tconst": "tt0102416",
+  "directors": "nm0358759",
+  "writers": "nm0666875,nm0236279"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af2e"
+  },
+  "tconst": "tt0102424",
+  "directors": "nm0375451",
+  "writers": "nm0719334,nm0077654,nm0203786"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af2f"
+  },
+  "tconst": "tt0102474",
+  "directors": "nm0331964",
+  "writers": "nm0932477,nm0331964,nm0302904"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af30"
+  },
+  "tconst": "tt0102501",
+  "directors": "nm0369359",
+  "writers": "nm0293801"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af31"
+  },
+  "tconst": "tt0102502",
+  "directors": "nm0258917",
+  "writers": "nm0293801"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af32"
+  },
+  "tconst": "tt0102547",
+  "directors": "nm0349222",
+  "writers": "nm0106937"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af33"
+  },
+  "tconst": "tt0102621",
+  "directors": "nm6524380",
+  "writers": "nm0002445,nm0488991"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af34"
+  },
+  "tconst": "tt0102643",
+  "directors": "nm0375469",
+  "writers": "nm0539400,nm0882683,nm0915089"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af35"
+  },
+  "tconst": "tt0102644",
+  "directors": "nm0883609",
+  "writers": "nm0883609"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af36"
+  },
+  "tconst": "tt0102711",
+  "directors": "nm0923675",
+  "writers": "nm0083320"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af37"
+  },
+  "tconst": "tt0102769",
+  "directors": "nm0349222",
+  "writers": "nm0106937"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af38"
+  },
+  "tconst": "tt0102786",
+  "directors": "nm0326450",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af39"
+  },
+  "tconst": "tt0102787",
+  "directors": "nm0326450",
+  "writers": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af3a"
+  },
+  "tconst": "tt0102856",
+  "directors": "nm0389373",
+  "writers": "nm0553323"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af3b"
+  },
+  "tconst": "tt0102857",
+  "directors": "nm0583800",
+  "writers": "nm0576634"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af3c"
+  },
+  "tconst": "tt0102863",
+  "directors": "nm0086295",
+  "writers": "nm0203577"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af3d"
+  },
+  "tconst": "tt0102925",
+  "directors": "nm0154324",
+  "writers": "nm0154324"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af3e"
+  },
+  "tconst": "tt0103020",
+  "directors": "nm0416176",
+  "writers": "nm0003218,nm0867682"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af3f"
+  },
+  "tconst": "tt0103046",
+  "directors": "nm0317411",
+  "writers": "nm0351473,nm0921847"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af40"
+  },
+  "tconst": "tt0103047",
+  "directors": "nm0461170",
+  "writers": "nm0034312,nm0003670"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af41"
+  },
+  "tconst": "tt0103048",
+  "directors": "nm0444936",
+  "writers": "nm0351357"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af42"
+  },
+  "tconst": "tt0103049",
+  "directors": "nm0389373",
+  "writers": "nm0667083,nm0344509"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af43"
+  },
+  "tconst": "tt0103050",
+  "directors": "nm0633950",
+  "writers": "nm0633950,nm0381586,nm0258995"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af44"
+  },
+  "tconst": "tt0103051",
+  "directors": "nm0633950",
+  "writers": "nm0710755,nm0956975"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af45"
+  },
+  "tconst": "tt0103052",
+  "directors": "nm0738056",
+  "writers": "nm0081268"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af46"
+  },
+  "tconst": "tt0103053",
+  "directors": "nm0389386",
+  "writers": "nm0246308,nm0389386"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af47"
+  },
+  "tconst": "tt0103054",
+  "directors": "nm0389373",
+  "writers": "nm0186525,nm0921847"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af48"
+  },
+  "tconst": "tt0103062",
+  "directors": "nm0531640",
+  "writers": "nm0388130"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af49"
+  },
+  "tconst": "tt0103071",
+  "directors": "nm0297502",
+  "writers": "nm0331498,nm0902283"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af4a"
+  },
+  "tconst": "tt0103145",
+  "directors": "nm0247089",
+  "writers": "nm0823451"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af4b"
+  },
+  "tconst": "tt0103149",
+  "directors": "nm0530689",
+  "writers": "nm0530689"
+}]

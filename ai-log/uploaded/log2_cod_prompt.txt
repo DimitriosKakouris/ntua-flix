@@ -1,0 +1,29 @@
+Prompt
+How to force logout when closing the tab of my site?Flask
+=========================
+Github Copilot
+
+In a Flask application, you can't directly detect when a user closes a tab or browser. This is because HTTP is a stateless protocol, and the server doesn't maintain a continuous connection with the client.
+
+However, you can use JavaScript on the client side to send a request to the server when the user closes the tab or browser. This request can then trigger the logout function on the server side.
+
+Here's how you can do it:
+
+Add a JavaScript event listener for the beforeunload event. This event is fired when the window, the document and its resources are about to be unloaded.
+In this code, the navigator.sendBeacon method is used to send a request to the /logout endpoint. This method is designed to send small amounts of data to the server without waiting for a response, which makes it suitable for this use case.
+<script>
+window.addEventListener('beforeunload', function (e) {
+    navigator.sendBeacon('/logout');
+});
+</script>
+
+Create a /logout endpoint in your Flask application that logs out the user.
+In this code, the logout_user function is used to log out the user. This function removes the user's ID from the session.
+
+@app.route('/logout', methods=['POST'])
+@login_required
+def logout():
+    logout_user()
+    return jsonify({"msg": "Logged out"}), 200
+
+Please note that this method is not 100% reliable. The beforeunload event may not be fired in some cases, such as when the browser crashes or the internet connection is lost. Therefore, it's a good practice to also set a reasonable session timeout to automatically log out inactive users.

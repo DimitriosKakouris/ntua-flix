@@ -1,0 +1,27 @@
+I have csv files that i need to add to my mongo database, how to do that?
+
+
+======================================
+Github Copilot
+
+
+
+
+To import CSV files into MongoDB, you can use the mongoimport command-line tool that comes with MongoDB. Here's a general example of how to use it:
+
+mongoimport --db yourDatabaseName --collection yourCollectionName --type csv --headerline --file yourFile.csv
+
+
+
+Replace yourDatabaseName, yourCollectionName, and yourFile.csv with your actual database name, collection name, and CSV file path.
+
+Here's what each option does:
+
+--db yourDatabaseName: Specifies the database to import into.
+--collection yourCollectionName: Specifies the collection to import into.
+--type csv: Specifies that the input file is a CSV file.
+--headerline: Uses the first line of the CSV file as the field names.
+--file yourFile.csv: Specifies the path to the CSV file to import.
+Please note that you need to run this command in your system's command line, not in your JavaScript code. Also, make sure that your MongoDB server is running when you execute this command.
+
+If you want to do this programmatically within a Node.js application, you would need to use a library to read the CSV file, convert the data to JSON, and then use the MongoDB Node.js driver to insert the data into the database. Libraries like csv-parser or papaparse can help with reading and parsing CSV files.

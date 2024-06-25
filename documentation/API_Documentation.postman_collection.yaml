@@ -1,0 +1,177 @@
+openapi: 3.0.3
+info:
+  title: API Documentation
+  version: 1.0.0
+  contact: {}
+servers:
+- url: http://localhost
+paths:
+  /ntuaflix_api/login:
+    post:
+      summary: Login
+      description: |2
+
+        This endpoint allows users to log in to the NTUAFlix API. The request should be sent as an HTTP POST to the specified URL. The request body should be of type x-www-form-urlencoded and should include the necessary login credentials. Upon a successful request, the response will have a status code of 200 and a content type of text/xml. The response body will contain the login result in XML format.
+      operationId: login
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              properties:
+                passw:
+                  type: string
+                  example: admin
+                username:
+                  type: string
+                  example: admin
+            examples:
+              Login:
+                value:
+                  passw: admin
+                  username: admin
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/admin/usermod/newuser/newpass:
+    post:
+      summary: Add User
+      description: |2+
+
+        This endpoint is used to create a new user with the provided username and password. The request should be sent as an HTTP POST to http://localhost:9876/ntuaflix_api/admin/usermod/newuser/newpass. The request body should be in x-www-form-urlencoded format.
+
+        The response to the request will have a status code of 200 and a JSON content type. The response body will contain a status field indicating the result of the operation.
+
+      operationId: addUser
+      requestBody:
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              type: object
+              properties:
+                passw:
+                  type: string
+                  example: newpass
+                username:
+                  type: string
+                  example: newuser
+            examples:
+              Add User:
+                value:
+                  passw: newpass
+                  username: newuser
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/logout:
+    post:
+      summary: Logout
+      description: This endpoint is used to log out the user from the NTUAflix API. Upon successful execution, it returns a 204 status with an empty JSON response body.
+      operationId: logout
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/searchtitle:
+    get:
+      summary: Search title Jer
+      description: |2
+
+        This endpoint makes an HTTP GET request to search for titles based on the provided title part. The request should include a JSON payload with the "titlePart" parameter.
+
+        The response will be in JSON format with a status code of 200, and it will contain an object with multiple key-value pairs. Each key represents a unique identifier for a title, and the corresponding value contains details about the title such as ID, year, genres, image URL, adult status, original title, primary title, runtime, start year, title type, and more.
+
+        For detailed information about the title search results, refer to the response body returned by the API.
+      operationId: searchTitleJer
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/bygenre:
+    get:
+      summary: Search title Genre Comedy and min rating 7
+      description: "# Get Movies by Genre\n\nThis endpoint retrieves a list of movies based on the specified genre.\n\n## Request\n\n### Endpoint\n\n`GET /ntuaflix_api/bygenre`\n\n### Query Parameters\n\n- `qgenre` (optional, string): The genre for filtering the movies.\n- `minrating` (optional, string): The minimum rating for filtering the movies.\n    \n\n## Response\n\n- Status: 200 OK\n- Content-Type: application/json\n    \n\n### Data Fields\n\n- `endYear` (string): The end year of the movie.\n- `genres` (array of strings): The genres associated with the movie.\n- `originalTitle` (string): The original title of the movie.\n- `principals` (array of objects):\n    - `category` (string): The category of the principal.\n    - `name` (string): The name of the principal.\n    - `nameID` (string): The ID of the principal.\n- `rating` (object):\n    - `avrating` (number): The average rating of the movie.\n    - `nvotes` (string): The number of votes.\n- `startYear` (string): The start year of the movie.\n- `titleAkas` (array of objects):\n    - `akatitle` (string): The alternative title of the movie.\n    - `regionAbbrev` (string): The region abbreviation.\n- `titleID` (string): The ID of the movie title.\n- `titlePoster` (string): The URL of the movie poster.\n- `type` (string): The type of the movie."
+      operationId: searchTitleGenreComedyAndMinRating7
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/title/tt0000929:
+    get:
+      summary: Get title by id tt0000929
+      description: "# Get Movie Details by Title ID\n\nThis endpoint retrieves the details of a movie based on its title ID.\n\n## Request\n\n### Endpoint\n\n`GET http://localhost:9876/ntuaflix_api/title/tt0000929`\n\n## Response\n\n- Status: 200\n- Content-Type: application/json\n    \n\n``` json\n{\n  \"endYear\": \"\",\n  \"genres\": [\"\"],\n  \"originalTitle\": \"\",\n  \"principals\": [\n    {\n      \"category\": \"\",\n      \"name\": \"\",\n      \"nameID\": \"\"\n    }\n  ],\n  \"rating\": {\n    \"avrating\": 0,\n    \"nvotes\": \"\"\n  },\n  \"startYear\": \"\",\n  \"titleAkas\": [\n    {\n      \"akatitle\": \"\",\n      \"regionAbbrev\": \"\"\n    }\n  ],\n  \"titleID\": \"\",\n  \"titlePoster\": \"\",\n  \"type\": \"\"\n}\n\n ```\n\n## Documentation\n\nNo additional documentation provided."
+      operationId: getTitleByIdTt0000929
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/admin/upload/titlebasics:
+    post:
+      summary: Upload Title Basics
+      description: "This endpoint allows administrators to upload title basics for the NTUAFlix API. The HTTP POST request should be made to [http://localhost:9876/ntuaflix_api/admin/upload/titlebasics](http://localhost:9876/ntuaflix_api/admin/upload/titlebasics) with form-data as the request body type.\n\n### Request Body\n\n- TSV file.\n    \n\n### Response\n\nUpon a successful execution, the API returns a status code of 200 with a response in JSON format. The response includes a \"status\" key, which indicates the status of the upload operation.\n\nExample Response:\n\n``` json\n{\n    \"status\": \"\"\n}\n\n ```"
+      operationId: uploadTitleBasics
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                file:
+                  type: string
+                  format: binary
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/admin/upload/namebasics:
+    post:
+      summary: Upload Name Basics
+      description: |2
+
+        This endpoint allows administrators to upload name basics to the NTUAFlix API. The request should be sent via an HTTP POST method to the specified URL.
+
+        ### Request Body
+        The request should include a form-data body with the necessary parameters to upload the name basics.
+
+        ### Response
+        Upon a successful execution, the API returns a JSON response with a status field indicating the outcome of the operation.
+
+        Example:
+        ```json
+        {
+            "status": ""
+        }
+        ```
+      operationId: uploadNameBasics
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                file:
+                  type: string
+                  format: binary
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/admin/healthcheck:
+    get:
+      summary: Health Check
+      description: |2+
+
+        This endpoint is used to perform a health check for the admin interface of the NTUAFlix API. Upon successful execution, it returns a status code of 200 and a response in JSON format with the keys "dataconnection" and "status". The "dataconnection" key indicates the status of the data connection, while the "status" key provides additional status information.
+
+      operationId: healthCheck
+      responses:
+        '200':
+          description: ''
+  /ntuaflix_api/admin/resetall:
+    get:
+      summary: ResetAll
+      description: |2
+
+        This endpoint triggers a reset action for all admin-related data in the NTUAFlix API. Upon successful execution, it returns a JSON response with a status key indicating the outcome of the reset operation.
+
+        The response will have a status code of 200, and the content type will be application/json. The response body will contain a status key with a corresponding value indicating the result of the reset operation.
+      operationId: resetall
+      responses:
+        '200':
+          description: ''
+tags: []
+

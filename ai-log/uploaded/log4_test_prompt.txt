@@ -1,0 +1,83 @@
+Also for this endpoint:
+
+@app.route('/ntuaflix_api/login', methods=['POST'])
+def login():
+    format_type = request.args.get('format', 'json')
+    username = request.form.get('username', None)
+    password = request.form.get('passw', None)
+    user = db.users.find_one({"username": username})  # query the database for the user
+
+    if user is None or not check_password_hash(user['password'], password):
+        res = {"msg": "Login failed", "redirect": "login"}
+        return format_handler_v(res,401,format_type)
+
+     # Create a new token with the user id inside
+    access_token = create_access_token(identity=username, expires_delta=timedelta(minutes=30))
+   
+   
+    return format_handler_v({"msg": "Login successful","token": access_token, "user":username}, 200, format_type)
+
+
+================
+ChatGPT
+
+
+
+
+For the `/ntuaflix_api/login` endpoint, you'd want to test several scenarios to ensure it behaves as expected under various conditions. These include successful login, failed login (due to incorrect username or password), and handling of missing credentials.
+
+Here's a Postman test script for this endpoint:
+
+```javascript
+// Test for successful login
+pm.test("Successful login returns status 200", function () {
+    if (pm.response.code === 200) {
+        let jsonData = pm.response.json();
+        pm.expect(jsonData.msg).to.eql("Login successful");
+        pm.expect(jsonData).to.have.property("token");
+        pm.environment.set("auth_token", jsonData.token); // Optionally save the token for use in other requests
+    }
+});
+
+// Test for login failure due to incorrect credentials
+pm.test("Incorrect username or password returns status 401", function () {
+    if (pm.response.code === 401) {
+        let jsonData = pm.response.json();
+        pm.expect(jsonData.msg).to.eql("Login failed");
+        pm.expect(jsonData.redirect).to.eql("login");
+    }
+});
+
+// Test for the presence of a token on successful login
+pm.test("Check for token on successful login", function () {
+    if (pm.response.code === 200) {
+        let jsonData = pm.response.json();
+        pm.expect(jsonData).to.have.property("token").that.is.not.empty;
+    }
+});
+
+// Test for the correct content type in the response header (assuming JSON is expected)
+pm.test("Content-Type is application/json", function () {
+    pm.response.to.have.header("Content-Type", /application\/json/);
+});
+
+// Test for the response structure in case of success
+pm.test("Response structure is correct on success", function () {
+    if (pm.response.code === 200) {
+        let jsonData = pm.response.json();
+        pm.expect(jsonData).to.have.property('msg');
+        pm.expect(jsonData.msg).to.eql('Login successful');
+        pm.expect(jsonData).to.have.property('token');
+        pm.expect(jsonData).to.have.property('user');
+    }
+});
+```
+
+**Running the Tests:**
+
+1. **Create a new request** in Postman for the POST method and set the URL to your login endpoint, e.g., `https://api.example.com/ntuaflix_api/login`.
+2. Under the **Body** tab, choose `x-www-form-urlencoded` or `form-data` (as required by your API) and input the keys and values for `username` and `passw`.
+3. Go to the **Tests** tab and paste the script provided above.
+4. **Send the request** and observe the results in the "Test Results" tab.
+
+Remember to adjust the test conditions and expectations based on the specific requirements and behavior of your API, such as the expected content type in the response headers or the structure of the response body.

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65c35f7320625bd9bffc888e"
+  },
+  "username": "jim",
+  "password": "pbkdf2:sha256:260000$pphbonCEI8CoV7bP$fd097cf974575aa0de5761f53b3ccfbcd809e8b6d66850a6c95fb8216fc28e5a",
+  "voted": [
+    "tt0095394"
+  ],
+  "seenmovies": [
+    "tt0095394",
+    "tt0099158",
+    "tt0098606"
+  ],
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "65c35f7a20625bd9bffc888f"
+  },
+  "username": "admin",
+  "password": "pbkdf2:sha256:260000$9kVkiWNSduAxa0Fl$ceaa5d57131304726a267c0d0a4cb46ded32e5b89b64e22ef1a34b57b568943d",
+  "voted": [],
+  "seenmovies": [
+    "",
+    ""
+  ],
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "65d0851605377265a0e03413"
+  },
+  "username": "andreas",
+  "password": "scrypt:32768:8:1$INm6Xnl5DVhvdA5b$34a7358ae06a65b47dc9530731aea122fef68a313bf40f8124d306323b5fd3c707c5cde9c0e8f847df6996fca894f117213e6532c89a3919826683a3b360f113",
+  "voted": [],
+  "seenmovies": [
+    "tt0099158"
+  ]
+}]

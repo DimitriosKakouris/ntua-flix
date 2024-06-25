@@ -1,0 +1,574 @@
+{
+    "protocolProfileBehavior": {
+        "disableBodyPruning": true
+    },
+    "item": [
+        {
+            "name": "Login",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "const res = pm.response.json();",
+                            "pm.environment.set(\"token\", res.token);",
+                            "",
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "    pm.expect(res.token).to.be.a('string');",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        { "key": "username", "value": "admin", "type": "text" },
+                        { "key": "passw", "value": "admin", "type": "text" }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/login",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "login"]
+                }
+            }
+        },
+        {
+            "name": "Add User",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        { "key": "username", "value": "newuser", "type": "text" },
+                        { "key": "passw", "value": "newpass", "type": "text" }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/admin/usermod/newuser/newpass",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "admin", "usermod", "newuser", "newpass"]
+                }
+            }
+        },
+
+        {
+            "name": "Logout",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 204\", () => {",
+                            "    pm.response.to.have.status(204);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/logout",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "logout"]
+                }
+            }
+        },
+        {
+            "name": "Login",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "const res = pm.response.json();",
+                            "pm.environment.set(\"token\", res.token);",
+                            "",
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "    pm.expect(res.token).to.be.a('string');",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        { "key": "username", "value": "jim", "type": "text" },
+                        { "key": "passw", "value": "1000", "type": "text" }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/login",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "login"]
+                }
+            }
+        },
+
+        {
+            "name": "Search title Jer",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\"titlePart\": \"Jer\"}",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/searchtitle",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "searchtitle"]
+                }
+            }
+        },
+
+        {
+            "name": "Search title Genre Comedy and min rating 7",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\"qgenre\": \"Comedy\", \"minrating\": 7}",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    }
+                },
+                
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/bygenre",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "bygenre"]
+                }
+            }
+        },
+
+        {
+            "name": "Get title by id tt0000929",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "param": [
+                    {
+                        "key": "titleID",
+                        "value": "tt0000929"
+                    }
+                ],
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/title/tt0000929",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "title", "tt0000929"]
+            }
+        }
+    },
+
+        {
+            "name": "Logout",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 204\", () => {",
+                            "    pm.response.to.have.status(204);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/logout",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "logout"]
+                }
+            }
+        },
+
+        {
+            "name": "Login",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "const res = pm.response.json();",
+                            "pm.environment.set(\"token\", res.token);",
+                            "",
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "    pm.expect(res.token).to.be.a('string');",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": {
+                    "mode": "urlencoded",
+                    "urlencoded": [
+                        { "key": "username", "value": "admin", "type": "text" },
+                        { "key": "passw", "value": "admin", "type": "text" }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/login",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "login"]
+                }
+            }
+        },
+        {
+            "name": "Upload Title Basics",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    },
+                    {
+                        "key": "Content-Type",
+                        "value": "multipart/form-data",
+                        "type": "text"
+                    }
+                ],
+                "body": {
+                    "mode": "formdata",
+                    "formdata": [
+                        {
+                            "key": "file",
+                            "type": "file",
+                            "src": "../data/csvdata/truncated_title.basics.tsv"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/admin/upload/titlebasics",
+                    "host": [
+                        "http://localhost:9876"
+                    ],
+                    "path": [
+                        "ntuaflix_api",
+                        "admin",
+                        "upload",
+                        "titlebasics"
+                    ]
+                }
+            }
+        },
+
+        {
+            "name": "Upload Name Basics",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    },
+                    {
+                        "key": "Content-Type",
+                        "value": "multipart/form-data",
+                        "type": "text"
+                    }
+                ],
+                "body": {
+                    "mode": "formdata",
+                    "formdata": [
+                        {
+                            "key": "file",
+                            "type": "file",
+                            "src": "../data/csvdata/truncated_name.basics.tsv"
+                        }
+                    ]
+                },
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/admin/upload/namebasics",
+                    "host": [
+                        "http://localhost:9876"
+                    ],
+                    "path": [
+                        "ntuaflix_api",
+                        "admin",
+                        "upload",
+                        "namebasics"
+                    ]
+                }
+            }
+        },
+        
+
+        {
+            "name": "Health Check",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/admin/healthcheck",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "admin", "healthcheck"]
+                }
+            }
+        },
+
+        {
+            "name": "ResetAll",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 200\", () => {",
+                            "    pm.response.to.have.status(200);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "GET",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/admin/resetall",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "admin", "resetall"]
+                }
+            }
+        },
+        {
+            "name": "Logout",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "exec": [
+                            "pm.test(\"Status code is 204\", () => {",
+                            "    pm.response.to.have.status(204);",
+                            "});"
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Authorization",
+                        "value": "Bearer {{token}}",
+                        "type": "text"
+                    }
+                ],
+                "url": {
+                    "raw": "http://localhost:9876/ntuaflix_api/logout",
+                    "protocol": "http",
+                    "host": ["localhost"],
+                    "port": "9876",
+                    "path": ["ntuaflix_api", "logout"]
+                }
+            }
+        }
+    ],
+    "variable": [
+        {
+            "key": "token",
+            "value": "",
+            "type": "string"
+        }
+    ]
+}

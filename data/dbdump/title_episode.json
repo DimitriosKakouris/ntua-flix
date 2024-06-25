@@ -1,0 +1,1350 @@
+[{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af4c"
+  },
+  "tconst": "tt0073481",
+  "parentTconst": "tt0298685",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af4d"
+  },
+  "tconst": "tt0088283",
+  "parentTconst": "tt0806901",
+  "seasonNumber": "20",
+  "episodeNumber": "8"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af4e"
+  },
+  "tconst": "tt0088656",
+  "parentTconst": "tt0088655",
+  "seasonNumber": "1",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af4f"
+  },
+  "tconst": "tt0088657",
+  "parentTconst": "tt0088655",
+  "seasonNumber": "1",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af50"
+  },
+  "tconst": "tt0090780",
+  "parentTconst": "tt0190210",
+  "seasonNumber": "1",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af51"
+  },
+  "tconst": "tt0094808",
+  "parentTconst": "tt0882736",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af52"
+  },
+  "tconst": "tt0095661",
+  "parentTconst": "tt3782882",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af53"
+  },
+  "tconst": "tt0095671",
+  "parentTconst": "tt0095670",
+  "seasonNumber": "1",
+  "episodeNumber": "6"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af54"
+  },
+  "tconst": "tt0095672",
+  "parentTconst": "tt0095670",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af55"
+  },
+  "tconst": "tt0095673",
+  "parentTconst": "tt0095670",
+  "seasonNumber": "1",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af56"
+  },
+  "tconst": "tt0095674",
+  "parentTconst": "tt0095670",
+  "seasonNumber": "1",
+  "episodeNumber": "5"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af57"
+  },
+  "tconst": "tt0095783",
+  "parentTconst": "tt0297625",
+  "seasonNumber": "2",
+  "episodeNumber": "6"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af58"
+  },
+  "tconst": "tt0096135",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "6",
+  "episodeNumber": "7"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af59"
+  },
+  "tconst": "tt0096361",
+  "parentTconst": "tt0158415",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af5a"
+  },
+  "tconst": "tt0096362",
+  "parentTconst": "tt0158415",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af5b"
+  },
+  "tconst": "tt0096363",
+  "parentTconst": "tt0158415",
+  "seasonNumber": "1",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af5c"
+  },
+  "tconst": "tt0096781",
+  "parentTconst": "tt1615489",
+  "seasonNumber": "2",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af5d"
+  },
+  "tconst": "tt0096864",
+  "parentTconst": "tt0096538",
+  "seasonNumber": "2",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af5e"
+  },
+  "tconst": "tt0097218",
+  "parentTconst": "tt1685403",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af5f"
+  },
+  "tconst": "tt0097246",
+  "parentTconst": "tt0806901",
+  "seasonNumber": "20",
+  "episodeNumber": "10"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af60"
+  },
+  "tconst": "tt0097324",
+  "parentTconst": "tt1342141",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af61"
+  },
+  "tconst": "tt0097346",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "7",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af62"
+  },
+  "tconst": "tt0097451",
+  "parentTconst": "tt0099283",
+  "seasonNumber": "1",
+  "episodeNumber": "6"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af63"
+  },
+  "tconst": "tt0097783",
+  "parentTconst": "tt1685403",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af64"
+  },
+  "tconst": "tt0097822",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "6",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af65"
+  },
+  "tconst": "tt0097924",
+  "parentTconst": "tt0095670",
+  "seasonNumber": "1",
+  "episodeNumber": "7"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af66"
+  },
+  "tconst": "tt0097925",
+  "parentTconst": "tt0095670",
+  "seasonNumber": "1",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af67"
+  },
+  "tconst": "tt0098021",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "6",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af68"
+  },
+  "tconst": "tt0098553",
+  "parentTconst": "tt1342141",
+  "seasonNumber": "1",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af69"
+  },
+  "tconst": "tt0098561",
+  "parentTconst": "tt0313144",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af6a"
+  },
+  "tconst": "tt0098576",
+  "parentTconst": "tt0158415",
+  "seasonNumber": "1",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af6b"
+  },
+  "tconst": "tt0098755",
+  "parentTconst": "tt0133302",
+  "seasonNumber": "8",
+  "episodeNumber": "8"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af6c"
+  },
+  "tconst": "tt0099003",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "7",
+  "episodeNumber": "12"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af6d"
+  },
+  "tconst": "tt0099032",
+  "parentTconst": "tt1049304",
+  "seasonNumber": "5",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af6e"
+  },
+  "tconst": "tt0099037",
+  "parentTconst": "tt0176357",
+  "seasonNumber": "9",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af6f"
+  },
+  "tconst": "tt0099139",
+  "parentTconst": "tt0313144",
+  "seasonNumber": "1",
+  "episodeNumber": "10"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af70"
+  },
+  "tconst": "tt0099217",
+  "parentTconst": "tt0098761",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af71"
+  },
+  "tconst": "tt0099279",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "6",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af72"
+  },
+  "tconst": "tt0099370",
+  "parentTconst": "tt0098889",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af73"
+  },
+  "tconst": "tt0099383",
+  "parentTconst": "tt0099231",
+  "seasonNumber": "2",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af74"
+  },
+  "tconst": "tt0099427",
+  "parentTconst": "tt1342141",
+  "seasonNumber": "1",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af75"
+  },
+  "tconst": "tt0099457",
+  "parentTconst": "tt0809273",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af76"
+  },
+  "tconst": "tt0099526",
+  "parentTconst": "tt0046593",
+  "seasonNumber": "34",
+  "episodeNumber": "13"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af77"
+  },
+  "tconst": "tt0099530",
+  "parentTconst": "tt12606372",
+  "seasonNumber": "1",
+  "episodeNumber": "6"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af78"
+  },
+  "tconst": "tt0099542",
+  "parentTconst": "tt0098792",
+  "seasonNumber": "1",
+  "episodeNumber": "0"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af79"
+  },
+  "tconst": "tt0099580",
+  "parentTconst": "tt0098798",
+  "seasonNumber": "1",
+  "episodeNumber": "0"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af7a"
+  },
+  "tconst": "tt0099661",
+  "parentTconst": "tt0985040",
+  "seasonNumber": "7",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af7b"
+  },
+  "tconst": "tt0099727",
+  "parentTconst": "tt0159876",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af7c"
+  },
+  "tconst": "tt0099744",
+  "parentTconst": "tt0809273",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af7d"
+  },
+  "tconst": "tt0099745",
+  "parentTconst": "tt0809273",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af7e"
+  },
+  "tconst": "tt0099746",
+  "parentTconst": "tt0809273",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af7f"
+  },
+  "tconst": "tt0099781",
+  "parentTconst": "tt0176357",
+  "seasonNumber": "10",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af80"
+  },
+  "tconst": "tt0099811",
+  "parentTconst": "tt0086734",
+  "seasonNumber": "7",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af81"
+  },
+  "tconst": "tt0099835",
+  "parentTconst": "tt0313144",
+  "seasonNumber": "1",
+  "episodeNumber": "12"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af82"
+  },
+  "tconst": "tt0099851",
+  "parentTconst": "tt0176357",
+  "seasonNumber": "10",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af83"
+  },
+  "tconst": "tt0099952",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "6",
+  "episodeNumber": "12"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af84"
+  },
+  "tconst": "tt0099971",
+  "parentTconst": "tt1049304",
+  "seasonNumber": "5",
+  "episodeNumber": "5"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af85"
+  },
+  "tconst": "tt0099992",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "7",
+  "episodeNumber": "7"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af86"
+  },
+  "tconst": "tt0100155",
+  "parentTconst": "tt0167566",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af87"
+  },
+  "tconst": "tt0100216",
+  "parentTconst": "tt0094525",
+  "seasonNumber": "3",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af88"
+  },
+  "tconst": "tt0100255",
+  "parentTconst": "tt1049304",
+  "seasonNumber": "5",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af89"
+  },
+  "tconst": "tt0100316",
+  "parentTconst": "tt0098884",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af8a"
+  },
+  "tconst": "tt0100370",
+  "parentTconst": "tt1634348",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af8b"
+  },
+  "tconst": "tt0100406",
+  "parentTconst": "tt0099231",
+  "seasonNumber": "2",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af8c"
+  },
+  "tconst": "tt0100439",
+  "parentTconst": "tt0166458",
+  "seasonNumber": "4",
+  "episodeNumber": "9"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af8d"
+  },
+  "tconst": "tt0100474",
+  "parentTconst": "tt0167566",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af8e"
+  },
+  "tconst": "tt0100482",
+  "parentTconst": "tt0167566",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af8f"
+  },
+  "tconst": "tt0100492",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "241"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af90"
+  },
+  "tconst": "tt0100578",
+  "parentTconst": "tt0176357",
+  "seasonNumber": "9",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af91"
+  },
+  "tconst": "tt0100580",
+  "parentTconst": "tt1601983",
+  "seasonNumber": "3",
+  "episodeNumber": "5"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af92"
+  },
+  "tconst": "tt0100642",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "6",
+  "episodeNumber": "8"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af93"
+  },
+  "tconst": "tt0100658",
+  "parentTconst": "tt0166458",
+  "seasonNumber": "4",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af94"
+  },
+  "tconst": "tt0100664",
+  "parentTconst": "tt0815353",
+  "seasonNumber": "1",
+  "episodeNumber": "7"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af95"
+  },
+  "tconst": "tt0100710",
+  "parentTconst": "tt0098889",
+  "seasonNumber": "1",
+  "episodeNumber": "10"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af96"
+  },
+  "tconst": "tt0100718",
+  "parentTconst": "tt0098916",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af97"
+  },
+  "tconst": "tt0100724",
+  "parentTconst": "tt0297625",
+  "seasonNumber": "2",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af98"
+  },
+  "tconst": "tt0100748",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "237"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af99"
+  },
+  "tconst": "tt0100749",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "229"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af9a"
+  },
+  "tconst": "tt0100750",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "227"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af9b"
+  },
+  "tconst": "tt0100751",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "231"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af9c"
+  },
+  "tconst": "tt0100752",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "236"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af9d"
+  },
+  "tconst": "tt0100753",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "228"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af9e"
+  },
+  "tconst": "tt0100754",
+  "parentTconst": "tt0806901",
+  "seasonNumber": "20",
+  "episodeNumber": "9"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1af9f"
+  },
+  "tconst": "tt0100755",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "233"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa0"
+  },
+  "tconst": "tt0100770",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "7",
+  "episodeNumber": "11"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa1"
+  },
+  "tconst": "tt0100818",
+  "parentTconst": "tt0167566",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa2"
+  },
+  "tconst": "tt0100900",
+  "parentTconst": "tt0364151",
+  "seasonNumber": "6",
+  "episodeNumber": "10"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa3"
+  },
+  "tconst": "tt0100948",
+  "parentTconst": "tt0176357",
+  "seasonNumber": "9",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa4"
+  },
+  "tconst": "tt0100953",
+  "parentTconst": "tt1615489",
+  "seasonNumber": "2",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa5"
+  },
+  "tconst": "tt0101095",
+  "parentTconst": "tt13031912",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa6"
+  },
+  "tconst": "tt0101179",
+  "parentTconst": "tt0401056",
+  "seasonNumber": "2",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa7"
+  },
+  "tconst": "tt0101246",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "7",
+  "episodeNumber": "5"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa8"
+  },
+  "tconst": "tt0101271",
+  "parentTconst": "tt0297625",
+  "seasonNumber": "3",
+  "episodeNumber": "9"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afa9"
+  },
+  "tconst": "tt0101274",
+  "parentTconst": "tt0346328",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afaa"
+  },
+  "tconst": "tt0101300",
+  "parentTconst": "tt0297625",
+  "seasonNumber": "3",
+  "episodeNumber": "7"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afab"
+  },
+  "tconst": "tt0101358",
+  "parentTconst": "tt1049304",
+  "seasonNumber": "5",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afac"
+  },
+  "tconst": "tt0101443",
+  "parentTconst": "tt0806901",
+  "seasonNumber": "21",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afad"
+  },
+  "tconst": "tt0101480",
+  "parentTconst": "tt0139780",
+  "seasonNumber": "1",
+  "episodeNumber": "5"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afae"
+  },
+  "tconst": "tt0101655",
+  "parentTconst": "tt3687174",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afaf"
+  },
+  "tconst": "tt0101729",
+  "parentTconst": "tt0094456",
+  "seasonNumber": "6",
+  "episodeNumber": "10"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb0"
+  },
+  "tconst": "tt0101750",
+  "parentTconst": "tt0298685",
+  "seasonNumber": "2",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb1"
+  },
+  "tconst": "tt0101835",
+  "parentTconst": "tt12606372",
+  "seasonNumber": "1",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb2"
+  },
+  "tconst": "tt0101836",
+  "parentTconst": "tt12606372",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb3"
+  },
+  "tconst": "tt0101837",
+  "parentTconst": "tt12606372",
+  "seasonNumber": "1",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb4"
+  },
+  "tconst": "tt0101838",
+  "parentTconst": "tt12606372",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb5"
+  },
+  "tconst": "tt0101840",
+  "parentTconst": "tt12606372",
+  "seasonNumber": "1",
+  "episodeNumber": "5"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb6"
+  },
+  "tconst": "tt0101894",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "8",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb7"
+  },
+  "tconst": "tt0101915",
+  "parentTconst": "tt0159876",
+  "seasonNumber": "19",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb8"
+  },
+  "tconst": "tt0101971",
+  "parentTconst": "tt0176357",
+  "seasonNumber": "10",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afb9"
+  },
+  "tconst": "tt0101972",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "8",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afba"
+  },
+  "tconst": "tt0102012",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "7",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afbb"
+  },
+  "tconst": "tt0102111",
+  "parentTconst": "tt1615489",
+  "seasonNumber": "2",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afbc"
+  },
+  "tconst": "tt0102199",
+  "parentTconst": "tt0199184",
+  "seasonNumber": "16",
+  "episodeNumber": "17"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afbd"
+  },
+  "tconst": "tt0102255",
+  "parentTconst": "tt1634348",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afbe"
+  },
+  "tconst": "tt0102276",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "8",
+  "episodeNumber": "11"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afbf"
+  },
+  "tconst": "tt0102281",
+  "parentTconst": "tt0297626",
+  "seasonNumber": "8",
+  "episodeNumber": "10"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc0"
+  },
+  "tconst": "tt0102337",
+  "parentTconst": "tt0159876",
+  "seasonNumber": "20",
+  "episodeNumber": "17"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc1"
+  },
+  "tconst": "tt0102378",
+  "parentTconst": "tt0167644",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc2"
+  },
+  "tconst": "tt0102379",
+  "parentTconst": "tt0167644",
+  "seasonNumber": "1",
+  "episodeNumber": "4"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc3"
+  },
+  "tconst": "tt0102416",
+  "parentTconst": "tt0098765",
+  "seasonNumber": "2",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc4"
+  },
+  "tconst": "tt0102424",
+  "parentTconst": "tt0166458",
+  "seasonNumber": "5",
+  "episodeNumber": "9"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc5"
+  },
+  "tconst": "tt0102474",
+  "parentTconst": "tt15175450",
+  "seasonNumber": "1",
+  "episodeNumber": "6"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc6"
+  },
+  "tconst": "tt0102501",
+  "parentTconst": "tt0106078",
+  "seasonNumber": "2",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc7"
+  },
+  "tconst": "tt0102502",
+  "parentTconst": "tt0106078",
+  "seasonNumber": "2",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc8"
+  },
+  "tconst": "tt0102547",
+  "parentTconst": "tt0889258",
+  "seasonNumber": "2",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afc9"
+  },
+  "tconst": "tt0102621",
+  "parentTconst": "tt0101161",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afca"
+  },
+  "tconst": "tt0102643",
+  "parentTconst": "tt0101152",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afcb"
+  },
+  "tconst": "tt0102644",
+  "parentTconst": "tt0159876",
+  "seasonNumber": "20",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afcc"
+  },
+  "tconst": "tt0102711",
+  "parentTconst": "tt0297625",
+  "seasonNumber": "3",
+  "episodeNumber": "6"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afcd"
+  },
+  "tconst": "tt0102769",
+  "parentTconst": "tt0889258",
+  "seasonNumber": "2",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afce"
+  },
+  "tconst": "tt0102786",
+  "parentTconst": "tt0135104",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afcf"
+  },
+  "tconst": "tt0102787",
+  "parentTconst": "tt0135104",
+  "seasonNumber": "\\N",
+  "episodeNumber": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd0"
+  },
+  "tconst": "tt0102856",
+  "parentTconst": "tt1226281",
+  "seasonNumber": "1",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd1"
+  },
+  "tconst": "tt0102857",
+  "parentTconst": "tt0846838",
+  "seasonNumber": "1",
+  "episodeNumber": "11"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd2"
+  },
+  "tconst": "tt0102863",
+  "parentTconst": "tt0297625",
+  "seasonNumber": "3",
+  "episodeNumber": "3"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd3"
+  },
+  "tconst": "tt0102925",
+  "parentTconst": "tt0939820",
+  "seasonNumber": "1",
+  "episodeNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd4"
+  },
+  "tconst": "tt0103020",
+  "parentTconst": "tt0096658",
+  "seasonNumber": "3",
+  "episodeNumber": "13"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd5"
+  },
+  "tconst": "tt0103046",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "252"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd6"
+  },
+  "tconst": "tt0103047",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "251"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd7"
+  },
+  "tconst": "tt0103048",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "239"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd8"
+  },
+  "tconst": "tt0103049",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "250"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afd9"
+  },
+  "tconst": "tt0103050",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "234"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afda"
+  },
+  "tconst": "tt0103051",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "247"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afdb"
+  },
+  "tconst": "tt0103052",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "246"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afdc"
+  },
+  "tconst": "tt0103053",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "249"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afdd"
+  },
+  "tconst": "tt0103054",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "240"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afde"
+  },
+  "tconst": "tt0103062",
+  "parentTconst": "tt0297625",
+  "seasonNumber": "3",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afdf"
+  },
+  "tconst": "tt0103071",
+  "parentTconst": "tt0806901",
+  "seasonNumber": "21",
+  "episodeNumber": "9"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afe0"
+  },
+  "tconst": "tt0103145",
+  "parentTconst": "tt0985040",
+  "seasonNumber": "9",
+  "episodeNumber": "2"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1afe1"
+  },
+  "tconst": "tt0103149",
+  "parentTconst": "tt0806910",
+  "seasonNumber": "1",
+  "episodeNumber": "243"
+}]

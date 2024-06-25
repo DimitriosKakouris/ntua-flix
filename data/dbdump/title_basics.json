@@ -1,0 +1,7500 @@
+[{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a06d"
+  },
+  "tconst": "tt0000929",
+  "titleType": "short",
+  "primaryTitle": "Klebolin klebt alles",
+  "originalTitle": "Klebolin klebt alles",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a06e"
+  },
+  "tconst": "tt0000977",
+  "titleType": "short",
+  "primaryTitle": "Mutterliebe",
+  "originalTitle": "Mutterliebe",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a06f"
+  },
+  "tconst": "tt0034841",
+  "titleType": "short",
+  "primaryTitle": "Hen Hop",
+  "originalTitle": "Hen Hop",
+  "isAdult": "0",
+  "startYear": "1994",
+  "endYear": "\\N",
+  "runtimeMinutes": "4",
+  "genres": "Animation,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/88EH2TVg6fGK7SnGXcfQ05MD2Rk.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a070"
+  },
+  "tconst": "tt0040844",
+  "titleType": "short",
+  "primaryTitle": "Crossroads of Laredo",
+  "originalTitle": "Crossroads of Laredo",
+  "isAdult": "0",
+  "startYear": "1995",
+  "endYear": "\\N",
+  "runtimeMinutes": "30",
+  "genres": "Short,Western",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/atrGjxMSp6y4jvs7nojUrlsGFUb.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a071"
+  },
+  "tconst": "tt0078006",
+  "titleType": "short",
+  "primaryTitle": "Norman and the Killer",
+  "originalTitle": "Norman and the Killer",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "30",
+  "genres": "Horror,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a072"
+  },
+  "tconst": "tt0082473",
+  "titleType": "short",
+  "primaryTitle": "The Great Barrier Reef",
+  "originalTitle": "Great Barrier Reef",
+  "isAdult": "0",
+  "startYear": "1999",
+  "endYear": "\\N",
+  "runtimeMinutes": "39",
+  "genres": "Documentary,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/woteaQKihwadpEr7XXxyt6aAd0v.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a073"
+  },
+  "tconst": "tt0082891",
+  "titleType": "short",
+  "primaryTitle": "Peep Show",
+  "originalTitle": "Peep Show",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "7",
+  "genres": "Drama,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/c4AFJyVdaJ4Rglg5d4qKibY8CEM.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a074"
+  },
+  "tconst": "tt0084447",
+  "titleType": "short",
+  "primaryTitle": "Open House",
+  "originalTitle": "Open House",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "25",
+  "genres": "Drama,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a075"
+  },
+  "tconst": "tt0084638",
+  "titleType": "short",
+  "primaryTitle": "Scenes from the Life of Andy Warhol: Friendships and Intersections",
+  "originalTitle": "Scenes from the Life of Andy Warhol: Friendships and Intersections",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "36",
+  "genres": "Documentary,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/avHpCWc17IYJZqifb7bSQI2OqC9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a076"
+  },
+  "tconst": "tt0087306",
+  "titleType": "short",
+  "primaryTitle": "Les funérailles du Larle Naba",
+  "originalTitle": "Les funérailles du Larle Naba",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "30",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a077"
+  },
+  "tconst": "tt0090144",
+  "titleType": "short",
+  "primaryTitle": "Le temps des bouffons",
+  "originalTitle": "Le temps des bouffons",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "15",
+  "genres": "Documentary,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/7PVsQkiQsMf5j4pviQgEKJh4BPo.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a078"
+  },
+  "tconst": "tt0091490",
+  "titleType": "short",
+  "primaryTitle": "Martina's Playhouse",
+  "originalTitle": "Martina's Playhouse",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "20",
+  "genres": "Drama,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a079"
+  },
+  "tconst": "tt0093099",
+  "titleType": "short",
+  "primaryTitle": "Going Equipped",
+  "originalTitle": "Going Equipped",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "5",
+  "genres": "Animation,Crime,Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/6X0yrVj6YpATap4ybpEcimywbPG.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a07a"
+  },
+  "tconst": "tt0093211",
+  "titleType": "short",
+  "primaryTitle": "Horrorshow",
+  "originalTitle": "Horrorshow",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "5",
+  "genres": "Horror,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a07b"
+  },
+  "tconst": "tt0093646",
+  "titleType": "short",
+  "primaryTitle": "Nonstop",
+  "originalTitle": "Nonstop",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "20",
+  "genres": "Drama,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/iFIazBvTyM9e2U79RTKmoG3qrzp.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a07c"
+  },
+  "tconst": "tt0094390",
+  "titleType": "short",
+  "primaryTitle": "Zwisch!",
+  "originalTitle": "Zwisch!",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "1",
+  "genres": "Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mEzDaxLYnPfl7Vp1iRVgAoFBAZu.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a07d"
+  },
+  "tconst": "tt0095147",
+  "titleType": "short",
+  "primaryTitle": "Feet of Song",
+  "originalTitle": "Feet of Song",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "6",
+  "genres": "Animation,Musical,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/uvZkYcmdV68z0yjMGkQ2TLITzs6.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a07e"
+  },
+  "tconst": "tt0095229",
+  "titleType": "short",
+  "primaryTitle": "God morgon Gerda Gök",
+  "originalTitle": "God morgon Gerda Gök",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "7",
+  "genres": "Animation,Family,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bKa44cUbDrMGXqTrV6ZVbKIEDNA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a07f"
+  },
+  "tconst": "tt0095571",
+  "titleType": "short",
+  "primaryTitle": "The Making of Monsters",
+  "originalTitle": "The Making of Monsters",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "35",
+  "genres": "Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zgenzvJ09QuRaduURuBuQzmM4jy.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a080"
+  },
+  "tconst": "tt0096035",
+  "titleType": "short",
+  "primaryTitle": "Sapphire Man",
+  "originalTitle": "Sapphire Man",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "25",
+  "genres": "Crime,Drama,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a081"
+  },
+  "tconst": "tt0096107",
+  "titleType": "short",
+  "primaryTitle": "Seven Days a Week - CITY LIFE - Warsaw",
+  "originalTitle": "Seven Days a Week - CITY LIFE - Warsaw",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "18",
+  "genres": "Documentary,Drama,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a082"
+  },
+  "tconst": "tt0096254",
+  "titleType": "short",
+  "primaryTitle": "That Burning Question",
+  "originalTitle": "That Burning Question",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "30",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a083"
+  },
+  "tconst": "tt0096345",
+  "titleType": "short",
+  "primaryTitle": "Unter Freunden",
+  "originalTitle": "Unter Freunden",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "15",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a084"
+  },
+  "tconst": "tt0096975",
+  "titleType": "short",
+  "primaryTitle": "Bravo Papa 2040",
+  "originalTitle": "Bravo Papa 2040",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "6",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a085"
+  },
+  "tconst": "tt0097057",
+  "titleType": "short",
+  "primaryTitle": "The Child Eater",
+  "originalTitle": "The Child Eater",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "15",
+  "genres": "Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/n75gNLjoIWmsW2WIiWqkRZTJMAs.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a086"
+  },
+  "tconst": "tt0097310",
+  "titleType": "short",
+  "primaryTitle": "Ex libris",
+  "originalTitle": "Ex libris",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "12",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a087"
+  },
+  "tconst": "tt0097362",
+  "titleType": "short",
+  "primaryTitle": "The First Emperor of China",
+  "originalTitle": "The First Emperor of China",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "42",
+  "genres": "Documentary,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5yQfgwPYCazfLhLoXpxsx0YYlFt.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a088"
+  },
+  "tconst": "tt0097436",
+  "titleType": "short",
+  "primaryTitle": "Gisèle Kérozène",
+  "originalTitle": "Gisèle Kérozène",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "5",
+  "genres": "Action,Comedy,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9XrFxCaBwyOxlP9sbFU2nZbiPyZ.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a089"
+  },
+  "tconst": "tt0097509",
+  "titleType": "short",
+  "primaryTitle": "The Hill Farm",
+  "originalTitle": "The Hill Farm",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "18",
+  "genres": "Animation,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/2DeO5VwMoHCZ5lUIQwAlJp3e7Fx.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a08a"
+  },
+  "tconst": "tt0097558",
+  "titleType": "short",
+  "primaryTitle": "Ident",
+  "originalTitle": "Ident",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "5",
+  "genres": "Animation,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9RzNNJxAuHGrAf4kw35lZ1Ry5mM.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a08b"
+  },
+  "tconst": "tt0097966",
+  "titleType": "short",
+  "primaryTitle": "Next",
+  "originalTitle": "Next",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "5",
+  "genres": "Animation,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hlei6WySTYX1KuUHQ7RDCtWurx7.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a08c"
+  },
+  "tconst": "tt0097970",
+  "titleType": "short",
+  "primaryTitle": "Night Cries: A Rural Tragedy",
+  "originalTitle": "Night Cries: A Rural Tragedy",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "19",
+  "genres": "Drama,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/xtduPHL6hRlR9VEsj6EY2Ua16vr.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a08d"
+  },
+  "tconst": "tt0098182",
+  "titleType": "short",
+  "primaryTitle": "Rejsen mod en fødsel",
+  "originalTitle": "Rejsen mod en fødsel",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "8",
+  "genres": "Animation,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a08e"
+  },
+  "tconst": "tt0098267",
+  "titleType": "short",
+  "primaryTitle": "Schwarzbunt Märchen",
+  "originalTitle": "Schwarzbunt Märchen",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "11",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a08f"
+  },
+  "tconst": "tt0098392",
+  "titleType": "short",
+  "primaryTitle": "Der Strandpirat",
+  "originalTitle": "Der Strandpirat",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "14",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a090"
+  },
+  "tconst": "tt0098634",
+  "titleType": "short",
+  "primaryTitle": "Western",
+  "originalTitle": "Western",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "2",
+  "genres": "Animation,Short,Western",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a091"
+  },
+  "tconst": "tt0098962",
+  "titleType": "short",
+  "primaryTitle": "12:01 PM",
+  "originalTitle": "12:01 PM",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "25",
+  "genres": "Sci-Fi,Short,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/sBWKO6xnzAxnXCup7JENu15ZIoV.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a092"
+  },
+  "tconst": "tt0098985",
+  "titleType": "short",
+  "primaryTitle": "The Addict",
+  "originalTitle": "The Addict",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a093"
+  },
+  "tconst": "tt0098997",
+  "titleType": "short",
+  "primaryTitle": "L'âge de plastic",
+  "originalTitle": "L'âge de plastic",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "31",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a094"
+  },
+  "tconst": "tt0099006",
+  "titleType": "short",
+  "primaryTitle": "The Air Globes",
+  "originalTitle": "The Air Globes",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a095"
+  },
+  "tconst": "tt0099023",
+  "titleType": "short",
+  "primaryTitle": "Les amateurs",
+  "originalTitle": "Les amateurs",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "26",
+  "genres": "Documentary,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a096"
+  },
+  "tconst": "tt0099035",
+  "titleType": "short",
+  "primaryTitle": "An der Grenze",
+  "originalTitle": "An der Grenze",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "19",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a097"
+  },
+  "tconst": "tt0099058",
+  "titleType": "short",
+  "primaryTitle": "Armenia",
+  "originalTitle": "Armenia",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "11",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a098"
+  },
+  "tconst": "tt0099060",
+  "titleType": "short",
+  "primaryTitle": "Arrivederci Roma",
+  "originalTitle": "Arrivederci Roma",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "26",
+  "genres": "Romance,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a099"
+  },
+  "tconst": "tt0099096",
+  "titleType": "short",
+  "primaryTitle": "Baito",
+  "originalTitle": "Baito",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a09a"
+  },
+  "tconst": "tt0099102",
+  "titleType": "short",
+  "primaryTitle": "Band söker basist",
+  "originalTitle": "Band söker basist",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "14",
+  "genres": "Comedy,Music,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a09b"
+  },
+  "tconst": "tt0099105",
+  "titleType": "short",
+  "primaryTitle": "Barbie Digs Joe",
+  "originalTitle": "Barbie Digs Joe",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a09c"
+  },
+  "tconst": "tt0099115",
+  "titleType": "short",
+  "primaryTitle": "Die Beichte",
+  "originalTitle": "Die Beichte",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "11",
+  "genres": "Animation,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ui9yFovcSvj67D2WC9dxrJHfXBR.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a09d"
+  },
+  "tconst": "tt0099147",
+  "titleType": "short",
+  "primaryTitle": "Blaubart",
+  "originalTitle": "Blaubart",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "15",
+  "genres": "Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a09e"
+  },
+  "tconst": "tt0099158",
+  "titleType": "short",
+  "primaryTitle": "Blue Planet",
+  "originalTitle": "Blue Planet",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "42",
+  "genres": "Documentary,Short",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1G33v3homFEZoPzjSxPalnhCE0g.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a09f"
+  },
+  "tconst": "tt0015414",
+  "titleType": "movie",
+  "primaryTitle": "La tierra de los toros",
+  "originalTitle": "La tierra de los toros",
+  "isAdult": "0",
+  "startYear": "2000",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "\\N",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hIPPcKfGfmr435bLWICRxPSfiDR.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a0"
+  },
+  "tconst": "tt0015724",
+  "titleType": "movie",
+  "primaryTitle": "Dama de noche",
+  "originalTitle": "Dama de noche",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Drama,Mystery,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zCmyAl7VG6aZJqWZ7PFfj9e6ToU.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a1"
+  },
+  "tconst": "tt0038086",
+  "titleType": "movie",
+  "primaryTitle": "Shiva und die Galgenblume",
+  "originalTitle": "Shiva und die Galgenblume",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a2"
+  },
+  "tconst": "tt0059325",
+  "titleType": "movie",
+  "primaryTitle": "Born in '45",
+  "originalTitle": "Jahrgang 45",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dzi12DaoPcCrE6mCMLggtbqTZYV.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a3"
+  },
+  "tconst": "tt0059900",
+  "titleType": "movie",
+  "primaryTitle": "Wenn du groß bist, lieber Adam",
+  "originalTitle": "Wenn du groß bist, lieber Adam",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "78",
+  "genres": "Drama,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/nrVv0B2idMRwzQFlERPZspBFwZA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a4"
+  },
+  "tconst": "tt0065188",
+  "titleType": "movie",
+  "primaryTitle": "Vojtech, receny sirotek",
+  "originalTitle": "Vojtech, receny sirotek",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/r1FGlDacCdmDauQIbRne5aPV3Zn.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a5"
+  },
+  "tconst": "tt0067460",
+  "titleType": "movie",
+  "primaryTitle": "My Kingdom for...",
+  "originalTitle": "My Kingdom For...",
+  "isAdult": "0",
+  "startYear": "1995",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Documentary,Sport",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a6"
+  },
+  "tconst": "tt0068494",
+  "titleType": "movie",
+  "primaryTitle": "Domo Arigato",
+  "originalTitle": "Domo Arigato",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/84SX6npSGvfJPnmNVur7WV9dkam.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a7"
+  },
+  "tconst": "tt0070501",
+  "titleType": "movie",
+  "primaryTitle": "Little White Dove",
+  "originalTitle": "Palomita blanca",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "125",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dWwwtXoKFRq9Bky6fnbo2MIfNRH.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a8"
+  },
+  "tconst": "tt0077432",
+  "titleType": "movie",
+  "primaryTitle": "Bloody Hero",
+  "originalTitle": "Dip huet kei bing",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Action,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/vpECh5vvQeL53Ucs1UcwXybkmSN.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0a9"
+  },
+  "tconst": "tt0080039",
+  "titleType": "movie",
+  "primaryTitle": "A Touch of the Sun",
+  "originalTitle": "A Touch of the Sun",
+  "isAdult": "0",
+  "startYear": "1996",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/etZnhwLevDOGjOzCiZG2lxZFNUj.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0aa"
+  },
+  "tconst": "tt0081008",
+  "titleType": "movie",
+  "primaryTitle": "Kommen und gehen",
+  "originalTitle": "Kommen und gehen",
+  "isAdult": "0",
+  "startYear": "1994",
+  "endYear": "\\N",
+  "runtimeMinutes": "50",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ab"
+  },
+  "tconst": "tt0081145",
+  "titleType": "movie",
+  "primaryTitle": "Me and the Kid",
+  "originalTitle": "Me and the Kid",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ac"
+  },
+  "tconst": "tt0081436",
+  "titleType": "movie",
+  "primaryTitle": "Rosa Heimat - eine Landillusion",
+  "originalTitle": "Rosa Heimat - eine Landillusion",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ad"
+  },
+  "tconst": "tt0081721",
+  "titleType": "movie",
+  "primaryTitle": "Vincent and Me",
+  "originalTitle": "Vincent et moi",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama,Family,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4aZPLjmBXQMUwfr5a93k2z3aVvW.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ae"
+  },
+  "tconst": "tt0083837",
+  "titleType": "movie",
+  "primaryTitle": "The Dirty Area",
+  "originalTitle": "The Dirty Area",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0af"
+  },
+  "tconst": "tt0084015",
+  "titleType": "movie",
+  "primaryTitle": "Goodbye Paradise",
+  "originalTitle": "Goodbye Paradise",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "101",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hUjT0Hz4fzPIUqBkvR2Zhi3I5mC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b0"
+  },
+  "tconst": "tt0084551",
+  "titleType": "movie",
+  "primaryTitle": "The Buddhist Spell",
+  "originalTitle": "Pu ti you hun",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Comedy,Drama,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/kvCCkvGdodXoxFCiNKasC6BLk9d.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b1"
+  },
+  "tconst": "tt0084870",
+  "titleType": "movie",
+  "primaryTitle": "Memories and Confessions",
+  "originalTitle": "Visita ou Memórias e Confissões",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "73",
+  "genres": "Biography,History",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1tMlCorBC5SRtQm5Nz6kakABH4.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b2"
+  },
+  "tconst": "tt0088267",
+  "titleType": "movie",
+  "primaryTitle": "An Eternal Combat",
+  "originalTitle": "Tian di xuan men",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Action,Comedy,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5f5fEbNsh0vlUpx5w8A0b5rBLcT.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b3"
+  },
+  "tconst": "tt0089043",
+  "titleType": "movie",
+  "primaryTitle": "The Double Burden: Three Generations of Working Mothers",
+  "originalTitle": "The Double Burden: Three Generations of Working Mothers",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b4"
+  },
+  "tconst": "tt0090000",
+  "titleType": "movie",
+  "primaryTitle": "Wet Sexes in the Sun",
+  "originalTitle": "Sexos húmedos al sol",
+  "isAdult": "1",
+  "startYear": "1995",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Adult",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b5"
+  },
+  "tconst": "tt0090665",
+  "titleType": "movie",
+  "primaryTitle": "Halfaouine: Boy of the Terraces",
+  "originalTitle": "Asfour Stah",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/14lvkOnU9dfDKp6PE2TFeCCzVU5.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b6"
+  },
+  "tconst": "tt0090785",
+  "titleType": "movie",
+  "primaryTitle": "Call Me Mr. Brown",
+  "originalTitle": "Call Me Mr. Brown",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/qseL9xDNNJq0DAdBhoq4OZWgQr.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b7"
+  },
+  "tconst": "tt0090869",
+  "titleType": "movie",
+  "primaryTitle": "Comando terrorista",
+  "originalTitle": "Comando terrorista",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "83",
+  "genres": "Action",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b8"
+  },
+  "tconst": "tt0091899",
+  "titleType": "movie",
+  "primaryTitle": "The Scarlet Scorpion",
+  "originalTitle": "O Escorpião Escarlate",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/qvqyXbcqYoLMUtu4pPeT5i0WP7s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0b9"
+  },
+  "tconst": "tt0092024",
+  "titleType": "movie",
+  "primaryTitle": "El sueño de Tánger",
+  "originalTitle": "El sueño de Tánger",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Drama,Romance,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/AoQHwDZeXFLWnNAKQfv0HsJjHHG.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ba"
+  },
+  "tconst": "tt0092507",
+  "titleType": "movie",
+  "primaryTitle": "Abhimanyu",
+  "originalTitle": "Abhimanyu",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "140",
+  "genres": "Crime,Drama,Musical",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/maDMkUFxjxdGKVKqJkzmrvWVij2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0bb"
+  },
+  "tconst": "tt0092589",
+  "titleType": "movie",
+  "primaryTitle": "Astonished",
+  "originalTitle": "Astonished",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Mystery",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/Au9uv6dTpzv4OseQi5hR1fMkTxz.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0bc"
+  },
+  "tconst": "tt0092926",
+  "titleType": "movie",
+  "primaryTitle": "Dragon Hunt",
+  "originalTitle": "Dragon Hunt",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Action",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/pmjwWH6i5BPFFlk36C5dzAaac3I.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0bd"
+  },
+  "tconst": "tt0092984",
+  "titleType": "movie",
+  "primaryTitle": "Esto es un atraco",
+  "originalTitle": "Esto es un atraco",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/gvAJfhqbZqAoaN4hzA9htk8QWq3.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0be"
+  },
+  "tconst": "tt0093061",
+  "titleType": "movie",
+  "primaryTitle": "Funkytown",
+  "originalTitle": "Funkytown",
+  "isAdult": "0",
+  "startYear": "1998",
+  "endYear": "\\N",
+  "runtimeMinutes": "82",
+  "genres": "Documentary,Music",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0bf"
+  },
+  "tconst": "tt0093081",
+  "titleType": "movie",
+  "primaryTitle": "Geld",
+  "originalTitle": "Geld",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c0"
+  },
+  "tconst": "tt0093210",
+  "titleType": "movie",
+  "primaryTitle": "La hora 24",
+  "originalTitle": "La hora 24",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Drama,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bbZ0KQvWK0dbwSVH69O8d1eRFXC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c1"
+  },
+  "tconst": "tt0093309",
+  "titleType": "movie",
+  "primaryTitle": "The Ultimate Vampire",
+  "originalTitle": "Jiang shi zhi zun",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Comedy,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/30dEWag4exYaAygUtvpPwkKs8L4.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c2"
+  },
+  "tconst": "tt0093508",
+  "titleType": "movie",
+  "primaryTitle": "Material urbà",
+  "originalTitle": "Material urbà",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "\\N",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/8avvHHMQypyxFjl5C1sTSdjuCJK.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c3"
+  },
+  "tconst": "tt0093572",
+  "titleType": "movie",
+  "primaryTitle": "Moskovskaya elegiya",
+  "originalTitle": "Moskovskaya elegiya",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bUraKkwSVleQ2nev9PDuPTDHhbs.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c4"
+  },
+  "tconst": "tt0093989",
+  "titleType": "movie",
+  "primaryTitle": "Slaughter in Xian",
+  "originalTitle": "Xian sha lu",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "115",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/7Jj8ByloRYVHnvvGeF3jdfmhLuU.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c5"
+  },
+  "tconst": "tt0094004",
+  "titleType": "movie",
+  "primaryTitle": "Soldier of Fortune",
+  "originalTitle": "Soldier of Fortune",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Action,Thriller,War",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9IRxPfhOWnctIyC7ByqYZFC0aDu.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c6"
+  },
+  "tconst": "tt0094376",
+  "titleType": "movie",
+  "primaryTitle": "Middle Man",
+  "originalTitle": "Huang jia shi jie zhi: Zhong jian ren",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dLZG4fLZHe38zP1gv1kVwEtwK4j.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c7"
+  },
+  "tconst": "tt0094609",
+  "titleType": "movie",
+  "primaryTitle": "Das achte Gebot",
+  "originalTitle": "Das achte Gebot",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wNhgB3HJgJctvaWchbivVrvhFYc.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c8"
+  },
+  "tconst": "tt0094666",
+  "titleType": "movie",
+  "primaryTitle": "Any Man's Death",
+  "originalTitle": "Any Man's Death",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "108",
+  "genres": "Adventure,Drama,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rqXdQvWwi47Ddg6yckdTBqTrE4A.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0c9"
+  },
+  "tconst": "tt0094688",
+  "titleType": "movie",
+  "primaryTitle": "Augen... Blicke",
+  "originalTitle": "Augen... Blicke",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "77",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ca"
+  },
+  "tconst": "tt0094841",
+  "titleType": "movie",
+  "primaryTitle": "The House of Smiles",
+  "originalTitle": "La casa del sorriso",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "110",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/cBhYGT6qFEDZAtB8hEjPb1hzJAC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0cb"
+  },
+  "tconst": "tt0094857",
+  "titleType": "movie",
+  "primaryTitle": "Fatal Termination",
+  "originalTitle": "Chi se da feng bao",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "89",
+  "genres": "Drama,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/c6stRKsVwA6SJLaYCAdNncbatQ8.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0cc"
+  },
+  "tconst": "tt0094874",
+  "titleType": "movie",
+  "primaryTitle": "The Figures from Earth",
+  "originalTitle": "Chu tu qi bing",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "89",
+  "genres": "Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dFRUZcP9CUEBJCAw9PaQIvqx6Fz.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0cd"
+  },
+  "tconst": "tt0094900",
+  "titleType": "movie",
+  "primaryTitle": "Committed",
+  "originalTitle": "Committed",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zxQPHwFKLkERhSqHVRW4IFRgrTQ.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ce"
+  },
+  "tconst": "tt0094926",
+  "titleType": "movie",
+  "primaryTitle": "Curse of the Crystal Eye",
+  "originalTitle": "Curse of the Crystal Eye",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "73",
+  "genres": "Action",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/iifZWNqYc1SSqYYULi5oOOrgTgr.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0cf"
+  },
+  "tconst": "tt0094997",
+  "titleType": "movie",
+  "primaryTitle": "Demonia",
+  "originalTitle": "Demonia",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Horror,Mystery",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oD86JcKm8PgfWzlAjDqTqJSf2S4.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d0"
+  },
+  "tconst": "tt0095006",
+  "titleType": "movie",
+  "primaryTitle": "Destroying Angel",
+  "originalTitle": "Destroying Angel",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ffjwFsQulONVAbeHqc9U7Q22H7f.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d1"
+  },
+  "tconst": "tt0095095",
+  "titleType": "movie",
+  "primaryTitle": "Emperor of the Bronx",
+  "originalTitle": "Emperor of the Bronx",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "104",
+  "genres": "Action,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/sVn079Hb0xs89frr13hfxKKytky.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d2"
+  },
+  "tconst": "tt0095102",
+  "titleType": "movie",
+  "primaryTitle": "Fallen Couple",
+  "originalTitle": "Les ennemis de la mafia",
+  "isAdult": "0",
+  "startYear": "1995",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d3"
+  },
+  "tconst": "tt0095111",
+  "titleType": "movie",
+  "primaryTitle": "The Escape",
+  "originalTitle": "El heroob",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "122",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ffRje8mcFeapkyg8glUqEzG3Kqf.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d4"
+  },
+  "tconst": "tt0095201",
+  "titleType": "movie",
+  "primaryTitle": "Gaspard et fil$",
+  "originalTitle": "Gaspard et fil$",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oALbWuFdknUxHbccSrire1mfoDA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d5"
+  },
+  "tconst": "tt0095290",
+  "titleType": "movie",
+  "primaryTitle": "Lethal Angels",
+  "originalTitle": "Hei hai ba wang hua",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Action",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/jJJnTmNlBmSXLDRNliWp2kwYbIv.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d6"
+  },
+  "tconst": "tt0095335",
+  "titleType": "movie",
+  "primaryTitle": "The Vengeance",
+  "originalTitle": "Gun gun hong chun",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Action",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wimCi8k3ZyAaSXXFe0EcDXiVqpa.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d7"
+  },
+  "tconst": "tt0095394",
+  "titleType": "movie",
+  "primaryTitle": "Jericho",
+  "originalTitle": "Jericó",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Adventure,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/iWcz2qDDChLNTO9zpHFIPSVeTNv.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d8"
+  },
+  "tconst": "tt0095450",
+  "titleType": "movie",
+  "primaryTitle": "King of Chess",
+  "originalTitle": "Qi wang",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "109",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/uwN8gymQqNDGe1QG6FNNiyfhq2Q.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0d9"
+  },
+  "tconst": "tt0095469",
+  "titleType": "movie",
+  "primaryTitle": "King of Stanley Market",
+  "originalTitle": "Ku jia tian xia",
+  "isAdult": "0",
+  "startYear": "1998",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o5G5Ij28ANfKt4ZQuuuDzrGX8Te.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0da"
+  },
+  "tconst": "tt0095745",
+  "titleType": "movie",
+  "primaryTitle": "Ninja Vengeance",
+  "originalTitle": "Ninja Vengeance",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Action,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oQWVhPn9Pb7COlsInXyjqh1YKOL.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0db"
+  },
+  "tconst": "tt0095761",
+  "titleType": "movie",
+  "primaryTitle": "La nuit de l'océan",
+  "originalTitle": "La nuit de l'océan",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/2rI2XvkgWF4FE08QtRSdibsmeiH.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0dc"
+  },
+  "tconst": "tt0095831",
+  "titleType": "movie",
+  "primaryTitle": "Los pasos de Ana",
+  "originalTitle": "Los pasos de Ana",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0dd"
+  },
+  "tconst": "tt0095840",
+  "titleType": "movie",
+  "primaryTitle": "Payback",
+  "originalTitle": "Payback",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Action,Comedy,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/tx7etxtV5CIXIunWLUS6907rjog.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0de"
+  },
+  "tconst": "tt0095902",
+  "titleType": "movie",
+  "primaryTitle": "Primo Baby",
+  "originalTitle": "Primo Baby",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "107",
+  "genres": "Adventure,Drama,Family",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5dbDZUgT0WichCldsMYEdSG0dKS.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0df"
+  },
+  "tconst": "tt0096025",
+  "titleType": "movie",
+  "primaryTitle": "Sailors Don't Cry",
+  "originalTitle": "Sailors Don't Cry",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ulFQhIbj8cH2MI8IrdjmWn8DbbO.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e0"
+  },
+  "tconst": "tt0096038",
+  "titleType": "movie",
+  "primaryTitle": "Saturday Night Special",
+  "originalTitle": "Saturday Night Special",
+  "isAdult": "1",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "84",
+  "genres": "Adult",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e1"
+  },
+  "tconst": "tt0096075",
+  "titleType": "movie",
+  "primaryTitle": "Sexpot",
+  "originalTitle": "Sexpot",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Comedy,Crime,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/c91rGGHbDDvpoWO5ypvBmn14N5Y.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e2"
+  },
+  "tconst": "tt0096090",
+  "titleType": "movie",
+  "primaryTitle": "Leung seung ching yuen",
+  "originalTitle": "Leung seung ching yuen",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Action,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/xtKNjFQYDWzXEoAuQwbvHNCVzEL.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e3"
+  },
+  "tconst": "tt0096154",
+  "titleType": "movie",
+  "primaryTitle": "Spies Inc.",
+  "originalTitle": "Spies Inc.",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Adventure,Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rnNQAm082uMTdhq1aB8uxJjNS8s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e4"
+  },
+  "tconst": "tt0096174",
+  "titleType": "movie",
+  "primaryTitle": "Stela",
+  "originalTitle": "Stela",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "86",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zfAP9kPA78PpNiC8vq09fRPmHAz.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e5"
+  },
+  "tconst": "tt0096177",
+  "titleType": "movie",
+  "primaryTitle": "Still Life: The Fine Art of Murder",
+  "originalTitle": "Still Life",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "83",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/z0rEB95nsynSWpxMyzLMNcFLTBR.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e6"
+  },
+  "tconst": "tt0096222",
+  "titleType": "movie",
+  "primaryTitle": "To Miss with Love",
+  "originalTitle": "Tao xue wai zhuan",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/AnNpiNIOOTfShfJIUIMErkC0hgT.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e7"
+  },
+  "tconst": "tt0096346",
+  "titleType": "movie",
+  "primaryTitle": "Der Untergang des goldenen Webstuhls",
+  "originalTitle": "Der Untergang des goldenen Webstuhls",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e8"
+  },
+  "tconst": "tt0096397",
+  "titleType": "movie",
+  "primaryTitle": "Vita da cane",
+  "originalTitle": "Vita da cane",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "111",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0e9"
+  },
+  "tconst": "tt0096405",
+  "titleType": "movie",
+  "primaryTitle": "Vroom",
+  "originalTitle": "Vroom",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "89",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/65g8nATrSAjinT3hWCbdDv8VxxB.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ea"
+  },
+  "tconst": "tt0096469",
+  "titleType": "movie",
+  "primaryTitle": "Midnight Angel",
+  "originalTitle": "Wu ye tian shi",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Action,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/riitXDgst2c8EZRorOO81CxDCIV.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0eb"
+  },
+  "tconst": "tt0096500",
+  "titleType": "movie",
+  "primaryTitle": "Zbabelec",
+  "originalTitle": "Zbabelec",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "52",
+  "genres": "Crime,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ec"
+  },
+  "tconst": "tt0096513",
+  "titleType": "movie",
+  "primaryTitle": "Outlaw Brothers",
+  "originalTitle": "Jui gaai chak paak dong",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Action,Crime,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4PJRTdfnw29tfMXDq2Ro25eRqrr.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ed"
+  },
+  "tconst": "tt0096749",
+  "titleType": "movie",
+  "primaryTitle": "Abatjour 2",
+  "originalTitle": "Abatjour 2",
+  "isAdult": "1",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Crime,Mystery,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oA5faYjAPTu6lRx3kSRaicduOIg.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ee"
+  },
+  "tconst": "tt0096752",
+  "titleType": "movie",
+  "primaryTitle": "Abrahams Gold",
+  "originalTitle": "Abrahams Gold",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ef"
+  },
+  "tconst": "tt0096763",
+  "titleType": "movie",
+  "primaryTitle": "Adultery",
+  "originalTitle": "Adultery",
+  "isAdult": "1",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "81",
+  "genres": "Adult,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/fs8Mb1MS4fgHTRMBxy20Ihq0bct.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f0"
+  },
+  "tconst": "tt0096767",
+  "titleType": "movie",
+  "primaryTitle": "African Express",
+  "originalTitle": "African Express",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Action,Adventure",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mncUXu7Vy3sdNddToizfCjMx5wN.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f1"
+  },
+  "tconst": "tt0096775",
+  "titleType": "movie",
+  "primaryTitle": "Agneekaal",
+  "originalTitle": "Agneekaal",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "161",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rfGwUdHv1swc5q0QMNS7qeSbbS2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f2"
+  },
+  "tconst": "tt0096780",
+  "titleType": "movie",
+  "primaryTitle": "Das Alaska Syndrom",
+  "originalTitle": "Das Alaska Syndrom",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bDcdfN7ftVDHfD26ZxQMlrocoZX.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f3"
+  },
+  "tconst": "tt0096786",
+  "titleType": "movie",
+  "primaryTitle": "Alienator",
+  "originalTitle": "Alienator",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Action,Drama,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3kem76xYVBDp1P8j8et545lwoAH.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f4"
+  },
+  "tconst": "tt0096797",
+  "titleType": "movie",
+  "primaryTitle": "Malù e l'amante",
+  "originalTitle": "Malù e l'amante",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "104",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/w1V46IdsOonF19TTqRl6KgVGZTx.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f5"
+  },
+  "tconst": "tt0096811",
+  "titleType": "movie",
+  "primaryTitle": "Fatal Vacation",
+  "originalTitle": "On lok jin cheung",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "96",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5Qiiq88ynNvufkGUmTQ2Lc5Yejs.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f6"
+  },
+  "tconst": "tt0096817",
+  "titleType": "movie",
+  "primaryTitle": "Angels",
+  "originalTitle": "Los ángeles",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Action,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/xPlAUJMwwGccFxcDM0AltiiOpAp.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f7"
+  },
+  "tconst": "tt0096825",
+  "titleType": "movie",
+  "primaryTitle": "Any Time, Any Play",
+  "originalTitle": "Any Time, Any Play",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "96",
+  "genres": "Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/T9YemQ1rEt6JIe4P0HTymC0gGq.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f8"
+  },
+  "tconst": "tt0096830",
+  "titleType": "movie",
+  "primaryTitle": "Aquí huele a muerto... (¡pues yo no he sido!)",
+  "originalTitle": "Aquí huele a muerto... (¡pues yo no he sido!)",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Comedy,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/fuB7IKCoJr0w3LG4BRiET5YoLbZ.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0f9"
+  },
+  "tconst": "tt0096837",
+  "titleType": "movie",
+  "primaryTitle": "The Assassin",
+  "originalTitle": "The Assassin",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Action",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dnZJ82cp148EZyOvlGevIembqnp.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0fa"
+  },
+  "tconst": "tt0096838",
+  "titleType": "movie",
+  "primaryTitle": "L'assassina",
+  "originalTitle": "L'assassina",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0fb"
+  },
+  "tconst": "tt0096845",
+  "titleType": "movie",
+  "primaryTitle": "Atlantic Rhapsody - 52 myndir úr Tórshavn",
+  "originalTitle": "Atlantic Rhapsody - 52 myndir úr Tórshavn",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/6Kd15R5fRF5rTB9DhDbOszMisCC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0fc"
+  },
+  "tconst": "tt0096857",
+  "titleType": "movie",
+  "primaryTitle": "L'Autrichienne",
+  "originalTitle": "L'Autrichienne",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Biography,Drama,History",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ha1i7utOUooxiXPNYyv8hk7BH0d.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0fd"
+  },
+  "tconst": "tt0096858",
+  "titleType": "movie",
+  "primaryTitle": "Avariya - doch menta",
+  "originalTitle": "Avariya - doch menta",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "99",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mdUqY03XbVgbCRiOozJbpfp8hei.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0fe"
+  },
+  "tconst": "tt0096859",
+  "titleType": "movie",
+  "primaryTitle": "L'avaro",
+  "originalTitle": "L'avaro",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "117",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oyZyiwgheW5IdbwZhaf0AvCSoI6.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a0ff"
+  },
+  "tconst": "tt0096860",
+  "titleType": "movie",
+  "primaryTitle": "Extraordinary Adventure of an Ordinary Papa",
+  "originalTitle": "L'aventure extraordinaire d'un papa peu ordinaire",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Adventure,Comedy",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a100"
+  },
+  "tconst": "tt0096871",
+  "titleType": "movie",
+  "primaryTitle": "Baby Blood",
+  "originalTitle": "Baby Blood",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hSPq7k7rbxAH7KTVxRmy98OIsq7.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a101"
+  },
+  "tconst": "tt0096875",
+  "titleType": "movie",
+  "primaryTitle": "Catchfire",
+  "originalTitle": "Catchfire",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "116",
+  "genres": "Action,Comedy,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/jHec0NYYhzlUE3CUyYnI70YNih.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a102"
+  },
+  "tconst": "tt0096877",
+  "titleType": "movie",
+  "primaryTitle": "Countdown to Esmeralda Bay",
+  "originalTitle": "La bahía esmeralda",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Action,Drama,War",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/gjnb09vzG4WV8BCer3viifKyO5g.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a103"
+  },
+  "tconst": "tt0096879",
+  "titleType": "movie",
+  "primaryTitle": "Bal na dworcu w Koluszkach",
+  "originalTitle": "Bal na dworcu w Koluszkach",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o8Fsf4JZOOLCR3eMVG2rCUjYX7y.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a104"
+  },
+  "tconst": "tt0096883",
+  "titleType": "movie",
+  "primaryTitle": "Ballbuster",
+  "originalTitle": "Ballbuster",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/biiucXyfUEdWqE8jqKkRlZ97TSR.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a105"
+  },
+  "tconst": "tt0096899",
+  "titleType": "movie",
+  "primaryTitle": "Bazar Viena",
+  "originalTitle": "Bazar Viena",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a106"
+  },
+  "tconst": "tt0096910",
+  "titleType": "movie",
+  "primaryTitle": "Ben Webster: The Brute and the Beautiful",
+  "originalTitle": "Ben Webster: The Brute and the Beautiful",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a107"
+  },
+  "tconst": "tt0096937",
+  "titleType": "movie",
+  "primaryTitle": "Blagorodnyy razboynik Vladimir Dubrovskiy",
+  "originalTitle": "Blagorodnyy razboynik Vladimir Dubrovskiy",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "104",
+  "genres": "Drama,History",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5WNptw5CdQhcgDOi1Siv1EnBfZi.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a108"
+  },
+  "tconst": "tt0096954",
+  "titleType": "movie",
+  "primaryTitle": "Bloodmoon",
+  "originalTitle": "Bloodmoon",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Horror,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/53kSkSWDgtw2X6bAdOD8nvvSZ2w.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a109"
+  },
+  "tconst": "tt0096984",
+  "titleType": "movie",
+  "primaryTitle": "Brodyachiy avtobus",
+  "originalTitle": "Brodyachiy avtobus",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/yhbVS05SLyDXtiuBabLbzfWtP3S.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a10a"
+  },
+  "tconst": "tt0096992",
+  "titleType": "movie",
+  "primaryTitle": "Bumazhnye glaza Prishvina",
+  "originalTitle": "Bumazhnye glaza Prishvina",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "146",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ox9e3YFFonuSmlTVc24hqghw1k8.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a10b"
+  },
+  "tconst": "tt0096995",
+  "titleType": "movie",
+  "primaryTitle": "Burndown",
+  "originalTitle": "Burndown",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "86",
+  "genres": "Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/lmLvUJQVO7z5x3y3qGyb59uKrXW.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a10c"
+  },
+  "tconst": "tt0097004",
+  "titleType": "movie",
+  "primaryTitle": "Caged Fury",
+  "originalTitle": "Caged Fury",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Action",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bkDD3t7z5mIOOb7WLDMieF9nVnL.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a10d"
+  },
+  "tconst": "tt0097049",
+  "titleType": "movie",
+  "primaryTitle": "Chastnyy detektiv, ili operatsiya 'Kooperatsiya'",
+  "originalTitle": "Chastnyy detektiv, ili operatsiya 'Kooperatsiya'",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/k2h2remN3OmtwtRvm20MbV6RlY1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a10e"
+  },
+  "tconst": "tt0097062",
+  "titleType": "movie",
+  "primaryTitle": "Chyornaya roza - emblema pechali, krasnaya roza - emblema lyubvi",
+  "originalTitle": "Chyornaya roza - emblema pechali, krasnaya roza - emblema lyubvi",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "131",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/a3gpUtylwVqe7H0TaoxkF5dQxr2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a10f"
+  },
+  "tconst": "tt0097066",
+  "titleType": "movie",
+  "primaryTitle": "Citizen Tania",
+  "originalTitle": "Citizen Tania",
+  "isAdult": "0",
+  "startYear": "1997",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zwAi2WHeYK9KEFes2ra7jGqvQM9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a110"
+  },
+  "tconst": "tt0097079",
+  "titleType": "movie",
+  "primaryTitle": "Cold Justice",
+  "originalTitle": "Cold Justice",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "105",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9QENFCzXJkFVYUJxZXrya3tW69O.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a111"
+  },
+  "tconst": "tt0097106",
+  "titleType": "movie",
+  "primaryTitle": "A Tale of Springtime",
+  "originalTitle": "Conte de printemps",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "108",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bP2qpuzQPBBBJa4kOhvLvOOiASq.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a112"
+  },
+  "tconst": "tt0097111",
+  "titleType": "movie",
+  "primaryTitle": "Go to Work, Vagabond II",
+  "originalTitle": "Vai Trabalhar, Vagabundo II",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/tEwuW06aaDkWKqwRUFMI7TT61bS.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a113"
+  },
+  "tconst": "tt0097115",
+  "titleType": "movie",
+  "primaryTitle": "Courage Mountain",
+  "originalTitle": "Courage Mountain",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Adventure,Drama,Family",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/lzwvJ2zIH5QUG21NH7qyRtb1UVa.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a114"
+  },
+  "tconst": "tt0097122",
+  "titleType": "movie",
+  "primaryTitle": "Um Crime de Luxo",
+  "originalTitle": "Um Crime de Luxo",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Comedy,Crime,Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a115"
+  },
+  "tconst": "tt0097129",
+  "titleType": "movie",
+  "primaryTitle": "Crossing the Line",
+  "originalTitle": "Crossing the Line",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Action,Drama,Sport",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a116"
+  },
+  "tconst": "tt0097140",
+  "titleType": "movie",
+  "primaryTitle": "Cézanne - Conversation with Joachim Gasquet",
+  "originalTitle": "Cézanne - Dialogue avec Joachim Gasquet (Les éditions Bernheim-Jeune)",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "52",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o3Ak7yJFHqV4XoqZNGC5Fk0HnY4.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a117"
+  },
+  "tconst": "tt0097176",
+  "titleType": "movie",
+  "primaryTitle": "Deceit",
+  "originalTitle": "Deceit",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Comedy,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/tegEsG903PYSrGFgPl8BlEV8cW2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a118"
+  },
+  "tconst": "tt0097184",
+  "titleType": "movie",
+  "primaryTitle": "Demonstone",
+  "originalTitle": "Demonstone",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Action,Crime,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ss3j3LUtDyEtsZmBBpM8p301Gi4.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a119"
+  },
+  "tconst": "tt0097204",
+  "titleType": "movie",
+  "primaryTitle": "Dilemma",
+  "originalTitle": "Dilemma",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/nklscVAfveixUCFCC0uBuxV3uIU.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a11a"
+  },
+  "tconst": "tt0097253",
+  "titleType": "movie",
+  "primaryTitle": "Deja vu",
+  "originalTitle": "Deja vu",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "108",
+  "genres": "Comedy,Crime,History",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/93lIIZ1zUBES3nseNUcETUUof4m.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a11b"
+  },
+  "tconst": "tt0097259",
+  "titleType": "movie",
+  "primaryTitle": "Easy Kill",
+  "originalTitle": "Easy Kill",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "89",
+  "genres": "Action,Crime,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/giMI7jryuTGyQGsLUrCoZYkmYKm.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a11c"
+  },
+  "tconst": "tt0097280",
+  "titleType": "movie",
+  "primaryTitle": "Engrazia",
+  "originalTitle": "Engrazia",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "73",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a11d"
+  },
+  "tconst": "tt0097298",
+  "titleType": "movie",
+  "primaryTitle": "Eternity",
+  "originalTitle": "Eternity",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "110",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3WjsHN0O77NkqW7TAPu881cb4Gr.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a11e"
+  },
+  "tconst": "tt0097318",
+  "titleType": "movie",
+  "primaryTitle": "Eye of the Widow",
+  "originalTitle": "Eye of the Widow",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Action,Adventure,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/2hCLBZ4NFlaYtEkXiwcitRCrfmv.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a11f"
+  },
+  "tconst": "tt0097339",
+  "titleType": "movie",
+  "primaryTitle": "Father",
+  "originalTitle": "Father",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama,War",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/cp4aTFLb2QiOgicW4St2mAwCBKp.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a120"
+  },
+  "tconst": "tt0097348",
+  "titleType": "movie",
+  "primaryTitle": "The Unmatchable Match",
+  "originalTitle": "Fung yue tung lo",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hMQI24C9pOssRrPve60YkGoQmxi.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a121"
+  },
+  "tconst": "tt0097365",
+  "titleType": "movie",
+  "primaryTitle": "Flesh Gordon Meets the Cosmic Cheerleaders",
+  "originalTitle": "Flesh Gordon Meets the Cosmic Cheerleaders",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Comedy,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mHdkAxWjPNjwHwMgNkC68ZBazh1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a122"
+  },
+  "tconst": "tt0097394",
+  "titleType": "movie",
+  "primaryTitle": "The Fortune Code",
+  "originalTitle": "Fu gui bing tuan",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "89",
+  "genres": "Action,Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/fZH9zzIiEyRJYIAGqAL0WafBoy3.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a123"
+  },
+  "tconst": "tt0097399",
+  "titleType": "movie",
+  "primaryTitle": "Fuflo",
+  "originalTitle": "Fuflo",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Crime,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mYtdcKFSNBUQfI0DQ88xILefAYy.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a124"
+  },
+  "tconst": "tt0097405",
+  "titleType": "movie",
+  "primaryTitle": "Fathers' Day",
+  "originalTitle": "La fête des pères",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "83",
+  "genres": "Comedy,Family,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5ED3z3rJVNEE1AbVM6qo3VUsQKc.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a125"
+  },
+  "tconst": "tt0097416",
+  "titleType": "movie",
+  "primaryTitle": "Kadhalan",
+  "originalTitle": "Kadhalan",
+  "isAdult": "0",
+  "startYear": "1994",
+  "endYear": "\\N",
+  "runtimeMinutes": "168",
+  "genres": "Action,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/d2yRRfDFH92hoRdyH8F9ZqIwO03.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a126"
+  },
+  "tconst": "tt0097475",
+  "titleType": "movie",
+  "primaryTitle": "A halálraítélt",
+  "originalTitle": "A halálraítélt",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wK6Mo53GCl2I1AbvTIW0PD42Qqc.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a127"
+  },
+  "tconst": "tt0097479",
+  "titleType": "movie",
+  "primaryTitle": "Hard Days, Hard Nights",
+  "originalTitle": "Hard Days, Hard Nights",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "103",
+  "genres": "\\N",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/teHlw06R4E044UMVn74GTLAauTD.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a128"
+  },
+  "tconst": "tt0097505",
+  "titleType": "movie",
+  "primaryTitle": "High Finance Woman",
+  "originalTitle": "High Finance Woman",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/virm4TE2EjfygRnbwkTKE5esnIL.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a129"
+  },
+  "tconst": "tt0097506",
+  "titleType": "movie",
+  "primaryTitle": "High Score",
+  "originalTitle": "High Score",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Action",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a12a"
+  },
+  "tconst": "tt0097516",
+  "titleType": "movie",
+  "primaryTitle": "Hollywood Boulevard II",
+  "originalTitle": "Hollywood Boulevard II",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "82",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/nV5e99uoJP2UMi9h0EFvpot5ZBf.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a12b"
+  },
+  "tconst": "tt0097519",
+  "titleType": "movie",
+  "primaryTitle": "The Neon Man",
+  "originalTitle": "L'home de neó",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a12c"
+  },
+  "tconst": "tt0097525",
+  "titleType": "movie",
+  "primaryTitle": "Hopnick",
+  "originalTitle": "Hopnick",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1wbQMD4O56d0zw143YxjBsd3gD9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a12d"
+  },
+  "tconst": "tt0097535",
+  "titleType": "movie",
+  "primaryTitle": "Hu dan nu er hong",
+  "originalTitle": "Hu dan nu er hong",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Action,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/2n2SRrG2HdPViuY7qdSD7188GA2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a12e"
+  },
+  "tconst": "tt0097542",
+  "titleType": "movie",
+  "primaryTitle": "The Trace of Lynx",
+  "originalTitle": "Las huellas del lince",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "83",
+  "genres": "Action",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a12f"
+  },
+  "tconst": "tt0097550",
+  "titleType": "movie",
+  "primaryTitle": "I Bought a Vampire Motorcycle",
+  "originalTitle": "I Bought a Vampire Motorcycle",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "101",
+  "genres": "Comedy,Crime,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dCbFIzq64uUo5ZR4W3vLFhaJenk.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a130"
+  },
+  "tconst": "tt0097559",
+  "titleType": "movie",
+  "primaryTitle": "Idomeneo",
+  "originalTitle": "Idomeneo",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a131"
+  },
+  "tconst": "tt0097566",
+  "titleType": "movie",
+  "primaryTitle": "Im Süden meiner Seele",
+  "originalTitle": "Im Süden meiner Seele",
+  "isAdult": "0",
+  "startYear": "1996",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a132"
+  },
+  "tconst": "tt0097571",
+  "titleType": "movie",
+  "primaryTitle": "In Fading Light",
+  "originalTitle": "In Fading Light",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "103",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/f83lyKDOLb5S5lP46LUNTeoeLq9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a133"
+  },
+  "tconst": "tt0097573",
+  "titleType": "movie",
+  "primaryTitle": "In the Cold of the Night",
+  "originalTitle": "In the Cold of the Night",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "112",
+  "genres": "Drama,Mystery,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/jnV8JNq6h3X3IEhXYxdou8P82ma.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a134"
+  },
+  "tconst": "tt0097578",
+  "titleType": "movie",
+  "primaryTitle": "Inimene, keda polnud",
+  "originalTitle": "Inimene, keda polnud",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "84",
+  "genres": "Drama,History,War",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/muOB5BHpGafdB2E2862gzqd534W.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a135"
+  },
+  "tconst": "tt0097585",
+  "titleType": "movie",
+  "primaryTitle": "Bathroom Intimacy",
+  "originalTitle": "Intimidades de un cuarto de baño",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "78",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3WtGkg7BL45kZfhrzHdxc6AaFZS.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a136"
+  },
+  "tconst": "tt0097615",
+  "titleType": "movie",
+  "primaryTitle": "Je t'ai dans la peau",
+  "originalTitle": "Je t'ai dans la peau",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "120",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a137"
+  },
+  "tconst": "tt0097619",
+  "titleType": "movie",
+  "primaryTitle": "The Fun, the Luck & the Tycoon",
+  "originalTitle": "Gat seng gung ziu",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/xHbfplhwbvggsDZzyknxcI6vHfI.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a138"
+  },
+  "tconst": "tt0097631",
+  "titleType": "movie",
+  "primaryTitle": "Hitz",
+  "originalTitle": "Judgement",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Crime,Drama,Music",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4fYykFD2lyc1Xp2aIoHIw6TLwTR.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a139"
+  },
+  "tconst": "tt0097638",
+  "titleType": "movie",
+  "primaryTitle": "Happy Ghost 4",
+  "originalTitle": "Hoi sum gwai gau hoi sum gwai",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Comedy,Fantasy,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/stDAXKGuNrVygILnwgO0dOBhafx.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a13a"
+  },
+  "tconst": "tt0097644",
+  "titleType": "movie",
+  "primaryTitle": "Kapital, czyli jak zrobic pieniadze w Polsce",
+  "originalTitle": "Kapital, czyli jak zrobic pieniadze w Polsce",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "105",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zcQ4kRmG8th1raDxGAO4O3eEukk.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a13b"
+  },
+  "tconst": "tt0097655",
+  "titleType": "movie",
+  "primaryTitle": "Keaton's Cop",
+  "originalTitle": "Keaton's Cop",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/vwu5o1mmte1PRywOCog85egI1D7.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a13c"
+  },
+  "tconst": "tt0097666",
+  "titleType": "movie",
+  "primaryTitle": "Killer!",
+  "originalTitle": "Killer!",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/lVQN5QEhMW1CoR96mrKyy7wiAp9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a13d"
+  },
+  "tconst": "tt0097668",
+  "titleType": "movie",
+  "primaryTitle": "King of the Wind",
+  "originalTitle": "King of the Wind",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "103",
+  "genres": "Adventure",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5cx8zf3MTHJPGnPENOWavNlrr07.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a13e"
+  },
+  "tconst": "tt0097683",
+  "titleType": "movie",
+  "primaryTitle": "Kramarz",
+  "originalTitle": "Kramarz",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Biography,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/eP6OGb2n9OG1kks8uA8tXVdr6G7.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a13f"
+  },
+  "tconst": "tt0097697",
+  "titleType": "movie",
+  "primaryTitle": "Könnyü vér",
+  "originalTitle": "Könnyü vér",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "86",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a140"
+  },
+  "tconst": "tt0097720",
+  "titleType": "movie",
+  "primaryTitle": "Border Shootout",
+  "originalTitle": "Border Shootout",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "110",
+  "genres": "Western",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a141"
+  },
+  "tconst": "tt0097726",
+  "titleType": "movie",
+  "primaryTitle": "Legion of Iron",
+  "originalTitle": "Legion of Iron",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Action,Horror,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/6rrsiLrUGcQo6WZkjaHciPIEhGm.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a142"
+  },
+  "tconst": "tt0097738",
+  "titleType": "movie",
+  "primaryTitle": "The Legend of the Mask",
+  "originalTitle": "La leyenda de una máscara",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1369HfgJ8LjeEQljaoxEbKrVyB7.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a143"
+  },
+  "tconst": "tt0097743",
+  "titleType": "movie",
+  "primaryTitle": "The Anna Akhmatova File",
+  "originalTitle": "Lichnoe delo Anny Akhmatovoy",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "65",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wzRxUskS8pgqpsqPb0YXjsrJajd.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a144"
+  },
+  "tconst": "tt0097748",
+  "titleType": "movie",
+  "primaryTitle": "Liebe das Leben - Lebe den Tod",
+  "originalTitle": "Liebe das Leben - Lebe den Tod",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "81",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a145"
+  },
+  "tconst": "tt0097765",
+  "titleType": "movie",
+  "primaryTitle": "A Summer to Remember",
+  "originalTitle": "Ljeto za sjecanje",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "105",
+  "genres": "Mystery",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rYmzmaePePOUanG8NLN7tXSBi3O.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a146"
+  },
+  "tconst": "tt0097769",
+  "titleType": "movie",
+  "primaryTitle": "The Local Stigmatic",
+  "originalTitle": "The Local Stigmatic",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/iP1q3x2EIcmq6jRem9AwpVEjGZw.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a147"
+  },
+  "tconst": "tt0097775",
+  "titleType": "movie",
+  "primaryTitle": "The Master",
+  "originalTitle": "Long hang tian xia",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Action,Comedy,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/j9Eji1A8AyelmdHCJTlVBCZziGK.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a148"
+  },
+  "tconst": "tt0097802",
+  "titleType": "movie",
+  "primaryTitle": "Mado, poste restante",
+  "originalTitle": "Mado, poste restante",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1VtlP8bdUaU38nZTNNQImIHNg8.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a149"
+  },
+  "tconst": "tt0097803",
+  "titleType": "movie",
+  "primaryTitle": "Il maestro",
+  "originalTitle": "Il maestro",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Music",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/t7hklCQOrFyiky52kkIYb39zWBy.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a14a"
+  },
+  "tconst": "tt0097820",
+  "titleType": "movie",
+  "primaryTitle": "Maman",
+  "originalTitle": "Maman",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "\\N",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/iuudIrvDm0CRYcEEhKzO2lYtQDu.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a14b"
+  },
+  "tconst": "tt0097833",
+  "titleType": "movie",
+  "primaryTitle": "March Caresses",
+  "originalTitle": "Marcowe migdaly",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "89",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oHEIRVxb3WP2MZSMmvJxbgzeOO2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a14c"
+  },
+  "tconst": "tt0097848",
+  "titleType": "movie",
+  "primaryTitle": "Mother",
+  "originalTitle": "Mat",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "200",
+  "genres": "Drama,History",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rZJS8XHcbDjWMeAQlXPNElgnVoD.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a14d"
+  },
+  "tconst": "tt0097849",
+  "titleType": "movie",
+  "primaryTitle": "Mat Iisusa",
+  "originalTitle": "Mat Iisusa",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a14e"
+  },
+  "tconst": "tt0097850",
+  "titleType": "movie",
+  "primaryTitle": "¡Maten a Chinto!",
+  "originalTitle": "¡Maten a Chinto!",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/fYfmXbpTToXhOatkuqKEUF1DQyW.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a14f"
+  },
+  "tconst": "tt0097851",
+  "titleType": "movie",
+  "primaryTitle": "Mathilukal",
+  "originalTitle": "Mathilukal",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "120",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wd66oMitPeU7sTJbT6iEYSI28FT.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a150"
+  },
+  "tconst": "tt0097853",
+  "titleType": "movie",
+  "primaryTitle": "Les matins chagrins",
+  "originalTitle": "Les matins chagrins",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a151"
+  },
+  "tconst": "tt0097855",
+  "titleType": "movie",
+  "primaryTitle": "Maxantimo",
+  "originalTitle": "Maxantimo",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a152"
+  },
+  "tconst": "tt0097863",
+  "titleType": "movie",
+  "primaryTitle": "Men in Love",
+  "originalTitle": "Men in Love",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ekCSBIsrEzd9DDap8Ld1Is2wlTi.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a153"
+  },
+  "tconst": "tt0097864",
+  "titleType": "movie",
+  "primaryTitle": "Meng gui hu li jing",
+  "originalTitle": "Meng gui hu li jing",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Action,Comedy,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4LZAlrRCCZwPvCWFTiNhMq5vwWY.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a154"
+  },
+  "tconst": "tt0097874",
+  "titleType": "movie",
+  "primaryTitle": "Metamorphosis",
+  "originalTitle": "Metamorphosis",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "96",
+  "genres": "Horror,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5JD2gl3IKH2B8mueEjD7KGvVeVu.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a155"
+  },
+  "tconst": "tt0097875",
+  "titleType": "movie",
+  "primaryTitle": "Meteo",
+  "originalTitle": "Meteo",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Drama,Mystery,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oubOjDkUJrVCfwk1dOahOp1UNTG.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a156"
+  },
+  "tconst": "tt0097884",
+  "titleType": "movie",
+  "primaryTitle": "May Fools",
+  "originalTitle": "Milou en mai",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "107",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bnlsDTtlgvTnpLXg8iNav9b0xXE.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a157"
+  },
+  "tconst": "tt0097893",
+  "titleType": "movie",
+  "primaryTitle": "Miss Missouri",
+  "originalTitle": "Miss Missouri",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "103",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/nerAnfsS8I19ePknJhKARLl8KAQ.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a158"
+  },
+  "tconst": "tt0097894",
+  "titleType": "movie",
+  "primaryTitle": "The Missing Reel",
+  "originalTitle": "The Missing Reel",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "75",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a159"
+  },
+  "tconst": "tt0097910",
+  "titleType": "movie",
+  "primaryTitle": "Moon 44",
+  "originalTitle": "Moon 44",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Action,Sci-Fi,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ia7Ew8QXiN1Urh63xYFYZ7ZfF2t.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a15a"
+  },
+  "tconst": "tt0097912",
+  "titleType": "movie",
+  "primaryTitle": "Morir en el golfo",
+  "originalTitle": "Morir en el golfo",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dY542pyeiZmqQvehu3QapDKKxRn.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a15b"
+  },
+  "tconst": "tt0097919",
+  "titleType": "movie",
+  "primaryTitle": "Motivsuche",
+  "originalTitle": "Motivsuche",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "106",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oY8lp2wCvJeIC5pXwpFMitvliVu.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a15c"
+  },
+  "tconst": "tt0097928",
+  "titleType": "movie",
+  "primaryTitle": "Murder Blues",
+  "originalTitle": "Murder Blues",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama,Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a15d"
+  },
+  "tconst": "tt0097949",
+  "titleType": "movie",
+  "primaryTitle": "Märkische Heide, märkischer Sand",
+  "originalTitle": "Märkische Heide, märkischer Sand",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "58",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hxl9TwLZBmCfXhrYI0ZAcf0Agil.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a15e"
+  },
+  "tconst": "tt0097968",
+  "titleType": "movie",
+  "primaryTitle": "Nezný barbar",
+  "originalTitle": "Nezný barbar",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/cHeTortlUBlsQNL5qISOauIdmON.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a15f"
+  },
+  "tconst": "tt0097979",
+  "titleType": "movie",
+  "primaryTitle": "Nightdreams II",
+  "originalTitle": "Nightdreams II",
+  "isAdult": "1",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Adult",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4iwBzeRJwLzO6CTfnDabUGibsgE.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a160"
+  },
+  "tconst": "tt0097984",
+  "titleType": "movie",
+  "primaryTitle": "Ninja in Ancient China",
+  "originalTitle": "Shen tong",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Action,Adventure,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/cidqGNInwlqt6p14zQf2guS3B0h.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a161"
+  },
+  "tconst": "tt0098004",
+  "titleType": "movie",
+  "primaryTitle": "Nochevala tuchka zolotaya...",
+  "originalTitle": "Nochevala tuchka zolotaya...",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/iGt9LbB8qq63gLi34C206ZPqZKW.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a162"
+  },
+  "tconst": "tt0098018",
+  "titleType": "movie",
+  "primaryTitle": "O, xiangxue",
+  "originalTitle": "O, xiangxue",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "89",
+  "genres": "Family",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/iNEjtEsJwqVuAcQ55OwUEN3Rfsg.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a163"
+  },
+  "tconst": "tt0098030",
+  "titleType": "movie",
+  "primaryTitle": "Ono",
+  "originalTitle": "Ono",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "124",
+  "genres": "Comedy,Drama,History",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/7EVGJJX3XZfS9oOFF8SxBGv1BBQ.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a164"
+  },
+  "tconst": "tt0098043",
+  "titleType": "movie",
+  "primaryTitle": "Out of Sight, Out of Mind",
+  "originalTitle": "Out of Sight, Out of Mind",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Mystery,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3k9sUU05YHRcg473ylDg8bww96r.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a165"
+  },
+  "tconst": "tt0098050",
+  "titleType": "movie",
+  "primaryTitle": "Ovejas negras",
+  "originalTitle": "Ovejas negras",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "84",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/yC2Xt9vqWzOkOoqNL8smFcpQXCW.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a166"
+  },
+  "tconst": "tt0098063",
+  "titleType": "movie",
+  "primaryTitle": "Paprika",
+  "originalTitle": "Paprika",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "99",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/7d8VB7xZcsjClsE6JaUr8BCbkCh.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a167"
+  },
+  "tconst": "tt0098064",
+  "titleType": "movie",
+  "primaryTitle": "Pareja enloquecida busca madre de alquiler",
+  "originalTitle": "Pareja enloquecida busca madre de alquiler",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wqEnYz4ZG43xMm6DXXoJcnL51de.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a168"
+  },
+  "tconst": "tt0098070",
+  "titleType": "movie",
+  "primaryTitle": "Passi d'amore",
+  "originalTitle": "Passi d'amore",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a169"
+  },
+  "tconst": "tt0098077",
+  "titleType": "movie",
+  "primaryTitle": "Peraustrínia 2004",
+  "originalTitle": "Peraustrínia 2004",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "75",
+  "genres": "Animation,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/362GMncHwaW8PPDOxbk1BcZv0Aa.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a16a"
+  },
+  "tconst": "tt0098100",
+  "titleType": "movie",
+  "primaryTitle": "The Platinum Triangle",
+  "originalTitle": "The Platinum Triangle",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Crime,Mystery,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/x5gUe52R0VpTHgTSYsHhI2wZh4T.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a16b"
+  },
+  "tconst": "tt0098136",
+  "titleType": "movie",
+  "primaryTitle": "Prom Night III: The Last Kiss",
+  "originalTitle": "Prom Night III: The Last Kiss",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Comedy,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bJOpzoUXeYhruTAc3PBbvKAeLpd.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a16c"
+  },
+  "tconst": "tt0098139",
+  "titleType": "movie",
+  "primaryTitle": "Warsaw Bridge",
+  "originalTitle": "Pont de Varsòvia",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/41tZnYwZRUKsv4U5Sw5Caz4uRVE.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a16d"
+  },
+  "tconst": "tt0098144",
+  "titleType": "movie",
+  "primaryTitle": "La punyalada",
+  "originalTitle": "La punyalada",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "117",
+  "genres": "Adventure,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a16e"
+  },
+  "tconst": "tt0098150",
+  "titleType": "movie",
+  "primaryTitle": "Magic Cop",
+  "originalTitle": "Qu mo jing cha",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Comedy,Crime,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zvRCQkDUmNzaTxUiVqeBiyWLGgZ.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a16f"
+  },
+  "tconst": "tt0098172",
+  "titleType": "movie",
+  "primaryTitle": "Reason to Die",
+  "originalTitle": "Reason to Die",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Action,Crime,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/onJa3Jccf3mvKzJb8d0XfXgYQ8y.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a170"
+  },
+  "tconst": "tt0098181",
+  "titleType": "movie",
+  "primaryTitle": "Reise ohne Wiederkehr",
+  "originalTitle": "Reise ohne Wiederkehr",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "109",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a171"
+  },
+  "tconst": "tt0098199",
+  "titleType": "movie",
+  "primaryTitle": "The Revenger",
+  "originalTitle": "The Revenger",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Action,Adventure,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/uQG8TvVm3hzYA1uhmEoQMV4GKwk.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a172"
+  },
+  "tconst": "tt0098211",
+  "titleType": "movie",
+  "primaryTitle": "Cyber-C.H.I.C.",
+  "originalTitle": "Cyber-C.H.I.C.",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Action,Comedy,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/tOwBrd7lzhuEQoK2OaiGNcuWTRB.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a173"
+  },
+  "tconst": "tt0098244",
+  "titleType": "movie",
+  "primaryTitle": "Saturday, Sunday and Monday",
+  "originalTitle": "Sabato, domenica e lunedì",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "119",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/yj9J3pSPtsYQ7SVJ4XEgYz46vEk.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a174"
+  },
+  "tconst": "tt0098256",
+  "titleType": "movie",
+  "primaryTitle": "Sauna",
+  "originalTitle": "Sauna",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3X1ZLhQc5kZ5F1iimS2QWbcm0SM.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a175"
+  },
+  "tconst": "tt0098278",
+  "titleType": "movie",
+  "primaryTitle": "Secret Scandal",
+  "originalTitle": "Scandalo segreto",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oYHchrYZtqgi66Y8a6IJnOPEvqn.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a176"
+  },
+  "tconst": "tt0098294",
+  "titleType": "movie",
+  "primaryTitle": "La settimana della sfinge",
+  "originalTitle": "La settimana della sfinge",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/8LHAsBQK44Vknr5Y3HdMaC4jVwp.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a177"
+  },
+  "tconst": "tt0098318",
+  "titleType": "movie",
+  "primaryTitle": "Shigatse: Eine Spritze kommt selten allein",
+  "originalTitle": "Shigatse: Eine Spritze kommt selten allein",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a178"
+  },
+  "tconst": "tt0098344",
+  "titleType": "movie",
+  "primaryTitle": "Skinned Alive",
+  "originalTitle": "Skinned Alive",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "77",
+  "genres": "Comedy,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/f11qtJWyajyuKRt0r3UBdbbuqpH.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a179"
+  },
+  "tconst": "tt0098372",
+  "titleType": "movie",
+  "primaryTitle": "Spirit of the Eagle",
+  "originalTitle": "Spirit of the Eagle",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Adventure,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rFgSwinhebgrvQdXMIJRFShAudc.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a17a"
+  },
+  "tconst": "tt0098377",
+  "titleType": "movie",
+  "primaryTitle": "The Spring",
+  "originalTitle": "The Spring",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Adventure",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a17b"
+  },
+  "tconst": "tt0098405",
+  "titleType": "movie",
+  "primaryTitle": "Stuk v dver",
+  "originalTitle": "Stuk v dver",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Drama,History",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a17c"
+  },
+  "tconst": "tt0098422",
+  "titleType": "movie",
+  "primaryTitle": "The Sword of Bushido",
+  "originalTitle": "The Sword of Bushido",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "104",
+  "genres": "Action",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/8soTOvBxpmJqnCLjt5PAGcelseg.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a17d"
+  },
+  "tconst": "tt0098426",
+  "titleType": "movie",
+  "primaryTitle": "Sárkány és papucs",
+  "originalTitle": "Sárkány és papucs",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "72",
+  "genres": "Animation",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/tJj0DkpVONabN92Q9S0hWtXJbRk.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a17e"
+  },
+  "tconst": "tt0098429",
+  "titleType": "movie",
+  "primaryTitle": "Tahiti's Girl",
+  "originalTitle": "Tahiti's Girl",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/lbrVR1BmiJKH1FW8aN9aG0Bahr9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a17f"
+  },
+  "tconst": "tt0098431",
+  "titleType": "movie",
+  "primaryTitle": "Taina jocului de cuburi",
+  "originalTitle": "Taina jocului de cuburi",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "73",
+  "genres": "Family",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a180"
+  },
+  "tconst": "tt0098461",
+  "titleType": "movie",
+  "primaryTitle": "Thanedaar",
+  "originalTitle": "Thanedaar",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "151",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/8UXYkAeVNSpqtNFJ2OW74JtVT0p.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a181"
+  },
+  "tconst": "tt0098462",
+  "titleType": "movie",
+  "primaryTitle": "That Englishwoman: An Account of the Life of Emily Hobhouse",
+  "originalTitle": "That Englishwoman: An Account of the Life of Emily Hobhouse",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "99",
+  "genres": "Drama,History,War",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ng3cpfUS31CZZBanudPSIiewK6e.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a182"
+  },
+  "tconst": "tt0098486",
+  "titleType": "movie",
+  "primaryTitle": "The Death King",
+  "originalTitle": "Der Todesking",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Drama,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/d1dsVW5sWIwQCBZCHZwFa2tk7kA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a183"
+  },
+  "tconst": "tt0098488",
+  "titleType": "movie",
+  "primaryTitle": "Tom et Lola",
+  "originalTitle": "Tom et Lola",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oOxZdFf0gzOCySFSq7urqXcff52.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a184"
+  },
+  "tconst": "tt0098495",
+  "titleType": "movie",
+  "primaryTitle": "Tormozheniye v nebesakh",
+  "originalTitle": "Tormozheniye v nebesakh",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "81",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/xjpuHD4RWAOLdwN2NdCp0XcqEva.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a185"
+  },
+  "tconst": "tt0098514",
+  "titleType": "movie",
+  "primaryTitle": "Trois années",
+  "originalTitle": "Trois années",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3SvYYnmRZ9MPEI2IsD5EBewws2q.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a186"
+  },
+  "tconst": "tt0098531",
+  "titleType": "movie",
+  "primaryTitle": "Treasure of the Bitch Islands",
+  "originalTitle": "Le trésor des îles chiennes",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "108",
+  "genres": "Mystery,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wqhcF9Uc3Zs4W2LfT60yBmAHjz0.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a187"
+  },
+  "tconst": "tt0098532",
+  "titleType": "movie",
+  "primaryTitle": "The Match Factory Girl",
+  "originalTitle": "Tulitikkutehtaan tyttö",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "69",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/zHfabvr3RKEbNfksFBs2Cder91i.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a188"
+  },
+  "tconst": "tt0098534",
+  "titleType": "movie",
+  "primaryTitle": "Tumultes",
+  "originalTitle": "Tumultes",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hILcL1B6mLp4AlndkkTUUqTfQhz.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a189"
+  },
+  "tconst": "tt0098542",
+  "titleType": "movie",
+  "primaryTitle": "Ti, koyto si na nebeto",
+  "originalTitle": "Ti, koyto si na nebeto",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/pLGv4Jpb4IhOSNj4rOpkLLvhRfa.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a18a"
+  },
+  "tconst": "tt0098548",
+  "titleType": "movie",
+  "primaryTitle": "Universal Laws",
+  "originalTitle": "Uchuu no hosoku",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "119",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/sWd9HaBYZ5DIGfRciwpJmuamQC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a18b"
+  },
+  "tconst": "tt0098584",
+  "titleType": "movie",
+  "primaryTitle": "A Woman's Revenge",
+  "originalTitle": "La vengeance d'une femme",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "133",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/gfuFIlQMXktxfEmZYuBNHRWz1ea.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a18c"
+  },
+  "tconst": "tt0098588",
+  "titleType": "movie",
+  "primaryTitle": "Forbidden Love",
+  "originalTitle": "Verbotene Liebe",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ac3WtYtNDliElEEn5ibSFYfoYcN.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a18d"
+  },
+  "tconst": "tt0098606",
+  "titleType": "movie",
+  "primaryTitle": "The Voice of the Moon",
+  "originalTitle": "La voce della luna",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "126",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1E9bSjMK72pqYvpPioFuQd3IUBx.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a18e"
+  },
+  "tconst": "tt0098629",
+  "titleType": "movie",
+  "primaryTitle": "Weininger's Last Night",
+  "originalTitle": "Weiningers Nacht",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "105",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4LWzr5KsLNcttJalMYDmHq4QS47.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a18f"
+  },
+  "tconst": "tt0098656",
+  "titleType": "movie",
+  "primaryTitle": "William S. Burroughs: Commissioner of Sewers",
+  "originalTitle": "William S. Burroughs: Commissioner of Sewers",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a190"
+  },
+  "tconst": "tt0098657",
+  "titleType": "movie",
+  "primaryTitle": "Winckelmanns Reisen",
+  "originalTitle": "Winckelmanns Reisen",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/tBLUvX9j9GgxZkXcGSKZmkbDqgm.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a191"
+  },
+  "tconst": "tt0098658",
+  "titleType": "movie",
+  "primaryTitle": "Wings of Fame",
+  "originalTitle": "Wings of Fame",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "109",
+  "genres": "Comedy,Drama,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/26GIE27dPpK18Hmr1DSA4ehzgy6.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a192"
+  },
+  "tconst": "tt0098707",
+  "titleType": "movie",
+  "primaryTitle": "The Final Judgement",
+  "originalTitle": "Ji hap chong see: Gung sam",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Crime,Mystery",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rWn2QIQ4dSLdXuWJHQvcqLEYFTA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a193"
+  },
+  "tconst": "tt0098920",
+  "titleType": "movie",
+  "primaryTitle": "Piggate",
+  "originalTitle": "Swinka",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Comedy,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/pvJAJqn2klJRHGjsYreXuzwRc11.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a194"
+  },
+  "tconst": "tt0098958",
+  "titleType": "movie",
+  "primaryTitle": "His Nickname Is Beast",
+  "originalTitle": "...Po prozvishchu 'Zver'",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Action,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5JYxN5bMYc5wg1LPCEPy3wJfSS2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a195"
+  },
+  "tconst": "tt0098959",
+  "titleType": "movie",
+  "primaryTitle": "...Almost",
+  "originalTitle": "Wendy Cracked a Walnut",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "84",
+  "genres": "Drama,Fantasy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5RVhWzvQDrApH6MqwlNFS9CJQg.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a196"
+  },
+  "tconst": "tt0098961",
+  "titleType": "movie",
+  "primaryTitle": "Les 1001 nuits",
+  "originalTitle": "Les 1001 nuits",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Adventure,Comedy,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wFubQZcMS5ZEPX3kf1XatDQPAmy.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a197"
+  },
+  "tconst": "tt0098963",
+  "titleType": "movie",
+  "primaryTitle": "1871",
+  "originalTitle": "1871",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama,History,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9bL4iTdSLRw4RzNVMtyIFr2pvgd.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a198"
+  },
+  "tconst": "tt0098965",
+  "titleType": "movie",
+  "primaryTitle": "Little Ninjas",
+  "originalTitle": "Little Ninjas",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Action,Adventure,Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/kmZbIiYaTrhR3mEm5E9CgdsDFqK.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a199"
+  },
+  "tconst": "tt0098966",
+  "titleType": "movie",
+  "primaryTitle": "Three Men and a Little Lady",
+  "originalTitle": "3 Men and a Little Lady",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "104",
+  "genres": "Comedy,Drama,Family",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4VWWEnhX0zddRKwZWGtIdDcV5U7.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a19a"
+  },
+  "tconst": "tt0098967",
+  "titleType": "movie",
+  "primaryTitle": "Boiling Point",
+  "originalTitle": "3-4 x jûgatsu",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "96",
+  "genres": "Action,Comedy,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/e8fIvIJDydB0MW3wuWos0hsh08i.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a19b"
+  },
+  "tconst": "tt0098970",
+  "titleType": "movie",
+  "primaryTitle": "Alone Together",
+  "originalTitle": "A solas contigo",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/nW2XWULVuNMuQjACXhC8dLnBN3q.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a19c"
+  },
+  "tconst": "tt0098972",
+  "titleType": "movie",
+  "primaryTitle": "Tales of a Golden Geisha",
+  "originalTitle": "Ageman",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "114",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/u2Qp3IN9D82T1K7ZSGfV5AmOF9E.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a19d"
+  },
+  "tconst": "tt0098974",
+  "titleType": "movie",
+  "primaryTitle": "Die Aids-Trilogie: Feuer unterm Arsch - Vom Leben und Sterben schwuler Männer in Berlin",
+  "originalTitle": "Die Aids-Trilogie: Feuer unterm Arsch - Vom Leben und Sterben schwuler Männer in Berlin",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "50",
+  "genres": "\\N",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/aVkTCjwagbyGyekWKXRPViVZLXF.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a19e"
+  },
+  "tconst": "tt0098975",
+  "titleType": "movie",
+  "primaryTitle": "Aadhi Haqeeqat, Aadha Fasana",
+  "originalTitle": "Aadhi Haqeeqat, Aadha Fasana",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a19f"
+  },
+  "tconst": "tt0098976",
+  "titleType": "movie",
+  "primaryTitle": "Aaj Ka Arjun",
+  "originalTitle": "Aaj Ka Arjun",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "164",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4V4QbSabLUiT3LhyXFq1oqsjJ5K.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a0"
+  },
+  "tconst": "tt0098977",
+  "titleType": "movie",
+  "primaryTitle": "Abhimanyu",
+  "originalTitle": "Abhimanyu",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a1"
+  },
+  "tconst": "tt0098978",
+  "titleType": "movie",
+  "primaryTitle": "Abschiedsdisco",
+  "originalTitle": "Abschiedsdisco",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Drama,Family",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5mFkXDhBpxA1fOMa3wAYq25hDmh.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a2"
+  },
+  "tconst": "tt0098979",
+  "titleType": "movie",
+  "primaryTitle": "Accompong - Schwarze Rebellen in Jamaica",
+  "originalTitle": "Accompong - Schwarze Rebellen in Jamaica",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a3"
+  },
+  "tconst": "tt0098980",
+  "titleType": "movie",
+  "primaryTitle": "Ach, Boris...",
+  "originalTitle": "Ach, Boris...",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/4RI1Kb3QRKQThASK3apJY7SMyEA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a4"
+  },
+  "tconst": "tt0098981",
+  "titleType": "movie",
+  "primaryTitle": "Der achte Tag",
+  "originalTitle": "Der achte Tag",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "99",
+  "genres": "Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/aTYeSqbHRh6rptRPRQLzXXZkA8z.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a5"
+  },
+  "tconst": "tt0098986",
+  "titleType": "movie",
+  "primaryTitle": "Adrénaline",
+  "originalTitle": "Adrénaline",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "77",
+  "genres": "Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1uZ1dVfutxL25snyOAhHGpWka3o.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a6"
+  },
+  "tconst": "tt0098987",
+  "titleType": "movie",
+  "primaryTitle": "The Adventures of Ford Fairlane",
+  "originalTitle": "The Adventures of Ford Fairlane",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "104",
+  "genres": "Action,Adventure,Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/u6accimG7LmroR8WgNklEJS7oFq.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a7"
+  },
+  "tconst": "tt0098988",
+  "titleType": "movie",
+  "primaryTitle": "Aferisty",
+  "originalTitle": "Aferisty",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "84",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/qbJKnW2MrDNvsakOmtCjDKhUt7r.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a8"
+  },
+  "tconst": "tt0098989",
+  "titleType": "movie",
+  "primaryTitle": "Life Is Like a Cucumber",
+  "originalTitle": "Affengeil",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Biography,Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/2uhRyHXmIlkvyAYzYF5oWSgPJvH.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1a9"
+  },
+  "tconst": "tt0098990",
+  "titleType": "movie",
+  "primaryTitle": "Afghan Breakdown",
+  "originalTitle": "Afganskiy izlom",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "140",
+  "genres": "War",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bmY5KXlLhkM7ewXQ6xr6AMHbO28.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1aa"
+  },
+  "tconst": "tt0098991",
+  "titleType": "movie",
+  "primaryTitle": "L'africana",
+  "originalTitle": "L'africana",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "105",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/kyk2eUGgx2TS1da6styKzwPqVqr.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ab"
+  },
+  "tconst": "tt0098992",
+  "titleType": "movie",
+  "primaryTitle": "Afrika um die Ecke",
+  "originalTitle": "Afrika um die Ecke",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "65",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ac"
+  },
+  "tconst": "tt0098993",
+  "titleType": "movie",
+  "primaryTitle": "Time Off",
+  "originalTitle": "After",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "45",
+  "genres": "Action,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/kwSDjbbh9kDmQDvJZrNQcgMEa9s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ad"
+  },
+  "tconst": "tt0098994",
+  "titleType": "movie",
+  "primaryTitle": "After Dark, My Sweet",
+  "originalTitle": "After Dark, My Sweet",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "114",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/6fWrEcIEoFuwYt4MUY4RtZwuMo9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ae"
+  },
+  "tconst": "tt0098996",
+  "titleType": "movie",
+  "primaryTitle": "Aftershock",
+  "originalTitle": "Aftershock",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Action,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/wCs3H2QtHNSCTTZKwV5lXzlAl8g.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1af"
+  },
+  "tconst": "tt0098998",
+  "titleType": "movie",
+  "primaryTitle": "The Age of Insects",
+  "originalTitle": "The Age of Insects",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "75",
+  "genres": "Comedy,Horror,Sci-Fi",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/90iYCNKREwXaLF2HzOphYmnOXa6.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b0"
+  },
+  "tconst": "tt0098999",
+  "titleType": "movie",
+  "primaryTitle": "Agneepath",
+  "originalTitle": "Agneepath",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "174",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/d9OfOqRTrW5FX1dhDPwaMNqm6GB.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b1"
+  },
+  "tconst": "tt0099000",
+  "titleType": "movie",
+  "primaryTitle": "Farewell China",
+  "originalTitle": "Ai zai bie xiang de ji jie",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "114",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/d3yRCjZ6HAFrtFnGeQaxTvTRXvd.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b2"
+  },
+  "tconst": "tt0099001",
+  "titleType": "movie",
+  "primaryTitle": "The Story of My Son",
+  "originalTitle": "Ngoi di sai gaai",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "75",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/87QWSis2F2JAwx3pJjpZdItrEWU.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b3"
+  },
+  "tconst": "tt0099004",
+  "titleType": "movie",
+  "primaryTitle": "Ain't No Way Back",
+  "originalTitle": "Ain't No Way Back",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/sKKClUUoNIYlXUErQ9uvjdB8ph8.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b4"
+  },
+  "tconst": "tt0099005",
+  "titleType": "movie",
+  "primaryTitle": "Air America",
+  "originalTitle": "Air America",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "113",
+  "genres": "Action,Comedy,War",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3p4ldj2ZjaoTNBVfb1pSMoMnRn8.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b5"
+  },
+  "tconst": "tt0099007",
+  "titleType": "movie",
+  "primaryTitle": "Al Gatun",
+  "originalTitle": "Al Gatun",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "70",
+  "genres": "Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b6"
+  },
+  "tconst": "tt0099008",
+  "titleType": "movie",
+  "primaryTitle": "L'alba",
+  "originalTitle": "L'alba",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/tWKRVtsJM7R1H2jStzXKoziWPCp.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b7"
+  },
+  "tconst": "tt0099009",
+  "titleType": "movie",
+  "primaryTitle": "Alberto Express",
+  "originalTitle": "Alberto Express",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Adventure,Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/pETlj76yCVCkN7oCbMJu9in2JaY.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b8"
+  },
+  "tconst": "tt0099011",
+  "titleType": "movie",
+  "primaryTitle": "Alcune signore per bene",
+  "originalTitle": "Alcune signore per bene",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Drama,Mystery,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/kt0Xx1ZD3BdgOrTKEg7DYRek7V0.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1b9"
+  },
+  "tconst": "tt0099012",
+  "titleType": "movie",
+  "primaryTitle": "Alice",
+  "originalTitle": "Alice",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "106",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/q2m2Nwh5ROkS4zMpWdOUvNFpjc3.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ba"
+  },
+  "tconst": "tt0099013",
+  "titleType": "movie",
+  "primaryTitle": "All of Me",
+  "originalTitle": "All of Me",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "76",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3LsWpmRm9asAPJs41AnPMLahJD9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1bb"
+  },
+  "tconst": "tt0099014",
+  "titleType": "movie",
+  "primaryTitle": "All the Vermeers in New York",
+  "originalTitle": "All the Vermeers in New York",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/sQmBGBIjDvX2nMwUHI3yQv4YAJ9.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1bc"
+  },
+  "tconst": "tt0099015",
+  "titleType": "movie",
+  "primaryTitle": "Alle Juden raus!",
+  "originalTitle": "Alle Juden raus!",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "82",
+  "genres": "Biography,Documentary,History",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/3LyoEI5Cw6yJlHmoG856mSvJMf3.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1bd"
+  },
+  "tconst": "tt0099017",
+  "titleType": "movie",
+  "primaryTitle": "Alligator Eyes",
+  "originalTitle": "Alligator Eyes",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "101",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9dobwqqryqaBL27wtvm2oCAWJ6h.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1be"
+  },
+  "tconst": "tt0099018",
+  "titleType": "movie",
+  "primaryTitle": "Almost an Angel",
+  "originalTitle": "Almost an Angel",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Comedy,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/7QDWGSVBzGUWhN1PTnQlZcPjS2A.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1bf"
+  },
+  "tconst": "tt0099019",
+  "titleType": "movie",
+  "primaryTitle": "Old Comrades",
+  "originalTitle": "Alte Kameraden",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c0"
+  },
+  "tconst": "tt0099024",
+  "titleType": "movie",
+  "primaryTitle": "Amaurose",
+  "originalTitle": "Amaurose",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c1"
+  },
+  "tconst": "tt0099025",
+  "titleType": "movie",
+  "primaryTitle": "Amba",
+  "originalTitle": "Amba",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "153",
+  "genres": "Family",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/vTBqn51ndNdCWjeYPl4v1PlDbT1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c2"
+  },
+  "tconst": "tt0099026",
+  "titleType": "movie",
+  "primaryTitle": "The Ambulance",
+  "originalTitle": "The Ambulance",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "96",
+  "genres": "Action,Comedy,Horror",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/nq9zbzTY93Hg8nhi2axGqobw1sc.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c3"
+  },
+  "tconst": "tt0099027",
+  "titleType": "movie",
+  "primaryTitle": "Amelia Lópes O'Neill",
+  "originalTitle": "Amelia Lópes O'Neill",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/lS25W9h8TKk0tw6N9jes1VmROeY.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c4"
+  },
+  "tconst": "tt0099028",
+  "titleType": "movie",
+  "primaryTitle": "American Dream",
+  "originalTitle": "American Dream",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/da6DPUrYsi3K2HzwalUpphtOHec.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c5"
+  },
+  "tconst": "tt0099029",
+  "titleType": "movie",
+  "primaryTitle": "Paradise America",
+  "originalTitle": "Ameriikan raitti",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "120",
+  "genres": "Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/onWtRRYCMVJkChmYazH7lQJBof8.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c6"
+  },
+  "tconst": "tt0099031",
+  "titleType": "movie",
+  "primaryTitle": "Amnesia",
+  "originalTitle": "Amnesia",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c7"
+  },
+  "tconst": "tt0099033",
+  "titleType": "movie",
+  "primaryTitle": "Amor und Psyche",
+  "originalTitle": "Amor und Psyche",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c8"
+  },
+  "tconst": "tt0099034",
+  "titleType": "movie",
+  "primaryTitle": "L'amour",
+  "originalTitle": "L'amour",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Drama,Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1c9"
+  },
+  "tconst": "tt0099038",
+  "titleType": "movie",
+  "primaryTitle": "Anekdoty",
+  "originalTitle": "Anekdoty",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "78",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/bHiRBbmdlas0GoNLH59GGm6deJR.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ca"
+  },
+  "tconst": "tt0099039",
+  "titleType": "movie",
+  "primaryTitle": "Angel Town",
+  "originalTitle": "Angel Town",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "106",
+  "genres": "Action,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/xiCoIDJG1afaBnCrSUNrM1vI2uP.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1cb"
+  },
+  "tconst": "tt0073481",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Old Times",
+  "originalTitle": "Old Times",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "78",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1sAumy1MAzAoi4wWP9b9boHPFcC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1cc"
+  },
+  "tconst": "tt0088283",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Tod durch elektrischen Strom",
+  "originalTitle": "Tod durch elektrischen Strom",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "70",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1cd"
+  },
+  "tconst": "tt0088656",
+  "titleType": "tvEpisode",
+  "primaryTitle": "A.D. Police File 2: The Ripper",
+  "originalTitle": "Za Rippaa (The Ripper)",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "40",
+  "genres": "Animation,Crime,Sci-Fi",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ce"
+  },
+  "tconst": "tt0088657",
+  "titleType": "tvEpisode",
+  "primaryTitle": "AD Police Files 3: The Man Who Bites His Tongue",
+  "originalTitle": "Shita wo kamu otoko (The Man Who Bites His Tongue)",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "40",
+  "genres": "Animation,Crime,Sci-Fi",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1cf"
+  },
+  "tconst": "tt0090780",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Bulls of a Feather",
+  "originalTitle": "Bulls of a Feather",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Action,Adventure,Animation",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d0"
+  },
+  "tconst": "tt0094808",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Zwei Brüder",
+  "originalTitle": "Zwei Brüder",
+  "isAdult": "0",
+  "startYear": "1994",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d1"
+  },
+  "tconst": "tt0095661",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Le mouchoir de Joseph",
+  "originalTitle": "Le mouchoir de Joseph",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d2"
+  },
+  "tconst": "tt0095671",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La mujer fría",
+  "originalTitle": "La mujer fría",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o0GFTzMjcwdWRcK1Vxd3pDFht8s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d3"
+  },
+  "tconst": "tt0095672",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La mujer infiel",
+  "originalTitle": "La mujer infiel",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "57",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o0GFTzMjcwdWRcK1Vxd3pDFht8s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d4"
+  },
+  "tconst": "tt0095673",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La mujer oriental",
+  "originalTitle": "La mujer oriental",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o0GFTzMjcwdWRcK1Vxd3pDFht8s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d5"
+  },
+  "tconst": "tt0095674",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La mujer perdida",
+  "originalTitle": "La mujer perdida",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o0GFTzMjcwdWRcK1Vxd3pDFht8s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d6"
+  },
+  "tconst": "tt0095783",
+  "titleType": "tvEpisode",
+  "primaryTitle": "One Last Chance",
+  "originalTitle": "One Last Chance",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d7"
+  },
+  "tconst": "tt0096135",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Sometime in August",
+  "originalTitle": "Sometime in August",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/w9Dut78EL8gfFYwHYLTW2QphELA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d8"
+  },
+  "tconst": "tt0096361",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Reiha Has Come",
+  "originalTitle": "Reiha Has Come",
+  "isAdult": "0",
+  "startYear": "1997",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Action,Animation,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1d9"
+  },
+  "tconst": "tt0096362",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Fang Knows",
+  "originalTitle": "The Fang Knows",
+  "isAdult": "0",
+  "startYear": "1997",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Action,Animation,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1da"
+  },
+  "tconst": "tt0096363",
+  "titleType": "tvEpisode",
+  "primaryTitle": "At the Next Station",
+  "originalTitle": "At the Next Station",
+  "isAdult": "0",
+  "startYear": "1997",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Action,Animation,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1db"
+  },
+  "tconst": "tt0096781",
+  "titleType": "tvEpisode",
+  "primaryTitle": "'Itch",
+  "originalTitle": "'Itch",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "54",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1dc"
+  },
+  "tconst": "tt0096864",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Grand Theft Hotel",
+  "originalTitle": "Grand Theft Hotel",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1dd"
+  },
+  "tconst": "tt0097218",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Dogs",
+  "originalTitle": "The Dogs",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "13",
+  "genres": "Drama,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1de"
+  },
+  "tconst": "tt0097246",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Das Duell",
+  "originalTitle": "Das Duell",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "76",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1df"
+  },
+  "tconst": "tt0097324",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Ein Fall für Onkel",
+  "originalTitle": "Ein Fall für Onkel",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e0"
+  },
+  "tconst": "tt0097346",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Fellow Traveller",
+  "originalTitle": "Fellow Traveller",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mahwEiefmBPbHx0gRe0dkA8YMae.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e1"
+  },
+  "tconst": "tt0097451",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Le Gorille sans cravate",
+  "originalTitle": "Le Gorille sans cravate",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Action,Comedy,Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e2"
+  },
+  "tconst": "tt0097783",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Lounge Bar",
+  "originalTitle": "The Lounge Bar",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "12",
+  "genres": "Drama,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e3"
+  },
+  "tconst": "tt0097822",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Man from the Pru",
+  "originalTitle": "The Man from the Pru",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e4"
+  },
+  "tconst": "tt0097924",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La mujer inesperada",
+  "originalTitle": "La mujer inesperada",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "56",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o0GFTzMjcwdWRcK1Vxd3pDFht8s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e5"
+  },
+  "tconst": "tt0097925",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La mujer lunática",
+  "originalTitle": "La mujer lunática",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Comedy,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/o0GFTzMjcwdWRcK1Vxd3pDFht8s.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e6"
+  },
+  "tconst": "tt0098021",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Old Flames",
+  "originalTitle": "Old Flames",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e7"
+  },
+  "tconst": "tt0098553",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Ein unbekannter Zeuge",
+  "originalTitle": "Ein unbekannter Zeuge",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e8"
+  },
+  "tconst": "tt0098561",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Une table pour six",
+  "originalTitle": "Une table pour six",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1e9"
+  },
+  "tconst": "tt0098576",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Forest Calls",
+  "originalTitle": "The Forest Calls",
+  "isAdult": "0",
+  "startYear": "1997",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Action,Animation,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ea"
+  },
+  "tconst": "tt0098755",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Born in Africa",
+  "originalTitle": "Born in Africa",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Documentary,News",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1eb"
+  },
+  "tconst": "tt0099003",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Aimée",
+  "originalTitle": "Aimée",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/1LbMzAxTGocmXzMJqah3BtTM7gv.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ec"
+  },
+  "tconst": "tt0099032",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Amongst Barbarians",
+  "originalTitle": "Amongst Barbarians",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "75",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ed"
+  },
+  "tconst": "tt0099037",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Andre's Mother",
+  "originalTitle": "Andre's Mother",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mRAs5GFok04sS3mj5SfoAD6bmTB.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ee"
+  },
+  "tconst": "tt0099139",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Le billard écarlate",
+  "originalTitle": "Le billard écarlate",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ef"
+  },
+  "tconst": "tt0099217",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Pilot",
+  "originalTitle": "Pilot",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f0"
+  },
+  "tconst": "tt0099279",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Close Relations",
+  "originalTitle": "Close Relations",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dePPYfZkzOGC5U96hd7KetWYnpe.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f1"
+  },
+  "tconst": "tt0099370",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Day of Reckoning",
+  "originalTitle": "The Day of Reckoning",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Action,Drama,Horror",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f2"
+  },
+  "tconst": "tt0099383",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Death Has a Bad Reputation",
+  "originalTitle": "Death Has a Bad Reputation",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Action,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/fAwoCXF7iKziy2LnCxGTMz1NRqM.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f3"
+  },
+  "tconst": "tt0099427",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Dienstvergehen",
+  "originalTitle": "Dienstvergehen",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f4"
+  },
+  "tconst": "tt0099457",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Frontière du crime",
+  "originalTitle": "Frontière du crime",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f5"
+  },
+  "tconst": "tt0099526",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Exile",
+  "originalTitle": "Exile",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Adventure,Drama,Family",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ijsbdFBTupkYWM21eBbZ4tGky8T.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f6"
+  },
+  "tconst": "tt0099530",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Bersaglio mobile",
+  "originalTitle": "Bersaglio mobile",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Comedy,Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f7"
+  },
+  "tconst": "tt0099542",
+  "titleType": "tvEpisode",
+  "primaryTitle": "A Family for Joe",
+  "originalTitle": "A Family for Joe",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/uYIwlF5sxpStEY8MylYtARlS4Nb.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f8"
+  },
+  "tconst": "tt0099580",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Pilot",
+  "originalTitle": "Pilot",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Action,Crime,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/yzIBlpyufPoL9ujOOizLktHRFev.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1f9"
+  },
+  "tconst": "tt0099661",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Girl with the Crazy Brother",
+  "originalTitle": "The Girl with the Crazy Brother",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "44",
+  "genres": "Adventure,Comedy,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1fa"
+  },
+  "tconst": "tt0099727",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Hamlet",
+  "originalTitle": "Hamlet",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "165",
+  "genres": "Music,Musical",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ssq0280GJyx5fUgfbbBGJ0b7Bug.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1fb"
+  },
+  "tconst": "tt0099744",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La mort en dédicace",
+  "originalTitle": "La mort en dédicace",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1fc"
+  },
+  "tconst": "tt0099745",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Pour cent millions",
+  "originalTitle": "Pour cent millions",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1fd"
+  },
+  "tconst": "tt0099746",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La porte secrète",
+  "originalTitle": "La porte secrète",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "120",
+  "genres": "Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1fe"
+  },
+  "tconst": "tt0099781",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Hollow Boy",
+  "originalTitle": "The Hollow Boy",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "55",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a1ff"
+  },
+  "tconst": "tt0099811",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Deadly Encounters: Part 1",
+  "originalTitle": "Deadly Encounters: Part 1",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Action,Crime,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a200"
+  },
+  "tconst": "tt0099835",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Champ clos",
+  "originalTitle": "Champ clos",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a201"
+  },
+  "tconst": "tt0099851",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Into the Woods",
+  "originalTitle": "Into the Woods",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "151",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/uwMNWZg9gxCNCeruYvEdBN3Zhyb.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a202"
+  },
+  "tconst": "tt0099952",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Kremlin Farewell",
+  "originalTitle": "The Kremlin Farewell",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/xrxX1Jf17DeQrRCgMHf5N8eMr8r.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a203"
+  },
+  "tconst": "tt0099971",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Land of Dreams",
+  "originalTitle": "The Land of Dreams",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/k5u5rheU4m7zDRPFPTEsS4sqAdD.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a204"
+  },
+  "tconst": "tt0099992",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Laughter of God",
+  "originalTitle": "The Laughter of God",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a205"
+  },
+  "tconst": "tt0100155",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Adolphe et les menteuses",
+  "originalTitle": "Adolphe et les menteuses",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "26",
+  "genres": "Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a206"
+  },
+  "tconst": "tt0100216",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Mysterious Affair at Styles",
+  "originalTitle": "The Mysterious Affair at Styles",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "103",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a207"
+  },
+  "tconst": "tt0100255",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Night Voice",
+  "originalTitle": "Night Voice",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a208"
+  },
+  "tconst": "tt0100316",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Pilot",
+  "originalTitle": "Pilot",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Crime,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a209"
+  },
+  "tconst": "tt0100370",
+  "titleType": "tvEpisode",
+  "primaryTitle": "April 1945 - Das Plakat",
+  "originalTitle": "April 1945 - Das Plakat",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a20a"
+  },
+  "tconst": "tt0100406",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Price of the Bride",
+  "originalTitle": "The Price of the Bride",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Action,Thriller",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/rKFJpNV8s9YarAkOOSMuvtdRcQb.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a20b"
+  },
+  "tconst": "tt0100439",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Put on by Cunning",
+  "originalTitle": "Put on by Cunning",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "120",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a20c"
+  },
+  "tconst": "tt0100474",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Rendez-vous à Lisbonne",
+  "originalTitle": "Rendez-vous à Lisbonne",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "26",
+  "genres": "Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a20d"
+  },
+  "tconst": "tt0100482",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Retour",
+  "originalTitle": "Retour",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "26",
+  "genres": "Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a20e"
+  },
+  "tconst": "tt0100492",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Rikki",
+  "originalTitle": "Rikki",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "83",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a20f"
+  },
+  "tconst": "tt0100578",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Sensibility and Sense",
+  "originalTitle": "Sensibility and Sense",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a210"
+  },
+  "tconst": "tt0100580",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Don't Hang Up",
+  "originalTitle": "Separation",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a211"
+  },
+  "tconst": "tt0100642",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Small Zones",
+  "originalTitle": "Small Zones",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a212"
+  },
+  "tconst": "tt0100658",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Some Lie and Some Die: Part One",
+  "originalTitle": "Some Lie and Some Die: Part One",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a213"
+  },
+  "tconst": "tt0100664",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Souleymane Cissé",
+  "originalTitle": "Souleymane Cissé",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "53",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a214"
+  },
+  "tconst": "tt0100710",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Stuff of Madness",
+  "originalTitle": "The Stuff of Madness",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "51",
+  "genres": "Action,Drama,Horror",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a215"
+  },
+  "tconst": "tt0100718",
+  "titleType": "tvEpisode",
+  "primaryTitle": "One Down, Four Up",
+  "originalTitle": "One Down, Four Up",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/kvI9ufC3vrCCQJukHlYCXzzojXA.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a216"
+  },
+  "tconst": "tt0100724",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Sweet Nothing",
+  "originalTitle": "Sweet Nothing",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a217"
+  },
+  "tconst": "tt0100748",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Blue Lady",
+  "originalTitle": "Blue Lady",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "86",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a218"
+  },
+  "tconst": "tt0100749",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Howalds Fall",
+  "originalTitle": "Howalds Fall",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "96",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a219"
+  },
+  "tconst": "tt0100750",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Lauf eines Todes",
+  "originalTitle": "Lauf eines Todes",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a21a"
+  },
+  "tconst": "tt0100751",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Rendezvous",
+  "originalTitle": "Rendezvous",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "97",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a21b"
+  },
+  "tconst": "tt0100752",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Seven Eleven",
+  "originalTitle": "Seven Eleven",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a21c"
+  },
+  "tconst": "tt0100753",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Tod einer Ärztin",
+  "originalTitle": "Tod einer Ärztin",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "77",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a21d"
+  },
+  "tconst": "tt0100754",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Unter Brüdern",
+  "originalTitle": "Unter Brüdern",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a21e"
+  },
+  "tconst": "tt0100755",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Zeitzünder",
+  "originalTitle": "Zeitzünder",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a21f"
+  },
+  "tconst": "tt0100770",
+  "titleType": "tvEpisode",
+  "primaryTitle": "They Never Slept",
+  "originalTitle": "They Never Slept",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "74",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a220"
+  },
+  "tconst": "tt0100818",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Martingale",
+  "originalTitle": "Martingale",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "26",
+  "genres": "Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a221"
+  },
+  "tconst": "tt0100900",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Waldo Salt: A Screenwriter's Journey",
+  "originalTitle": "Waldo Salt: A Screenwriter's Journey",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Biography,Documentary,Music",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/lFRjRi44uznei5oSCql43rMS2mN.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a222"
+  },
+  "tconst": "tt0100948",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Women & Wallace",
+  "originalTitle": "Women & Wallace",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a223"
+  },
+  "tconst": "tt0100953",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Work!",
+  "originalTitle": "Work!",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a224"
+  },
+  "tconst": "tt0101095",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Cave of the Golden Rose",
+  "originalTitle": "Fantaghirò",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "200",
+  "genres": "Adventure,Fantasy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ezAwZWWcnJFnk3eYFonuwDzaMCO.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a225"
+  },
+  "tconst": "tt0101179",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Bambini nell'ombra",
+  "originalTitle": "Bambini nell'ombra",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "120",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a226"
+  },
+  "tconst": "tt0101246",
+  "titleType": "tvEpisode",
+  "primaryTitle": "102 Boulevard Haussmann",
+  "originalTitle": "102 Boulevard Haussmann",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "84",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/u3MfpohihTORFw0P2eYAbuLbVEC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a227"
+  },
+  "tconst": "tt0101271",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Adam Bede",
+  "originalTitle": "Adam Bede",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9GzxKwqg2kXJRqp4SuqzIjTzCEB.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a228"
+  },
+  "tconst": "tt0101274",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Una notte di mezza estate a Daisy Town",
+  "originalTitle": "Una notte di mezza estate a Daisy Town",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Comedy,Western",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a229"
+  },
+  "tconst": "tt0101300",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Alive and Kicking",
+  "originalTitle": "Alive and Kicking",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/gelkUol49M8nISTbZvCAZPpeFvv.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a22a"
+  },
+  "tconst": "tt0101358",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Antonia and Jane",
+  "originalTitle": "Antonia and Jane",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "71",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/5d1AgAgtXxvkTkyY2n2eI943wZy.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a22b"
+  },
+  "tconst": "tt0101443",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Big Band Time",
+  "originalTitle": "Big Band Time",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "75",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a22c"
+  },
+  "tconst": "tt0101480",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Blood Brothers: The Joey DiPaolo Story",
+  "originalTitle": "Blood Brothers: The Joey DiPaolo Story",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama,Family,Short",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a22d"
+  },
+  "tconst": "tt0101655",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Dancing Outlaw",
+  "originalTitle": "Dancing Outlaw",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "29",
+  "genres": "Documentary",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/dzE9hWUNnDkrFGKJakS4hHbTDbi.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a22e"
+  },
+  "tconst": "tt0101729",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Dieci giorni tutto compreso",
+  "originalTitle": "Dieci giorni tutto compreso",
+  "isAdult": "0",
+  "startYear": "1993",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Crime,Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a22f"
+  },
+  "tconst": "tt0101750",
+  "titleType": "tvEpisode",
+  "primaryTitle": "A Doll's House",
+  "originalTitle": "A Doll's House",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "140",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a230"
+  },
+  "tconst": "tt0101835",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Magia nera",
+  "originalTitle": "Magia nera",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "99",
+  "genres": "Comedy,Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a231"
+  },
+  "tconst": "tt0101836",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Black & White",
+  "originalTitle": "Black & White",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Comedy,Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a232"
+  },
+  "tconst": "tt0101837",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Cannonball",
+  "originalTitle": "Cannonball",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Comedy,Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a233"
+  },
+  "tconst": "tt0101838",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Yo-yo",
+  "originalTitle": "Yo-yo",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "91",
+  "genres": "Comedy,Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a234"
+  },
+  "tconst": "tt0101840",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Miami Killer",
+  "originalTitle": "Miami Killer",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Comedy,Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a235"
+  },
+  "tconst": "tt0101894",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Flea Bites",
+  "originalTitle": "Flea Bites",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "100",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a236"
+  },
+  "tconst": "tt0101915",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Fred Astaire Songbook",
+  "originalTitle": "The Fred Astaire Songbook",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "60",
+  "genres": "Music,Musical",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/c5K57bhxqP9VBhxFFsgQkyovXCg.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a237"
+  },
+  "tconst": "tt0101971",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Grapes of Wrath",
+  "originalTitle": "The Grapes of Wrath",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "142",
+  "genres": "Comedy,Drama,Romance",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/fL5V6o7NdPIVTODNEnxbUiiXNnH.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a238"
+  },
+  "tconst": "tt0101972",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Grass Arena",
+  "originalTitle": "The Grass Arena",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/JtOhvOBuWsMn3vxzeQ0Za94AkC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a239"
+  },
+  "tconst": "tt0102012",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Heading Home",
+  "originalTitle": "Heading Home",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/9R8NTw0fDwlYVP0DAlZAAS5zAsR.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a23a"
+  },
+  "tconst": "tt0102111",
+  "titleType": "tvEpisode",
+  "primaryTitle": "In the Border Country",
+  "originalTitle": "In the Border Country",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a23b"
+  },
+  "tconst": "tt0102199",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Hollywood Babylon",
+  "originalTitle": "Hollywood Babylon",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "58",
+  "genres": "Documentary",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a23c"
+  },
+  "tconst": "tt0102255",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Winter 1991 - Das Lachen der Maca Daracs",
+  "originalTitle": "Winter 1991 - Das Lachen der Maca Daracs",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a23d"
+  },
+  "tconst": "tt0102276",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Last Romantics",
+  "originalTitle": "The Last Romantics",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/gEJ5hKbXxh5Iu9wCCmtn0XhAwil.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a23e"
+  },
+  "tconst": "tt0102281",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Law Lord",
+  "originalTitle": "The Law Lord",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/lntzH3XHBFb95dtablPirpLBYyo.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a23f"
+  },
+  "tconst": "tt0102337",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Lost Language of Cranes",
+  "originalTitle": "The Lost Language of Cranes",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Music,Musical",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a240"
+  },
+  "tconst": "tt0102378",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Maigret et la grande perche",
+  "originalTitle": "Maigret et la grande perche",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a241"
+  },
+  "tconst": "tt0102379",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Maigret et les plaisirs de la nuit",
+  "originalTitle": "Maigret et les plaisirs de la nuit",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "82",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a242"
+  },
+  "tconst": "tt0102416",
+  "titleType": "tvEpisode",
+  "primaryTitle": "The Master Blackmailer",
+  "originalTitle": "The Master Blackmailer",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "102",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/mNrEjZyGi6vOuogEVjimq6hGFKP.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a243"
+  },
+  "tconst": "tt0102424",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Means of Evil: Part One",
+  "originalTitle": "Means of Evil: Part One",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "50",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a244"
+  },
+  "tconst": "tt0102474",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Mrs. Harris und der Heiratsschwindler",
+  "originalTitle": "Mrs. Harris und der Heiratsschwindler",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Comedy,Crime",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/ugqoJ1ayZa1sV5Hfj3qJy0i4lUW.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a245"
+  },
+  "tconst": "tt0102501",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Der Vollmondmörder",
+  "originalTitle": "Der Vollmondmörder",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "84",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a246"
+  },
+  "tconst": "tt0102502",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Narkose für's Jenseits",
+  "originalTitle": "Narkose für's Jenseits",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "85",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a247"
+  },
+  "tconst": "tt0102547",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Noch Zweifel, Herr Verteidiger",
+  "originalTitle": "Noch Zweifel, Herr Verteidiger",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a248"
+  },
+  "tconst": "tt0102621",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Pilot",
+  "originalTitle": "Pilot",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "93",
+  "genres": "Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a249"
+  },
+  "tconst": "tt0102643",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Pas de bavards à la Muette",
+  "originalTitle": "Pas de bavards à la Muette",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Crime,Mystery,Thriller",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a24a"
+  },
+  "tconst": "tt0102644",
+  "titleType": "tvEpisode",
+  "primaryTitle": "La pastorela",
+  "originalTitle": "La pastorela",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "79",
+  "genres": "Music,Musical",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a24b"
+  },
+  "tconst": "tt0102711",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Prince",
+  "originalTitle": "Prince",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "75",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/oEjANiLQPAwAiDTVByFAkQfMruw.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a24c"
+  },
+  "tconst": "tt0102769",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Reiche Kunden killt man nicht",
+  "originalTitle": "Reiche Kunden killt man nicht",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a24d"
+  },
+  "tconst": "tt0102786",
+  "titleType": "tvEpisode",
+  "primaryTitle": "How Dinosaurs Became Extinct",
+  "originalTitle": "How Dinosaurs Became Extinct",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "73",
+  "genres": "Animation,Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/q7ytGK5trp0utPcjfXLgnIVILKp.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a24e"
+  },
+  "tconst": "tt0102787",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Dreams",
+  "originalTitle": "Dreams",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "2",
+  "genres": "Animation,Comedy",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hQQc58syrUvX9ThQ1Dg4XeKaKzb.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a24f"
+  },
+  "tconst": "tt0102856",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Aller Anfang ist schwer",
+  "originalTitle": "Aller Anfang ist schwer",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "94",
+  "genres": "\\N",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a250"
+  },
+  "tconst": "tt0102857",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Schmutziges Gold",
+  "originalTitle": "Schmutziges Gold",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "104",
+  "genres": "Crime",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a251"
+  },
+  "tconst": "tt0102863",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Filipina Dreamgirls",
+  "originalTitle": "Filipina Dreamgirls",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/fQQJlidZ3iQlsBd8Vx1oaRhM21k.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a252"
+  },
+  "tconst": "tt0102925",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Siláci",
+  "originalTitle": "Siláci",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "12",
+  "genres": "Crime,Drama,Horror",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a253"
+  },
+  "tconst": "tt0103020",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Dans les cordes",
+  "originalTitle": "Dans les cordes",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Crime,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a254"
+  },
+  "tconst": "tt0103046",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Der Fall Schimanski",
+  "originalTitle": "Der Fall Schimanski",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a255"
+  },
+  "tconst": "tt0103047",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Die chinesische Methode",
+  "originalTitle": "Die chinesische Methode",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "95",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a256"
+  },
+  "tconst": "tt0103048",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Finale am Rothenbaum",
+  "originalTitle": "Finale am Rothenbaum",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a257"
+  },
+  "tconst": "tt0103049",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Kinderlieb",
+  "originalTitle": "Kinderlieb",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "87",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a258"
+  },
+  "tconst": "tt0103050",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Schimanskis Waffe",
+  "originalTitle": "Schimanskis Waffe",
+  "isAdult": "0",
+  "startYear": "1990",
+  "endYear": "\\N",
+  "runtimeMinutes": "86",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a259"
+  },
+  "tconst": "tt0103051",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Telefongeld",
+  "originalTitle": "Telefongeld",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a25a"
+  },
+  "tconst": "tt0103052",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Tod eines Mädchens",
+  "originalTitle": "Tod eines Mädchens",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "90",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a25b"
+  },
+  "tconst": "tt0103053",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Tod im Häcksler",
+  "originalTitle": "Tod im Häcksler",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "80",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a25c"
+  },
+  "tconst": "tt0103054",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Wer zweimal stirbt",
+  "originalTitle": "Wer zweimal stirbt",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "88",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a25d"
+  },
+  "tconst": "tt0103062",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Tell Me That You Love Me",
+  "originalTitle": "Tell Me That You Love Me",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "98",
+  "genres": "Comedy,Crime,Drama",
+  "img_url_asset": "https://image.tmdb.org/t/p/{width_variable}/hEBf4QPMswqPnOe6GlwhqDozhVi.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a25e"
+  },
+  "tconst": "tt0103071",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Thanners neuer Job",
+  "originalTitle": "Thanners neuer Job",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "83",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a25f"
+  },
+  "tconst": "tt0103145",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Two Teens and a Baby",
+  "originalTitle": "Two Teens and a Baby",
+  "isAdult": "0",
+  "startYear": "1992",
+  "endYear": "\\N",
+  "runtimeMinutes": "\\N",
+  "genres": "Adventure,Comedy,Drama",
+  "img_url_asset": "\\N"
+},
+{
+  "_id": {
+    "$oid": "65c901a6d86984475ae1a260"
+  },
+  "tconst": "tt0103149",
+  "titleType": "tvEpisode",
+  "primaryTitle": "Tödliche Vergangenheit",
+  "originalTitle": "Tödliche Vergangenheit",
+  "isAdult": "0",
+  "startYear": "1991",
+  "endYear": "\\N",
+  "runtimeMinutes": "92",
+  "genres": "Crime,Drama,Mystery",
+  "img_url_asset": "\\N"
+}]

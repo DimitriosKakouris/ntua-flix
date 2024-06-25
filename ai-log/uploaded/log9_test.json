@@ -1,0 +1,19 @@
+{
+    "answers": {
+        "phase": "testing",
+        "action": "performance testing",
+        "scope": "test execution scripts",
+        "action experience":"none",
+        "prog lang": "js",
+        "other prog lang": "<fill in>",
+        "tool": "chat gpt 4.x",
+        "other tool": "<fill in>",
+        "tool option": "full",
+        "tool experience": "enough",
+        "time allocated (h)": "0.3",
+        "time saved estimate (h)": "0.2",
+        "quality of ai help": "major modifications needed",
+        "generic feeling": "great in the future",
+        "notes": "<fill in>"
+    }
+}

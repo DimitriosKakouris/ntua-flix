@@ -1,0 +1,82 @@
+/* Top Navbar */
+/* .navbar {
+    background-color: #f8f8f8;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+.navbar-nav {
+    list-style: none;
+    display: flex;
+}
+
+.navbar-nav li {
+    margin-right: 10px;
+}
+
+.navbar-nav li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.navbar-nav li a:hover {
+    color: #555;
+}
+
+.search{
+    display: inline-block;
+    margin-left: 2em;
+} */
+.navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+}
+
+.d-flex {
+    justify-content: left;
+    transform: translateX(-330%);
+}
+
+/* .searchbar {
+    background-image: url( 'bootstrap-icons/icons/search.svg');
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left: 20px; /* adjust as needed */
+ 
+
+/* .nav-item {
+    margin-right: 1em;
+} */
+
+
+.searchbar{
+  
+        width: 40%;
+        animation: shrink 2s forwards;
+    }
+    
+    .searchbar:hover {
+        animation: expand 0.8s forwards;
+    }
+    
+    @keyframes expand {
+        0% { width: 40%; }
+        100% { width: 100%; }
+    }
+    
+    @keyframes shrink {
+        0% { width: 100%; }
+        100% { width: 40%; }
+    }

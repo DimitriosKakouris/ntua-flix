@@ -1,0 +1,671 @@
+{
+	"info": {
+		"_postman_id": "f22a50c7-4b9d-4f61-a0f2-ffaee0ecd963",
+		"name": "API Documentation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28624877"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const res = pm.response.json();",
+							"pm.environment.set(\"token\", res.token);",
+							"",
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"    pm.expect(res.token).to.be.a('string');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "admin",
+							"type": "text"
+						},
+						{
+							"key": "passw",
+							"value": "admin",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"login"
+					]
+				},
+				"description": "\nThis endpoint allows users to log in to the NTUAFlix API. The request should be sent as an HTTP POST to the specified URL. The request body should be of type x-www-form-urlencoded and should include the necessary login credentials. Upon a successful request, the response will have a status code of 200 and a content type of text/xml. The response body will contain the login result in XML format.\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Add User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "newuser",
+							"type": "text"
+						},
+						{
+							"key": "passw",
+							"value": "newpass",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/admin/usermod/newuser/newpass",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"admin",
+						"usermod",
+						"newuser",
+						"newpass"
+					]
+				},
+				"description": "\nThis endpoint is used to create a new user with the provided username and password. The request should be sent as an HTTP POST to http://localhost:9876/ntuaflix_api/admin/usermod/newuser/newpass. The request body should be in x-www-form-urlencoded format.\n\nThe response to the request will have a status code of 200 and a JSON content type. The response body will contain a status field indicating the result of the operation.\n\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Logout",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 204\", () => {",
+							"    pm.response.to.have.status(204);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/logout",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"logout"
+					]
+				},
+				"description": "This endpoint is used to log out the user from the NTUAflix API. Upon successful execution, it returns a 204 status with an empty JSON response body."
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const res = pm.response.json();",
+							"pm.environment.set(\"token\", res.token);",
+							"",
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"    pm.expect(res.token).to.be.a('string');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "jim",
+							"type": "text"
+						},
+						{
+							"key": "passw",
+							"value": "1000",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"login"
+					]
+				},
+				"description": "\nThis HTTP POST request is used to log in to the ntuaflix_api. The request is sent to http://localhost:9876/ntuaflix_api/login with a payload in x-www-form-urlencoded request body type.\n\n### Request Body\n- No parameters were provided in the request body for the last call.\n\n### Response\n- **Status**: 200\n- **Content-Type**: application/json\n- **Body**:\n  ```json\n  {\n      \"msg\": \"\",\n      \"token\": \"\",\n      \"user\": \"\"\n  }\n  ```\n\nThis endpoint returns a JSON response with a status code of 200. The response body includes a message, token, and user information.\n\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Search title Jer",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/searchtitle",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"searchtitle"
+					]
+				},
+				"description": "\nThis endpoint makes an HTTP GET request to search for titles based on the provided title part. The request should include a JSON payload with the \"titlePart\" parameter.\n\nThe response will be in JSON format with a status code of 200, and it will contain an object with multiple key-value pairs. Each key represents a unique identifier for a title, and the corresponding value contains details about the title such as ID, year, genres, image URL, adult status, original title, primary title, runtime, start year, title type, and more.\n\nFor detailed information about the title search results, refer to the response body returned by the API.\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Search title Genre Comedy and min rating 7",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/bygenre",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"bygenre"
+					]
+				},
+				"description": "# Get Movies by Genre\n\nThis endpoint retrieves a list of movies based on the specified genre.\n\n## Request\n\n### Endpoint\n\n`GET /ntuaflix_api/bygenre`\n\n### Query Parameters\n\n- `qgenre` (optional, string): The genre for filtering the movies.\n- `minrating` (optional, string): The minimum rating for filtering the movies.\n    \n\n## Response\n\n- Status: 200 OK\n- Content-Type: application/json\n    \n\n### Data Fields\n\n- `endYear` (string): The end year of the movie.\n- `genres` (array of strings): The genres associated with the movie.\n- `originalTitle` (string): The original title of the movie.\n- `principals` (array of objects):\n    - `category` (string): The category of the principal.\n    - `name` (string): The name of the principal.\n    - `nameID` (string): The ID of the principal.\n- `rating` (object):\n    - `avrating` (number): The average rating of the movie.\n    - `nvotes` (string): The number of votes.\n- `startYear` (string): The start year of the movie.\n- `titleAkas` (array of objects):\n    - `akatitle` (string): The alternative title of the movie.\n    - `regionAbbrev` (string): The region abbreviation.\n- `titleID` (string): The ID of the movie title.\n- `titlePoster` (string): The URL of the movie poster.\n- `type` (string): The type of the movie."
+			},
+			"response": []
+		},
+		{
+			"name": "Get title by id tt0000929",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/title/tt0000929",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"title",
+						"tt0000929"
+					]
+				},
+				"description": "# Get Movie Details by Title ID\n\nThis endpoint retrieves the details of a movie based on its title ID.\n\n## Request\n\n### Endpoint\n\n`GET http://localhost:9876/ntuaflix_api/title/tt0000929`\n\n## Response\n\n- Status: 200\n- Content-Type: application/json\n    \n\n``` json\n{\n  \"endYear\": \"\",\n  \"genres\": [\"\"],\n  \"originalTitle\": \"\",\n  \"principals\": [\n    {\n      \"category\": \"\",\n      \"name\": \"\",\n      \"nameID\": \"\"\n    }\n  ],\n  \"rating\": {\n    \"avrating\": 0,\n    \"nvotes\": \"\"\n  },\n  \"startYear\": \"\",\n  \"titleAkas\": [\n    {\n      \"akatitle\": \"\",\n      \"regionAbbrev\": \"\"\n    }\n  ],\n  \"titleID\": \"\",\n  \"titlePoster\": \"\",\n  \"type\": \"\"\n}\n\n ```\n\n## Documentation\n\nNo additional documentation provided."
+			},
+			"response": []
+		},
+		{
+			"name": "Logout",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 204\", () => {",
+							"    pm.response.to.have.status(204);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/logout",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"logout"
+					]
+				},
+				"description": "This endpoint is used to log out the user from the NTUAflix API. Upon successful execution, it returns a status code of 204 and an empty JSON response."
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const res = pm.response.json();",
+							"pm.environment.set(\"token\", res.token);",
+							"",
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"    pm.expect(res.token).to.be.a('string');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "username",
+							"value": "admin",
+							"type": "text"
+						},
+						{
+							"key": "passw",
+							"value": "admin",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"login"
+					]
+				},
+				"description": "\nThis API endpoint allows users to log in to the NTUAFlix application. Upon successful login, the server returns a token and user information in the response. The request should be made using an HTTP POST method with the x-www-form-urlencoded request body type.\n\n### Request Body\n- No parameters were provided in the last call to this request.\n\n### Response\n- Status: 200\n- Content-Type: application/json\n- The response body contains the following fields:\n    - `msg`: A message from the server.\n    - `token`: The authentication token for the logged-in user.\n    - `user`: Information about the logged-in user.\n\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Upload Title Basics",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "../data/csvdata/truncated_title.basics.tsv"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/admin/upload/titlebasics",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"admin",
+						"upload",
+						"titlebasics"
+					]
+				},
+				"description": "This endpoint allows administrators to upload title basics for the NTUAFlix API. The HTTP POST request should be made to [http://localhost:9876/ntuaflix_api/admin/upload/titlebasics](http://localhost:9876/ntuaflix_api/admin/upload/titlebasics) with form-data as the request body type.\n\n### Request Body\n\n- TSV file.\n    \n\n### Response\n\nUpon a successful execution, the API returns a status code of 200 with a response in JSON format. The response includes a \"status\" key, which indicates the status of the upload operation.\n\nExample Response:\n\n``` json\n{\n    \"status\": \"\"\n}\n\n ```"
+			},
+			"response": []
+		},
+		{
+			"name": "Upload Name Basics",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "multipart/form-data",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "../data/csvdata/truncated_name.basics.tsv"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/admin/upload/namebasics",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"admin",
+						"upload",
+						"namebasics"
+					]
+				},
+				"description": "\nThis endpoint allows administrators to upload name basics to the NTUAFlix API. The request should be sent via an HTTP POST method to the specified URL.\n\n### Request Body\nThe request should include a form-data body with the necessary parameters to upload the name basics.\n\n### Response\nUpon a successful execution, the API returns a JSON response with a status field indicating the outcome of the operation.\n\nExample:\n```json\n{\n    \"status\": \"\"\n}\n```\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Health Check",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/admin/healthcheck",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"admin",
+						"healthcheck"
+					]
+				},
+				"description": "\nThis endpoint is used to perform a health check for the admin interface of the NTUAFlix API. Upon successful execution, it returns a status code of 200 and a response in JSON format with the keys \"dataconnection\" and \"status\". The \"dataconnection\" key indicates the status of the data connection, while the \"status\" key provides additional status information.\n\n"
+			},
+			"response": []
+		},
+		{
+			"name": "ResetAll",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", () => {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/admin/resetall",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"admin",
+						"resetall"
+					]
+				},
+				"description": "\nThis endpoint triggers a reset action for all admin-related data in the NTUAFlix API. Upon successful execution, it returns a JSON response with a status key indicating the outcome of the reset operation.\n\nThe response will have a status code of 200, and the content type will be application/json. The response body will contain a status key with a corresponding value indicating the result of the reset operation.\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Logout",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 204\", () => {",
+							"    pm.response.to.have.status(204);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer {{token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:9876/ntuaflix_api/logout",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9876",
+					"path": [
+						"ntuaflix_api",
+						"logout"
+					]
+				},
+				"description": "This endpoint is used to log out the user from the NTUAflix API. Upon successful execution, it returns a status code of 204 and an empty JSON response."
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "string"
+		}
+	]
+}

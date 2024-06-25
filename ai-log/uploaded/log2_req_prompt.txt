@@ -1,0 +1,6 @@
+Prompt
+Can you help me design a UML class diagram for a service called NTUAFlix? It should include user login functionality and track seen movies.
+
+=============
+ChatGPT
+Certainly! For NTUAFlix, you'll need classes like User, Movie, IMDbAPI, and UserMovieHistory. The User class can have attributes like username, password, and methods such as login(), viewMovie(). The Movie class would include details fetched from IMDb, such as title, genre, rating, and a method like fetchInfoFromIMDb().

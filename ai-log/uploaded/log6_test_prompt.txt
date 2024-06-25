@@ -1,0 +1,74 @@
+Ηow to put postman script in Postman extension in VScode?
+
+
+
+===========================
+ChatGPT
+
+
+As of my last update in April 2023, directly integrating Postman scripts (like the ones used for API testing within Postman itself) into Visual Studio Code (VS Code) through an official Postman extension is not possible in the same way it is within the Postman app. Postman scripts are typically written in JavaScript and executed within the context of the Postman app, relying on the Postman Sandbox API (e.g., `pm.*` API) to interact with request and response data.
+
+However, for those looking to work with APIs in VS Code, there are alternative methods and extensions that can provide a similar experience, albeit with some differences in how tests are written and executed. Here are a few approaches:
+
+### 1. Use the REST Client Extension
+The REST Client extension for VS Code allows you to send HTTP requests and view responses directly within VS Code. While it doesn't support Postman's testing scripts directly, you can write simple tests in HTTP files.
+
+#### Example:
+After installing the REST Client extension, you can create a `.http` file and write requests like so:
+
+```http
+### Example Request
+GET https://api.example.com/users/1
+```
+
+For testing, REST Client supports basic response validations:
+
+```http
+GET https://api.example.com/status
+> {% client.global.set("myVariable", response.status); %}
+```
+
+However, this is more limited compared to Postman's scripting capabilities.
+
+### 2. Using the HTTPYAC Extension
+HTTPYAC (HTTP Yet Another Client) is another extension that allows you to send HTTP requests from VS Code. It supports more complex scripting and testing within `.http` files, using JavaScript for response handling and assertions.
+
+#### Example:
+
+```http
+GET https://api.example.com/users/1
+
+> {%
+  const response = await response.json();
+  assert(response.id === 1, "Expected user ID to be 1");
+%}
+```
+
+This script fetches a user and uses JavaScript to assert that the user ID is correct.
+
+### 3. Convert Postman Collections to Code
+Another approach is to use tools like Postman's own `newman` command-line collection runner in combination with Node.js scripts, or to convert Postman collections to code snippets that can be executed in VS Code using any HTTP request library (like `axios` for JavaScript).
+
+You can run Newman in VS Code's terminal or integrate it into a Node.js script:
+
+```bash
+newman run collection.json
+```
+
+And for Node.js scripts, you could use the `newman` package:
+
+```javascript
+const newman = require('newman');
+
+newman.run({
+    collection: require('./collection.json')
+}, function (err) {
+    if (err) { throw err; }
+    console.log('Collection run complete!');
+});
+```
+
+This script can be executed within VS Code, allowing you to utilize Postman collections for testing outside of Postman.
+
+### Conclusion
+While there's no direct way to use Postman scripts in VS Code as you would within Postman, these alternatives offer flexibility for working with APIs and performing tests in VS Code. Depending on your specific needs, you might find one of these approaches suitable for your workflow.

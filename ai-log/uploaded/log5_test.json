@@ -1,0 +1,19 @@
+{
+    "answers": {
+        "phase": "testing",
+        "action": "unit testing", 
+        "scope": "test execution scripts",
+        "action experience":  "little", 
+        "prog lang": "other",
+        "other prog lang": "bash",
+        "tool": "chat gpt 4.x", 
+        "other tool": "<fill in>",
+        "tool option": "full",
+        "tool experience": "master",
+        "time allocated (h)": "2",
+        "time saved estimate (h)": "1", 
+        "quality of ai help": "major modifications needed",
+        "generic feeling": "great as-is",
+        "notes": "<fill in>"
+    }
+}

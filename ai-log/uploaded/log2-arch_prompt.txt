@@ -1,0 +1,18 @@
+Prompt:
+What library to use for HTTP requests in React?
+
+=================================
+Github Copilot
+
+In React, you can use several libraries to make HTTP requests. You can use Axios.Axios is a promise-based HTTP client for the browser and Node.js. 
+It has a simple API and can be used to send asynchronous HTTP requests to REST endpoints.
+
+import axios from 'axios';
+
+axios.get('https://api.example.com/data')
+  .then(response => {
+    console.log(response.data);
+  })
+  .catch(error => {
+    console.error('Error', error);
+  });

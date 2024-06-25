@@ -1,0 +1,26 @@
+Prompt:
+
+What can I use for cli implementation of the backend if I want to use Python?
+
+
+
+=======================================================
+Github Copilot
+For CLI (Command Line Interface) implementation of the backend in Python, you can use libraries such as argparse, click, or fire.
+
+argparse: This is a standard library in Python used for writing user-friendly command-line interfaces. It generates help and usage messages and issues errors when users give the program invalid arguments.
+
+
+import argparse
+
+# Create the parser
+parser = argparse.ArgumentParser(description='A simple argparse program.')
+
+# Add the arguments
+parser.add_argument('Name', metavar='name', type=str, help='your name')
+parser.add_argument('Age', metavar='age', type=int, help='your age')
+
+# Execute the parse_args() method
+args = parser.parse_args()
+
+print(f"Hello {args.Name}, you are {args.Age} years old!")

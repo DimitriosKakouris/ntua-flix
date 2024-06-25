@@ -1,0 +1,20 @@
+ How to implement dynamic data-driven tests in Postman to validate varying response structures based on input parameters?
+
+
+ =====================
+ ChatGPT
+
+To implement dynamic data-driven tests in Postman that validate varying response structures based on input parameters, you can use Postman's Collection Runner or Newman with external data files (e.g., JSON, CSV) to run the same request multiple times with different data sets. In your test scripts, use conditions to assert different response structures based on the input parameters provided in each iteration.
+
+Example test script for dynamic validation:
+
+javascript
+
+let jsonData = pm.response.json();
+let inputData = pm.iterationData.toObject();
+
+if (inputData.type === "type1") {
+    pm.expect(jsonData).to.have.property('key1');
+} else if (inputData.type === "type2") {
+    pm.expect(jsonData).to.have.property('key2');
+}
