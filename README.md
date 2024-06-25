@@ -1,16 +1,12 @@
-<h2 align="center">NTUAflix</h2>
+## NTUA Software Engineering Course 2023-24 - ntuaflix project
 
-### Installation Instructions
+<h2 align=center> NTUAflix </h2>
 
-#### Step 1: Install Backend Packages and Node Modules
-Run the following command in your terminal:
+### To install backend packages and node-modules
 ```bash install.sh```
 
-####Step 2: Import MongoDB Database
-### Ensure MongoDB service is running, then execute:
+### For mongodb import of db (must have mongo service running)
 ```bash db.sh```
-
-
 
 ### Run the app:
 
@@ -19,17 +15,14 @@ Run the following command in your terminal:
 ``` python3 app.py ```
 
 2. Go to home directory:
-```bash
-cd ..
+``` cd .. ```
 
 3. Run front-end: <br />
 ``` cd front-end/ ```<br />
 ``` npm start ```
 
 ### You will be greeted in your browser by the login page, the front-end is running at:
-```bash 
-localhost:3000/ntuaflix_api```
-
+``` localhost:3000/ntuaflix_api ```
 
 
 
