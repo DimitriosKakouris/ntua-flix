@@ -5,7 +5,7 @@
 #### Step 1: Install Backend Packages and Node Modules
 Run the following command in your terminal:
 ```bash
-bash install.sh
+bash install.sh```
 
 ####Step 2: Import MongoDB Database
 ### Ensure MongoDB service is running, then execute:
