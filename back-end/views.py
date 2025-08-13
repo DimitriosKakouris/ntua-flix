@@ -71,7 +71,7 @@ from webbrowser import get
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZjc5YTc3NTY5NDUwYWNkMzFiZWExNzRkYjRkNWY5NyIsInN1YiI6IjY1YTJmMmEwMjY2Nzc4MDEyODY0MjEzMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.n_Z-N--N54d-bWuvwHqlzPgbSQwjNdG9pEszf1mAbSQ"
+    # "Authorization": "Put API KEY here"
 }
 
 
