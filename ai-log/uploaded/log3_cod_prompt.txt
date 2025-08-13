@@ -1,0 +1,31 @@
+The way i add the users results in password that is not hashed and the check_hash does not see the account as valid, how to handle?
+
+
+=====================================================
+Github Copilot
+
+
+To store hashed passwords, you can use the generate_password_hash function from the werkzeug.security module. When you're checking the password, you can use the check_password_hash function from the same module.
+
+Here's how you can modify your usermod function to store hashed passwords:
+@app.route('/admin/usermod/<username>/<password>',methods=['POST'])
+def usermod(username,password):
+    with app.app_context():
+        try:
+            user = collection_users.find_one({"username": username})
+            hashed_password = generate_password_hash(password)  # hash the password
+
+            if user is None:
+                collection_users.insert_one({"username":username,"password":hashed_password})
+                return jsonify({"status":"New user created"})
+            else:
+                collection_users.update_one({"username":username}, {"$set": {"password":hashed_password}})
+                return jsonify({"status":"Password changed"})
+            
+        except Exception as e:
+            return jsonify({"status":"error","message":str(e)})
+
+
+In this code, generate_password_hash(password) hashes the password. The hashed password is then stored in the database.
+
+When you're checking the password, you can use check_password_hash(user['password'], password). This function returns True if the password is correct and False otherwise.

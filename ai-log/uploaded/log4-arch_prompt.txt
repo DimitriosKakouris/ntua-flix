@@ -1,0 +1,50 @@
+Prompt
+
+How can i secure the admin access in backend from regular user?
+
+
+
+================================
+Github Copilot
+
+Securing admin access in the backend from regular users typically involves implementing role-based access control (RBAC). In RBAC, you assign roles to users and permissions to roles. Then, you check the user's role and permissions before allowing them to perform certain actions.
+
+Here's a simple example of how you might implement RBAC in a Python Flask application:
+
+from flask import Flask, request, jsonify, abort
+from flask_sqlalchemy import SQLAlchemy
+from werkzeug.security import generate_password_hash, check_password_hash
+from functools import wraps
+
+app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////mnt/c/Users/antho/Documents/api_example/todo.db'
+db = SQLAlchemy(app)
+
+# Define the User model with a role attribute
+class User(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(50), unique=True)
+    password = db.Column(db.String(50))
+    role = db.Column(db.String(50))  # 'admin' or 'user'
+
+# Define a decorator for routes that should only be accessible by admins
+def admin_required(f):
+    @wraps(f)
+    def decorated_function(*args, **kwargs):
+        # Get the logged in user
+        user = get_current_user()
+
+        # If the user's role is not 'admin', return a 403 error
+        if user.role != 'admin':
+            abort(403)
+
+        return f(*args, **kwargs)
+    return decorated_function
+
+@app.route('/admin/data', methods=['GET'])
+@admin_required
+def get_admin_data():
+    # This route is only accessible by admins
+    return jsonify({'message': 'Welcome, admin!'})
+
+# ...

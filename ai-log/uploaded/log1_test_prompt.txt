@@ -1,0 +1,76 @@
+Prompt:
+how to make a script with tests, to run in postman?
+
+
+============================
+ChatGPT:
+
+Creating a script with tests to run in Postman involves a few steps. Postman allows you to write pre-request scripts and tests in JavaScript for API requests. Here's a basic guide on how to do this:
+
+1. Setting Up Postman
+First, ensure you have Postman installed on your machine.
+Open Postman and create a new request or open an existing one.
+
+2. Writing Pre-request Scripts (Optional)
+Pre-request scripts are executed before the actual request is sent.
+
+Click on the "Pre-request Script" tab near the request pane.
+
+You can write JavaScript code here. For example, setting environment variables.
+
+
+pm.environment.set("variable_key", "value");
+
+3. Writing Tests
+Click on the "Tests" tab near the request pane.
+
+Write your tests in JavaScript. Postman provides the pm.test function to create test cases.
+
+
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Response time is less than 500ms", function () {
+    pm.expect(pm.response.responseTime).to.be.below(500);
+});
+
+pm.test("Body matches string", function () {
+    pm.expect(pm.response.text()).to.include("expected_string");
+});
+
+4. Running the Request
+Send the request by clicking the "Send" button.
+After the request completes, you can view the test results in the "Test Results" tab at the bottom.
+
+5. Using Collection Runner (For Multiple Requests)
+If you want to run tests across multiple requests, use the Collection Runner.
+Save your requests into a collection.
+Click on "Runner" at the bottom of the Postman window.
+Select the collection you want to run and configure the run settings.
+Click "Run [collection name]" to execute all requests in the collection with tests.
+
+6. Viewing Results
+The results of your tests will be displayed in the Collection Runner or in the "Test Results" tab.
+
+7. Saving and Sharing
+You can save your scripts and tests with your collection.
+Share your collection with others by exporting it or using Postman’s
+team collaboration features.
+
+Tips for Writing Effective Tests
+Test for Different Scenarios: Include tests for successful responses and error cases.
+Check Response Schema: Ensure that the response structure matches the expected schema.
+Dynamic Data Testing: Use variables and pre-request scripts to test with dynamic data.
+Organize Tests Logically: Group related tests together for better readability and maintenance.
+Debugging Tests
+Console Log: Use console.log() in your scripts to debug and print values in the Postman Console.
+Break Down Complex Tests: If a test is failing, break it down into smaller parts to isolate the issue.
+Advanced Usage
+Data-Driven Testing: Run collections with multiple data sets using Postman's data file feature.
+Mock Servers and Environments: Use Postman’s mock servers and environment variables for more complex testing scenarios.
+Integration with CI/CD Pipelines: You can integrate Postman with CI/CD tools like Jenkins for automated testing.
+Resources
+Postman Learning Center: Provides comprehensive guides and documentation.
+Postman Community and Support: Access forums and support for help with specific issues.
+By following these steps and tips, you can effectively create and run scripts with tests in Postman, allowing for efficient and thorough testing of your APIs.

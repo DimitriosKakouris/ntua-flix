@@ -1,0 +1,9 @@
+Prompt
+
+I need help in drafting a UML sequence diagram for a user login process in my application, including actors like User, LoginController, and Database.
+
+===========
+ChatGPT
+
+To create a UML sequence diagram for a user login process, you'll depict interactions between the User, LoginController, and Database. The process starts with the User sending login details, which are received by the LoginController. 
+The controller then validates these details with the Database. If the credentials are correct, the Database sends a confirmation back to the LoginController, which then allows the User to log in.
