@@ -14,3 +14,86 @@
         transform: translateY(0);
     }
 }
+
+/* Add this to your movielist.css file */
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Updated fadeIn animation - less aggressive */
+.fadeInFromBelow {
+    animation: fadeInFromBelow 0.8s ease-out forwards;
+    opacity: 0;
+}
+
+@keyframes fadeInFromBelow {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+.movie-card-loaded {
+    opacity: 1 !important;
+    display: block !important;
+    visibility: visible !important;
+}
+
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: #141715;
+}
+
+/* Skeleton loading styles */
+.skeleton-card {
+    width: 14.1rem;
+    margin: 2em;
+    border: 1px solid #333333;
+    border-radius: 3%;
+    box-shadow: 0 10px 10px 5px rgba(0,0,0,0.2);
+    background-color: #202020;
+}
+
+.skeleton-image {
+    height: 281.2px;
+    width: 224px;
+    background: linear-gradient(90deg, #2a2a2a 25%, #3a3a3a 50%, #2a2a2a 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+.skeleton-text {
+    height: 20px;
+    background: linear-gradient(90deg, #2a2a2a 25%, #3a3a3a 50%, #2a2a2a 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+    margin: 10px;
+    border-radius: 4px;
+}
+
+.skeleton-text.short {
+    width: 60%;
+}
+
+.skeleton-text.long {
+    width: 80%;
+}
+
+@keyframes loading {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}

@@ -71,60 +71,40 @@ from webbrowser import get
 
 headers = {
     "accept": "application/json",
-    # "Authorization": "Put API KEY here"
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZjc5YTc3NTY5NDUwYWNkMzFiZWExNzRkYjRkNWY5NyIsIm5iZiI6MTcwNTE3Nzc2MC41ODcwMDAxLCJzdWIiOiI2NWEyZjJhMDI2Njc3ODAxMjg2NDIxMzAiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.Tw3_vSxGb_0az8RtxCybMF5aKaTlUsDv6U4Tb8doHFQ"
 }
 
 
 
 def get_title(titleID):
     url_imdb = f"https://api.themoviedb.org/3/find/{titleID}?external_source=imdb_id"
+    id_moviedb = requests.get(url_imdb, headers=headers).json()
 
-    id_moviedb = requests.get(url_imdb,headers=headers)
+    # Try to get movie or TV show ID
+    movie_results = id_moviedb.get('movie_results', [])
+    tv_results = id_moviedb.get('tv_results', [])
 
-    id_moviedb = id_moviedb.json()
+    title_basics = {}
 
-    titleID= id_moviedb['movie_results'][0]['id']
-
-    url = f"https://api.themoviedb.org/3/movie/{titleID}?language=en-US"
-# Query the title_basics collection
-# title_basics = collection_title_basics.find_one({"tconst": titleID})
-
-    title_basics = requests.get(url, headers=headers)
-    title_basics = title_basics.json()
-# print(title_basics)
-# if not title_basics[0]:
-#     print("No movie results found for the given titleID")
-#     return jsonify({})
-
-
-# print(title_basics)
-# # Query the title_akas collection
-# title_akas = collection_title_akas.find({"titleId": titleID})
-
-# # Query the title_ratings collection
-# title_ratings = collection_title_ratings.find_one({"tconst": titleID})
+    if movie_results:
+        movie_id = movie_results[0]['id']
+        url_movie = f"https://api.themoviedb.org/3/movie/{movie_id}?language=en-US"
+        title_basics = requests.get(url_movie, headers=headers).json()
+    if tv_results:
+        tv_id = tv_results[0]['id']
+        url_tv = f"https://api.themoviedb.org/3/tv/{tv_id}?language=en-US"
+        tv_basics = requests.get(url_tv, headers=headers).json()
+        # Combine TV show info into title_basics (movie info takes precedence)
+        print(tv_basics)
+        title_basics.update(tv_basics)
 
 
-# if title_basics is not None:
-#     title_basics['id'] = str(title_basics['id'])
+    if title_basics.get('genres') not in [None, []]:
+        title_genre = title_basics.get('genres')[0].get('name')
+    else:
+        title_genre = "N/A"
 
-# # Query the title_akas collection
-# title_akas_cursor = collection_title_akas.find({"titleId": titleID},{"isOriginalTitle": 0})
-
-# # Convert the _id fields to strings
-# title_akas = []
-# for title in title_akas_cursor:
-#     title['_id'] = str(title['_id'])
-#     title_akas.append({"regionAbbrev": title.get('region'), "akatitle": title.get('title')})
-# title_akas = { "nvotes": title_ratings.get('vote_count')}
-
-# # Query the title_ratings collection
-# title_ratings = collection_title_ratings.find_one({"tconst": titleID})
-# if title_ratings is not None:
-#     title_ratings['_id'] = str(title_ratings['_id'])
-#
-    title_genre = title_basics.get('genres')[0].get('name')
-    title_ratings = { "avrating": title_basics.get('vote_average'), "nvotes": title_basics.get('vote_count')}
+    title_ratings = { "avrating": round(title_basics.get('vote_average'), 1), "nvotes": title_basics.get('vote_count') }
     print(title_basics)
     # Convert the results to JSON and return them
     return jsonify({
@@ -132,14 +112,3 @@ def get_title(titleID):
         "title_genre": title_genre,
         "title_ratings": title_ratings
     })
-
-
-# def get_user_by_id(user_id):
-#     # Query the users collection
-#     user = collection_name_test.find_one({"_id": user_id})
-
-#     # Convert the _id field to a string
-#     user['_id'] = str(user['_id'])
-
-#     # Return the results
-#     return user

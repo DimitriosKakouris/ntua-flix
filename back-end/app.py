@@ -65,7 +65,7 @@ def logout():
 
 headers = {
     "accept": "application/json",
-    # "Authorization": "Put API KEY here"
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZjc5YTc3NTY5NDUwYWNkMzFiZWExNzRkYjRkNWY5NyIsIm5iZiI6MTcwNTE3Nzc2MC41ODcwMDAxLCJzdWIiOiI2NWEyZjJhMDI2Njc3ODAxMjg2NDIxMzAiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.Tw3_vSxGb_0az8RtxCybMF5aKaTlUsDv6U4Tb8doHFQ"
 }
 
 
@@ -300,14 +300,26 @@ def search_title(titlepart):
 
     results = response.json()
     results = results['results']
-    print(len(results))
+    # print(len(results))
     results_final=[]
     for i in range(len(results)):
+        
         id=results[i].get('id')
+
+        # if results[i].get('media_type') != 'movie':
+        #     url = f"https://api.themoviedb.org/3/tv/{id}/external_ids"
+        #     response = requests.get(url, headers=headers)
+        # elif results[i].get('media_type') != 'tv':
         url = f"https://api.themoviedb.org/3/movie/{id}/external_ids"
         response = requests.get(url, headers=headers)
+        # else:
+        #     continue
         # print(response.json())
-        results_final.append(response.json().get('imdb_id'))
+        
+        imdb_id = response.json().get('imdb_id')
+        if imdb_id is None:
+            continue
+        results_final.append(imdb_id)
 
     print(results_final)
     # final_results={
