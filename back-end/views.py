@@ -13,7 +13,7 @@ from webbrowser import get
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZjc5YTc3NTY5NDUwYWNkMzFiZWExNzRkYjRkNWY5NyIsIm5iZiI6MTcwNTE3Nzc2MC41ODcwMDAxLCJzdWIiOiI2NWEyZjJhMDI2Njc3ODAxMjg2NDIxMzAiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.Tw3_vSxGb_0az8RtxCybMF5aKaTlUsDv6U4Tb8doHFQ"
+    "Authorization": "Bearer"
 }
 
 
