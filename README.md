@@ -47,7 +47,7 @@ bash db.sh
 
 ###
 <div align="center">
-  <img src="./front-end/src/images/loginscreen.png" alt="" width="600"/>
+  <img src="./front-end/src/images/profile.gif" alt="" width="600"/>
 </div>
 
 ## License
