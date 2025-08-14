@@ -4,7 +4,7 @@ import Bistar from 'bootstrap-icons/icons/star-fill.svg';
 import './movielist.css';
 import { useNavigate } from 'react-router-dom';
 
-function MovieList({ seenMoviesList, flag }) {
+function MovieList({ seenMoviesList, flag , gridnum}) {
     const [movies, setMovies] = useState([]);
     const [isLoading, setIsLoading] = useState(false);
     const navigate = useNavigate();
@@ -35,7 +35,7 @@ function MovieList({ seenMoviesList, flag }) {
                 const mappedData = {
                     id: data.title_basics.imdb_id,
                     title: data.title_basics.original_title,
-                    img: "http://image.tmdb.org/t/p/w500/" + data.title_basics.poster_path,
+                    img: "http://image.tmdb.org/t/p/w300/" + data.title_basics.poster_path,
                     genres: data.title_genre,
                     ratings: data.title_ratings.avrating,
                 };
@@ -86,7 +86,7 @@ function MovieList({ seenMoviesList, flag }) {
         }}>
             {isLoading ? (
                 // Show skeleton cards while loading
-                Array.from({ length: 8 }, (_, index) => (
+                Array.from({ length: gridnum}, (_, index) => (
                     <SkeletonCard key={`skeleton-${index}`} />
                 ))
             ) : (
@@ -104,7 +104,7 @@ function MovieList({ seenMoviesList, flag }) {
                         }}
                     >
                         <img
-                            src={movie.img !== "\\N" ? movie.img.replace('{width_variable}', 'w342') : placeholderImage}
+                            src={movie.img !== "\\N" ? movie.img.replace('{width_variable}', 'w300') : placeholderImage}
                             alt={movie.title}
                             style={{ height: "281.2px", width: "224px" }}
                         />

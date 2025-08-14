@@ -72,7 +72,7 @@ function Home() {
       <div className="Home" style={{'backgroundColor':'#393939', 'color':'white'}}>
         <MyNavbar userName={user} />
         {searchedMovies.length === 0 && <h4 style={{marginLeft:"3rem", marginTop:"1rem"}}>My Titles</h4>}
-        <MovieList seenMoviesList={filteredMoviesList} />
+        <MovieList seenMoviesList={filteredMoviesList} gridnum={8} />
       </div>
     );
 }

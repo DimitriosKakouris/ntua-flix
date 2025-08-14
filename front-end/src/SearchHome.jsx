@@ -46,7 +46,7 @@ function SearchResults() {
         <div className="SearchResults" style={{'backgroundColor':'#393939', 'color':'white'}}>
             <MyNavbar userName={user} />
             <h4 style={{marginLeft:"3rem", marginTop:"1rem"}}>Search Results for "{searchTerm}"</h4>
-            <MovieList seenMoviesList={searchedMovies} />
+            <MovieList seenMoviesList={searchedMovies} gridnum={8}/>
         </div>
     );
 }

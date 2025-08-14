@@ -19,8 +19,8 @@ function SelectedMovie() {
   const [showToastNot, setShowToastNot] = useState(false);
   const [flag, setFlag] = useState("");
   const [showDetails, setShowDetails] = useState(false); // New state for toggling details
-  const [actors, setActors] = useState([]);
-  const [crew, setCrew] = useState([]);
+  // const [actors, setActors] = useState([]);
+  // const [crew, setCrew] = useState([]);
   const { titleID } = useParams();
   const [moviedetails, setMovieDetails] = useState({});
 
@@ -49,16 +49,16 @@ function SelectedMovie() {
       ratings: data.rating ? data.rating.avrating : "n/a",
     };
 
-    if (movieDetails.type === "tvEpisode") {
-      const response = await axios.get(`/ntuaflix_api/tvepisode/${titleID}`);
-      const data = response.data;
-      console.log(data);
-      movieDetails = {
-        ...movieDetails,
-        season: data.season,
-        episode: data.episode,
-      };
-    }
+    // if (movieDetails.type === "tvEpisode") {
+    //   const response = await axios.get(`/ntuaflix_api/tvepisode/${titleID}`);
+    //   const data = response.data;
+    //   console.log(data);
+    //   movieDetails = {
+    //     ...movieDetails,
+    //     season: data.season,
+    //     episode: data.episode,
+    //   };
+    // }
 
     setMovieDetails(movieDetails);
   };
@@ -136,7 +136,7 @@ function SelectedMovie() {
         style={{ display: "flex", justifyContent: "space-between" }}
       >
         <div style={{ flex: "1" }}>
-          <MovieList seenMoviesList={[titleID]} />
+          <MovieList seenMoviesList={[titleID]} gridnum={1} />
         </div>
 
         <div
@@ -238,7 +238,7 @@ function SelectedMovie() {
         style={{ display: "flex", justifyContent: "space-between" }}
       >
         <div style={{ flex: "1" }}>
-          <MovieList seenMoviesList={[titleID]} />
+          <MovieList seenMoviesList={[titleID]} gridnum={1} />
         </div>
 
         
@@ -360,7 +360,7 @@ function SelectedMovie() {
           style={{ display: "flex", justifyContent: "space-between" }}
         >
           <div style={{ flex: "1" }}>
-            <MovieList seenMoviesList={[titleID]} />
+            <MovieList seenMoviesList={[titleID]} gridnum={1} />
           </div>
 
           <div
