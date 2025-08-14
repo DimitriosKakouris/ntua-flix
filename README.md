@@ -45,9 +45,9 @@ bash db.sh
 ### You will be greeted in your browser by the login page, the front-end is running at:
 ``` localhost:3000/ntuaflix_api ```
 
-
+###
 <div align="center">
-  <img src="./front-end/src/images/loginscreen.png" alt="" width="400"/>
+  <img src="./front-end/src/images/loginscreen.png" alt="" width="600"/>
 </div>
 
 ## License
