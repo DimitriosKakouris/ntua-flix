@@ -4,7 +4,7 @@
 # NTUAflix
 
 <div align="center">
-  <img src="./src/images/logohome.png" alt="" width="200"/>
+  <img src="./front-end/src/images/logohome.png" alt="" width="200"/>
 </div>
 
 ## About
