@@ -13,7 +13,7 @@ from webbrowser import get
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer"
+    #"Authorization": "Bearer <your_api_key>"
 }
 
 

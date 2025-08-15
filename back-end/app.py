@@ -65,7 +65,7 @@ def logout():
 
 headers = {
     "accept": "application/json",
-    "Authorization": f"Bearer "
+    #"Authorization": "Bearer <your_api_key>"
 }
 
 
