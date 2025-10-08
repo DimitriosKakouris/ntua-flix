@@ -12,6 +12,41 @@ Ntuaflix is a movie database platform that allows users to browse and search fil
 
 The project uses themoviedb API to fetch movie info, so you must obtain an API KEY from www.themoviedb.org to use the service.
 
+## Architecture
+
+```mermaid
+
+graph TD
+    subgraph Frontend
+        B[React JS Frontend<br/>Port: 3000<br/>Endpoint: /ntuaflix_api]
+    end
+    
+    subgraph Backend
+        C[Flask Backend<br/>Port: 8000]
+    end
+    
+    subgraph Database
+        D[MongoDB NoSQL<br/>Port: 27017]
+    end
+    
+    subgraph External
+        E[TheMovieDB API]
+    end
+    
+    subgraph Auth
+        F[JWT Authentication]
+    end
+    
+    B -->|HTTP Requests + JWT Token| C
+    C -->|Query/Update| D
+    E -.->|Movie Data| C
+    C -->|Verify Token| F
+    F -.->|Token Valid/Invalid| C
+
+```
+
+
+
 ## Features
 
 - Movie info 
